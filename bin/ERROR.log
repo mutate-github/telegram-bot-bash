@@ -1,0 +1,1 @@
+Sun Jul  2 05:10:28 2023: RESULT=false FUNC=sendJson (NAN) CHAT[ID]=Amazon|https://www.amazon.com ERROR=400 DESC=Bad Request: chat id not a number ACTION="text":"...", "reply_markup": {"inline_keyboard": [ [{"text":"Amazon", "url":"https://www.amazon.com

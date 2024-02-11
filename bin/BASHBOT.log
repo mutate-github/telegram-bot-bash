@@ -1,0 +1,4 @@
+Sun Jul  2 05:10:28 2023: sendJson (curl) CHAT="Amazon|https://www.amazon.com NAN", JSON={"chat_id":"Amazon|https://www.amazon.com NAN", "text":"...", "reply_markup": {"inline_keyboard": [  URL=sendMessage
+Sun Jul  2 05:11:06 2023: sendJson (curl) CHAT=376048411, JSON={"chat_id":376048411, "text":"Amazon|https://www.amazon.com", "reply_markup": {"inline_keyboard" URL=sendMessage
+Sun Jul  2 17:47:08 2023: sendJson (curl) CHAT=376048411, JSON={"chat_id":376048411, "text":"Amazon|https://www.amazon.com", "reply_markup": {"inline_keyboard" URL=sendMessage
+Sun Jul  2 17:48:34 2023: sendJson (curl) CHAT=376048411, JSON={"chat_id":376048411, "text":"msg", "reply_markup": {"inline_keyboard": [ [{"text":"Amazon", "url":" URL=sendMessage

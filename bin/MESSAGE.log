@@ -1,0 +1,75 @@
+
+Sun Jul  2 05:10:28 2023: DEBUG sendJson ==========
+["chat_id"]	"Amazon|https://www.amazon.com NAN"
+["text"]	"..."
+["reply_markup","inline_keyboard",0,0,"text"]	"Amazon"
+["reply_markup","inline_keyboard",0,0,"url"]	"https://www.amazon.com"
+
+Sun Jul  2 05:10:28 2023: New Result ==========
+["ok"]	false
+["error_code"]	400
+["description"]	"Bad Request: chat id not a number"
+
+Sun Jul  2 05:11:06 2023: DEBUG sendJson ==========
+["chat_id"]	376048411
+["text"]	"Amazon|https://www.amazon.com"
+
+Sun Jul  2 05:11:06 2023: New Result ==========
+["ok"]	true
+["result","message_id"]	187
+["result","from","id"]	6205889059
+["result","from","is_bot"]	true
+["result","from","first_name"]	"dba_almaty_bot"
+["result","from","username"]	"dba_almaty_bot"
+["result","chat","id"]	376048411
+["result","chat","first_name"]	"Talgat M"
+["result","chat","username"]	"M_Talgat"
+["result","chat","type"]	"private"
+["result","date"]	1688274666
+["result","text"]	"Amazon|https://www.amazon.com"
+["result","entities",0,"offset"]	7
+["result","entities",0,"length"]	22
+["result","entities",0,"type"]	"url"
+
+Sun Jul  2 17:47:08 2023: DEBUG sendJson ==========
+["chat_id"]	376048411
+["text"]	"Amazon|https://www.amazon.com"
+
+Sun Jul  2 17:47:09 2023: New Result ==========
+["ok"]	true
+["result","message_id"]	191
+["result","from","id"]	6205889059
+["result","from","is_bot"]	true
+["result","from","first_name"]	"dba_almaty_bot"
+["result","from","username"]	"dba_almaty_bot"
+["result","chat","id"]	376048411
+["result","chat","first_name"]	"Talgat M"
+["result","chat","username"]	"M_Talgat"
+["result","chat","type"]	"private"
+["result","date"]	1688320029
+["result","text"]	"Amazon|https://www.amazon.com"
+["result","entities",0,"offset"]	7
+["result","entities",0,"length"]	22
+["result","entities",0,"type"]	"url"
+
+Sun Jul  2 17:48:34 2023: DEBUG sendJson ==========
+["chat_id"]	376048411
+["text"]	"msg"
+["reply_markup","inline_keyboard",0,0,"text"]	"Amazon"
+["reply_markup","inline_keyboard",0,0,"url"]	"https://www.amazon.com"
+
+Sun Jul  2 17:48:34 2023: New Result ==========
+["ok"]	true
+["result","message_id"]	192
+["result","from","id"]	6205889059
+["result","from","is_bot"]	true
+["result","from","first_name"]	"dba_almaty_bot"
+["result","from","username"]	"dba_almaty_bot"
+["result","chat","id"]	376048411
+["result","chat","first_name"]	"Talgat M"
+["result","chat","username"]	"M_Talgat"
+["result","chat","type"]	"private"
+["result","date"]	1688320114
+["result","text"]	"msg"
+["result","reply_markup","inline_keyboard",0,0,"text"]	"Amazon"
+["result","reply_markup","inline_keyboard",0,0,"url"]	"https://www.amazon.com/"

@@ -1,0 +1,553 @@
+Thu Jun 29 06:21:53 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]=392354296 ERROR=400 DESC=Bad Request: chat not found ACTION="text":"Bot dba_almaty_bot polling mode started \.\.\."
+Thu Jun 29 06:27:33 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]=392354296 ERROR=400 DESC=Bad Request: chat not found ACTION="text":"message qweqweqweqwe"
+Thu Jun 29 06:27:54 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]=6205889059 ERROR=403 DESC=Forbidden: bot can't send messages to bots ACTION="text":"message qweqweqweqwe"
+Thu Jun 29 06:32:47 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]=392354296 ERROR=400 DESC=Bad Request: chat not found ACTION="text":"Bot dba_almaty_bot polling mode stopped \.\.\."
+Thu Jun 29 06:32:48 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]=392354296 ERROR=400 DESC=Bad Request: chat not found ACTION="text":"Bot dba_almaty_bot polling mode started \.\.\."
+Thu Jun 29 06:33:23 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]=392354296 ERROR=400 DESC=Bad Request: chat not found ACTION="text":"Bot dba_almaty_bot polling mode stopped \.\.\."
+Thu Jun 29 06:33:24 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]=392354296 ERROR=400 DESC=Bad Request: chat not found ACTION="text":"Bot dba_almaty_bot polling mode started \.\.\."
+Thu Jun 29 06:34:17 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]=392354296 ERROR=400 DESC=Bad Request: chat not found ACTION="text":"Bot dba_almaty_bot polling mode stopped \.\.\."
+Thu Jun 29 06:34:17 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]=392354296 ERROR=400 DESC=Bad Request: chat not found ACTION="text":"Bot dba_almaty_bot polling mode started \.\.\."
+Thu Jun 29 08:51:52 2023: Warning conflicting webhook set, can't get updates until your run delete_webhook! Sleep 1 min ...
+Sun Jul  2 04:22:06 2023: Warning conflicting webhook set, can't get updates until your run delete_webhook! Sleep 1 min ...
+Sun Jul  2 04:23:07 2023: Warning conflicting webhook set, can't get updates until your run delete_webhook! Sleep 2 min ...
+Sun Jul  2 04:25:07 2023: Warning conflicting webhook set, can't get updates until your run delete_webhook! Sleep 3 min ...
+Sun Jul  2 04:28:08 2023: Warning conflicting webhook set, can't get updates until your run delete_webhook! Sleep 4 min ...
+Sun Jul  2 04:32:09 2023: Warning conflicting webhook set, can't get updates until your run delete_webhook! Sleep 5 min ...
+Sun Jul  2 04:37:10 2023: Warning conflicting webhook set, can't get updates until your run delete_webhook! Sleep 6 min ...
+Sun Jul  2 04:43:13 2023: Warning conflicting webhook set, can't get updates until your run delete_webhook! Sleep 1 min ...
+Sun Jul  2 04:44:32 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]=392354296 ERROR=400 DESC=Bad Request: chat not found ACTION="text":"Bot dba_almaty_bot polling mode stopped \.\.\."
+Sun Jul  2 04:44:32 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]=392354296 ERROR=400 DESC=Bad Request: chat not found ACTION="text":"Bot dba_almaty_bot polling mode started \.\.\."
+Sun Jul  2 04:45:35 2023: Warning conflicting webhook set, can't get updates until your run delete_webhook! Sleep 1 min ...
+Mon Jul  3 03:53:31 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]=376048411 ERROR=400 DESC=Bad Request: chat member status can't be changed in private chats ACTION=
+Mon Jul  3 04:29:02 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]= ERROR=400 DESC=Bad Request: query is too old and response timeout expired or query ID is invalid ACTION="callback_query_id": "","text":""
+Mon Jul  3 04:38:01 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]=392354296 ERROR=400 DESC=Bad Request: chat not found ACTION="text":"Bot dba_almaty_bot polling mode started \.\.\."
+Mon Jul  3 04:38:08 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]=392354296 ERROR=400 DESC=Bad Request: chat not found ACTION="text":"Bot dba_almaty_bot polling mode started \.\.\."
+Mon Jul  3 04:39:17 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]=392354296 ERROR=400 DESC=Bad Request: chat not found ACTION="text":"Bot dba_almaty_bot polling mode started \.\.\."
+Mon Jul  3 04:40:36 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]=392354296 ERROR=400 DESC=Bad Request: chat not found ACTION="text":"Bot dba_almaty_bot polling mode started \.\.\."
+Mon Jul  3 04:41:55 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]=392354296 ERROR=400 DESC=Bad Request: chat not found ACTION="text":"Bot dba_almaty_bot polling mode started \.\.\."
+Mon Jul  3 04:42:38 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]=392354296 ERROR=400 DESC=Bad Request: chat not found ACTION="text":"Bot dba_almaty_bot polling mode started \.\.\."
+Mon Jul  3 04:43:38 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]=392354296 ERROR=400 DESC=Bad Request: chat not found ACTION="text":"Bot dba_almaty_bot polling mode started \.\.\."
+Mon Jul  3 04:46:14 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]=392354296 ERROR=400 DESC=Bad Request: chat not found ACTION="text":"Bot dba_almaty_bot polling mode stopped \.\.\."
+Mon Jul  3 04:46:14 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]=392354296 ERROR=400 DESC=Bad Request: chat not found ACTION="text":"Bot dba_almaty_bot polling mode started \.\.\."
+Mon Jul  3 04:47:09 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]=392354296 ERROR=400 DESC=Bad Request: chat not found ACTION="text":"Bot dba_almaty_bot polling mode started \.\.\."
+Mon Jul  3 04:47:12 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]=392354296 ERROR=400 DESC=Bad Request: chat not found ACTION="text":"Bot dba_almaty_bot polling mode started \.\.\."
+Mon Jul  3 04:47:37 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]=392354296 ERROR=400 DESC=Bad Request: chat not found ACTION="text":"Bot dba_almaty_bot polling mode started \.\.\."
+Mon Jul  3 04:47:40 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]=392354296 ERROR=400 DESC=Bad Request: chat not found ACTION="text":"Bot dba_almaty_bot polling mode started \.\.\."
+Mon Jul  3 04:47:54 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]=392354296 ERROR=400 DESC=Bad Request: chat not found ACTION="text":"Bot dba_almaty_bot polling mode started \.\.\."
+Mon Jul  3 05:02:47 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]=392354296 ERROR=400 DESC=Bad Request: chat not found ACTION="text":"Bot dba_almaty_bot polling mode stopped \.\.\."
+Mon Jul  3 05:02:48 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]=392354296 ERROR=400 DESC=Bad Request: chat not found ACTION="text":"Bot dba_almaty_bot polling mode started \.\.\."
+Mon Jul  3 05:06:21 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]=392354296 ERROR=400 DESC=Bad Request: chat not found ACTION="text":"Bot dba_almaty_bot polling mode started \.\.\."
+Mon Jul  3 05:06:23 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]=392354296 ERROR=400 DESC=Bad Request: chat not found ACTION="text":"Bot dba_almaty_bot polling mode started \.\.\."
+Mon Jul  3 05:06:57 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]=392354296 ERROR=400 DESC=Bad Request: chat not found ACTION="text":"Bot dba_almaty_bot polling mode started \.\.\."
+Mon Jul  3 05:06:59 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]=392354296 ERROR=400 DESC=Bad Request: chat not found ACTION="text":"Bot dba_almaty_bot polling mode started \.\.\."
+Mon Jul  3 05:07:14 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]=392354296 ERROR=400 DESC=Bad Request: chat not found ACTION="text":"Bot dba_almaty_bot polling mode started \.\.\."
+Mon Jul  3 05:07:16 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]=392354296 ERROR=400 DESC=Bad Request: chat not found ACTION="text":"Bot dba_almaty_bot polling mode started \.\.\."
+Mon Jul  3 05:07:50 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]=392354296 ERROR=400 DESC=Bad Request: chat not found ACTION="text":"Bot dba_almaty_bot polling mode started \.\.\."
+Mon Jul  3 05:09:39 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]=392354296 ERROR=400 DESC=Bad Request: chat not found ACTION="text":"Bot dba_almaty_bot polling mode started \.\.\."
+Mon Jul  3 05:09:46 2023: Warning conflicting webhook set, can't get updates until your run delete_webhook! Sleep 1 min ...
+Mon Jul  3 05:13:05 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]=392354296 ERROR=400 DESC=Bad Request: chat not found ACTION="text":"Bot dba_almaty_bot polling mode stopped \.\.\."
+Mon Jul  3 05:13:06 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]=392354296 ERROR=400 DESC=Bad Request: chat not found ACTION="text":"Bot dba_almaty_bot polling mode started \.\.\."
+Mon Jul  3 05:16:09 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]=392354296 ERROR=400 DESC=Bad Request: chat not found ACTION="text":"Bot dba_almaty_bot polling mode stopped \.\.\."
+Mon Jul  3 05:16:09 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]=392354296 ERROR=400 DESC=Bad Request: chat not found ACTION="text":"Bot dba_almaty_bot polling mode started \.\.\."
+Mon Jul  3 05:16:13 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]=392354296 ERROR=400 DESC=Bad Request: chat not found ACTION="text":"Bot dba_almaty_bot polling mode stopped \.\.\."
+Mon Jul  3 05:16:13 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]=392354296 ERROR=400 DESC=Bad Request: chat not found ACTION="text":"Bot dba_almaty_bot polling mode started \.\.\."
+Mon Jul  3 05:16:31 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]=392354296 ERROR=400 DESC=Bad Request: chat not found ACTION="text":"Bot dba_almaty_bot polling mode stopped \.\.\."
+Mon Jul  3 05:16:31 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]=392354296 ERROR=400 DESC=Bad Request: chat not found ACTION="text":"Bot dba_almaty_bot polling mode started \.\.\."
+Mon Jul  3 05:17:23 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]=392354296 ERROR=400 DESC=Bad Request: chat not found ACTION="text":"Bot dba_almaty_bot polling mode started \.\.\."
+Mon Jul  3 05:17:25 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]=392354296 ERROR=400 DESC=Bad Request: chat not found ACTION="text":"Bot dba_almaty_bot polling mode started \.\.\."
+Mon Jul  3 05:18:41 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]=392354296 ERROR=400 DESC=Bad Request: chat not found ACTION="text":"Bot dba_almaty_bot polling mode started \.\.\."
+Mon Jul  3 05:19:06 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]=392354296 ERROR=400 DESC=Bad Request: chat not found ACTION="text":"Bot dba_almaty_bot polling mode started \.\.\."
+Mon Jul  3 05:20:54 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]=392354296 ERROR=400 DESC=Bad Request: chat not found ACTION="text":"Bot dba_almaty_bot polling mode started \.\.\."
+Mon Jul  3 05:21:35 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]=392354296 ERROR=400 DESC=Bad Request: chat not found ACTION="text":"Bot dba_almaty_bot polling mode started \.\.\."
+Mon Jul  3 05:21:37 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]=392354296 ERROR=400 DESC=Bad Request: chat not found ACTION="text":"Bot dba_almaty_bot polling mode started \.\.\."
+Mon Jul  3 05:21:43 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]=392354296 ERROR=400 DESC=Bad Request: chat not found ACTION="text":"Bot dba_almaty_bot polling mode started \.\.\."
+Mon Jul  3 05:23:00 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]=392354296 ERROR=400 DESC=Bad Request: chat not found ACTION="text":"Bot dba_almaty_bot polling mode started \.\.\."
+Mon Jul  3 05:23:12 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]=392354296 ERROR=400 DESC=Bad Request: chat not found ACTION="text":"Bot dba_almaty_bot polling mode started \.\.\."
+Mon Jul  3 05:23:24 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]=392354296 ERROR=400 DESC=Bad Request: chat not found ACTION="text":"Bot dba_almaty_bot polling mode started \.\.\."
+Mon Jul  3 05:23:31 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]=392354296 ERROR=400 DESC=Bad Request: chat not found ACTION="text":"Bot dba_almaty_bot polling mode started \.\.\."
+Mon Jul  3 05:23:41 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]=392354296 ERROR=400 DESC=Bad Request: chat not found ACTION="text":"Bot dba_almaty_bot polling mode started \.\.\."
+Mon Jul  3 05:23:52 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]= ERROR=400 DESC=Bad Request: chat_id is empty ACTION="text":"Bot dba_almaty_bot polling mode started \.\.\."
+Mon Jul  3 05:25:25 2023: RESULT=false FUNC=sendJson (NAN) CHAT[ID]=6205889059:AAGQY9_yM7OtNy_P9fH6O0q1dT2ZOAuBQXI ERROR=400 DESC=Bad Request: chat id not a number ACTION="text":"Bot dba_almaty_bot polling mode started \.\.\."
+Mon Jul  3 05:26:24 2023: RESULT=false FUNC=sendJson (NAN) CHAT[ID]=? ERROR=400 DESC=Bad Request: chat id not a number ACTION="text":"Bot dba_almaty_bot polling mode started \.\.\."
+Mon Jul  3 05:26:27 2023: RESULT=false FUNC=sendJson (NAN) CHAT[ID]=? ERROR=400 DESC=Bad Request: chat id not a number ACTION="text":"Bot dba_almaty_bot polling mode started \.\.\."
+Mon Jul  3 05:26:40 2023: RESULT=false FUNC=sendJson (NAN) CHAT[ID]=? ERROR=400 DESC=Bad Request: chat id not a number ACTION="text":"Bot dba_almaty_bot polling mode started \.\.\."
+Mon Jul  3 05:26:56 2023: RESULT=false FUNC=sendJson (NAN) CHAT[ID]=? ERROR=400 DESC=Bad Request: chat id not a number ACTION="text":"Bot dba_almaty_bot polling mode started \.\.\."
+Mon Jul  3 05:26:58 2023: RESULT=false FUNC=sendJson (NAN) CHAT[ID]=? ERROR=400 DESC=Bad Request: chat id not a number ACTION="text":"Bot dba_almaty_bot polling mode started \.\.\."
+Mon Jul  3 05:27:06 2023: RESULT=false FUNC=sendJson (NAN) CHAT[ID]=? ERROR=400 DESC=Bad Request: chat id not a number ACTION="text":"Bot dba_almaty_bot polling mode started \.\.\."
+Mon Jul  3 05:27:59 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]=392354296 ERROR=400 DESC=Bad Request: chat not found ACTION="text":"Bot dba_almaty_bot polling mode started \.\.\."
+Mon Jul  3 06:09:18 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]=376048411 ERROR=400 DESC=Bad Request: message to edit not found ACTION="message_id":567, "reply_markup": {"inline_keyboard": [ [{"text":"button 1", "url":"http://rrr.de"},
+Mon Jul  3 06:09:19 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]=376048411 ERROR=400 DESC=Bad Request: message to edit not found ACTION="message_id":567, "reply_markup": {"inline_keyboard": [ [{"text":"Success edit_inline_buttons", "url
+Mon Jul  3 06:09:48 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]=376048411 ERROR=400 DESC=Bad Request: message to edit not found ACTION="message_id":567, "reply_markup": {"inline_keyboard": [ [{"text":"button 1", "url":"http://rrr.de"},
+Mon Jul  3 06:09:49 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]=376048411 ERROR=400 DESC=Bad Request: message to edit not found ACTION="message_id":567, "reply_markup": {"inline_keyboard": [ [{"text":"Success edit_inline_buttons", "url
+Mon Jul  3 06:10:31 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]=376048411 ERROR=400 DESC=Bad Request: message to edit not found ACTION="message_id":, "reply_markup": {"inline_keyboard": [ [{"text":"button 1", "url":"http://rrr.de"},{"t
+Mon Jul  3 06:10:31 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]=376048411 ERROR=400 DESC=Bad Request: message to edit not found ACTION="message_id":, "reply_markup": {"inline_keyboard": [ [{"text":"Success edit_inline_buttons", "url":"
+Mon Jul  3 06:12:22 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]=376048411 ERROR=400 DESC=Bad Request: message to edit not found ACTION="message_id":, "reply_markup": {"inline_keyboard": [ [{"text":"button 1", "url":"http://rrr.de"},{"t
+Mon Jul  3 06:12:22 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]=376048411 ERROR=400 DESC=Bad Request: message to edit not found ACTION="message_id":, "reply_markup": {"inline_keyboard": [ [{"text":"Success edit_inline_buttons", "url":"
+Mon Jul  3 06:12:48 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]=376048411 ERROR=400 DESC=Bad Request: message to edit not found ACTION="message_id":, "reply_markup": {"inline_keyboard": [ [{"text":"button 1", "url":"http://rrr.de"},{"t
+Mon Jul  3 06:12:48 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]=376048411 ERROR=400 DESC=Bad Request: message to edit not found ACTION="message_id":, "reply_markup": {"inline_keyboard": [ [{"text":"Success edit_inline_buttons", "url":"
+Mon Jul  3 06:21:27 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]=392354296 ERROR=400 DESC=Bad Request: chat not found ACTION="text":"Bot dba_almaty_bot polling mode started \.\.\."
+Mon Jul  3 06:21:30 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]=392354296 ERROR=400 DESC=Bad Request: chat not found ACTION="text":"Bot dba_almaty_bot polling mode started \.\.\."
+Mon Jul  3 06:21:41 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]=392354296 ERROR=400 DESC=Bad Request: chat not found ACTION="text":"Bot dba_almaty_bot polling mode started \.\.\."
+Mon Jul  3 06:22:02 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]=392354296 ERROR=400 DESC=Bad Request: chat not found ACTION="text":"Bot dba_almaty_bot polling mode started \.\.\."
+Mon Jul  3 06:22:04 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]=392354296 ERROR=400 DESC=Bad Request: chat not found ACTION="text":"Bot dba_almaty_bot polling mode started \.\.\."
+Mon Jul  3 06:22:30 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]= ERROR=400 DESC=Bad Request: chat_id is empty ACTION="text":"Bot dba_almaty_bot polling mode started \.\.\."
+Mon Jul  3 06:22:53 2023: RESULT=false FUNC=sendJson (NAN) CHAT[ID]=6205889059:AAGQY9_yM7OtNy_P9fH6O0q1dT2ZOAuBQXI ERROR=400 DESC=Bad Request: chat id not a number ACTION="text":"Bot dba_almaty_bot polling mode started \.\.\."
+Mon Jul  3 06:22:59 2023: RESULT=false FUNC=sendJson (NAN) CHAT[ID]=6205889059:AAGQY9_yM7OtNy_P9fH6O0q1dT2ZOAuBQXI ERROR=400 DESC=Bad Request: chat id not a number ACTION="text":"Bot dba_almaty_bot polling mode started \.\.\."
+Mon Jul  3 06:24:45 2023: RESULT=false FUNC=sendJson (NAN) CHAT[ID]=6205889059:AAGQY9_yM7OtNy_P9fH6O0q1dT2ZOAuBQXI ERROR=400 DESC=Bad Request: chat id not a number ACTION="text":"Bot dba_almaty_bot polling mode started \.\.\."
+Mon Jul  3 06:24:47 2023: RESULT=false FUNC=sendJson (NAN) CHAT[ID]=6205889059:AAGQY9_yM7OtNy_P9fH6O0q1dT2ZOAuBQXI ERROR=400 DESC=Bad Request: chat id not a number ACTION="text":"Bot dba_almaty_bot polling mode started \.\.\."
+Mon Jul  3 06:24:49 2023: RESULT=false FUNC=sendJson (NAN) CHAT[ID]=6205889059:AAGQY9_yM7OtNy_P9fH6O0q1dT2ZOAuBQXI ERROR=400 DESC=Bad Request: chat id not a number ACTION="text":"Bot dba_almaty_bot polling mode started \.\.\."
+Mon Jul  3 06:24:51 2023: RESULT=false FUNC=sendJson (NAN) CHAT[ID]=6205889059:AAGQY9_yM7OtNy_P9fH6O0q1dT2ZOAuBQXI ERROR=400 DESC=Bad Request: chat id not a number ACTION="text":"Bot dba_almaty_bot polling mode started \.\.\."
+Mon Jul  3 06:24:53 2023: RESULT=false FUNC=sendJson (NAN) CHAT[ID]=6205889059:AAGQY9_yM7OtNy_P9fH6O0q1dT2ZOAuBQXI ERROR=400 DESC=Bad Request: chat id not a number ACTION="text":"Bot dba_almaty_bot polling mode started \.\.\."
+Mon Jul  3 06:25:22 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]=392354296 ERROR=400 DESC=Bad Request: chat not found ACTION="text":"Bot dba_almaty_bot polling mode started \.\.\."
+Mon Jul  3 06:25:25 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]=392354296 ERROR=400 DESC=Bad Request: chat not found ACTION="text":"Bot dba_almaty_bot polling mode started \.\.\."
+Mon Jul  3 06:26:44 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]=392354296 ERROR=400 DESC=Bad Request: chat not found ACTION="text":"Bot dba_almaty_bot polling mode started \.\.\."
+Mon Jul  3 06:26:58 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]=392354296 ERROR=400 DESC=Bad Request: chat not found ACTION="text":"Bot dba_almaty_bot polling mode stopped \.\.\."
+Mon Jul  3 06:26:58 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]=392354296 ERROR=400 DESC=Bad Request: chat not found ACTION="text":"Bot dba_almaty_bot polling mode started \.\.\."
+Mon Jul  3 06:27:44 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]=392354296 ERROR=400 DESC=Bad Request: chat not found ACTION="text":"Bot dba_almaty_bot polling mode started \.\.\."
+Mon Jul  3 06:27:47 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]=392354296 ERROR=400 DESC=Bad Request: chat not found ACTION="text":"Bot dba_almaty_bot polling mode started \.\.\."
+Mon Jul  3 06:27:49 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]=392354296 ERROR=400 DESC=Bad Request: chat not found ACTION="text":"Bot dba_almaty_bot polling mode started \.\.\."
+Mon Jul  3 06:28:07 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]=392354296 ERROR=400 DESC=Bad Request: chat not found ACTION="text":"Bot dba_almaty_bot polling mode started \.\.\."
+Mon Jul  3 06:28:39 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]=392354388 ERROR=400 DESC=Bad Request: chat not found ACTION="text":"Bot dba_almaty_bot polling mode started \.\.\."
+Mon Jul  3 06:29:36 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]=392354296 ERROR=400 DESC=Bad Request: chat not found ACTION="text":"Bot dba_almaty_bot polling mode started \.\.\."
+Mon Jul  3 06:29:38 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]=392354296 ERROR=400 DESC=Bad Request: chat not found ACTION="text":"Bot dba_almaty_bot polling mode started \.\.\."
+Mon Jul  3 06:29:58 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]=392354296 ERROR=400 DESC=Bad Request: chat not found ACTION="text":"Bot dba_almaty_bot polling mode started \.\.\."
+Mon Jul  3 06:32:32 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]=392354296 ERROR=400 DESC=Bad Request: chat not found ACTION="text":"Bot dba_almaty_bot polling mode started \.\.\."
+Mon Jul  3 06:32:34 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]=392354296 ERROR=400 DESC=Bad Request: chat not found ACTION="text":"Bot dba_almaty_bot polling mode started \.\.\."
+Mon Jul  3 06:32:36 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]=392354296 ERROR=400 DESC=Bad Request: chat not found ACTION="text":"Bot dba_almaty_bot polling mode started \.\.\."
+Mon Jul  3 06:32:39 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]=392354296 ERROR=400 DESC=Bad Request: chat not found ACTION="text":"Bot dba_almaty_bot polling mode started \.\.\."
+Mon Jul  3 06:32:41 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]=392354296 ERROR=400 DESC=Bad Request: chat not found ACTION="text":"Bot dba_almaty_bot polling mode started \.\.\."
+Mon Jul  3 06:32:48 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]=392354296 ERROR=400 DESC=Bad Request: chat not found ACTION="text":"Bot dba_almaty_bot polling mode started \.\.\."
+Mon Jul  3 06:32:50 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]=392354296 ERROR=400 DESC=Bad Request: chat not found ACTION="text":"Bot dba_almaty_bot polling mode started \.\.\."
+Mon Jul  3 06:34:11 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]=392354296 ERROR=400 DESC=Bad Request: chat not found ACTION="text":"Bot dba_almaty_bot polling mode started \.\.\."
+Mon Jul  3 06:34:18 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]=392354296 ERROR=400 DESC=Bad Request: chat not found ACTION="text":"Bot dba_almaty_bot polling mode stopped \.\.\."
+Mon Jul  3 06:34:19 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]=392354296 ERROR=400 DESC=Bad Request: chat not found ACTION="text":"Bot dba_almaty_bot polling mode started \.\.\."
+Mon Jul  3 06:38:06 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]=392354296 ERROR=400 DESC=Bad Request: chat not found ACTION="text":"Bot dba_almaty_bot polling mode started \.\.\."
+Mon Jul  3 06:38:08 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]=392354296 ERROR=400 DESC=Bad Request: chat not found ACTION="text":"Bot dba_almaty_bot polling mode started \.\.\."
+Mon Jul  3 06:38:11 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]=392354296 ERROR=400 DESC=Bad Request: chat not found ACTION="text":"Bot dba_almaty_bot polling mode started \.\.\."
+Mon Jul  3 06:38:13 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]=392354296 ERROR=400 DESC=Bad Request: chat not found ACTION="text":"Bot dba_almaty_bot polling mode started \.\.\."
+Mon Jul  3 06:38:29 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]=392354296 ERROR=400 DESC=Bad Request: chat not found ACTION="text":"Bot dba_almaty_bot polling mode started \.\.\."
+Mon Jul  3 06:39:07 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]=392354296 ERROR=400 DESC=Bad Request: chat not found ACTION="text":"Bot dba_almaty_bot polling mode started \.\.\."
+Mon Jul  3 06:39:10 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]=392354296 ERROR=400 DESC=Bad Request: chat not found ACTION="text":"Bot dba_almaty_bot polling mode started \.\.\."
+Mon Jul  3 06:39:12 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]=392354296 ERROR=400 DESC=Bad Request: chat not found ACTION="text":"Bot dba_almaty_bot polling mode started \.\.\."
+Mon Jul  3 06:40:13 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]=392354296 ERROR=400 DESC=Bad Request: chat not found ACTION="text":"Bot dba_almaty_bot polling mode started \.\.\."
+Mon Jul  3 06:44:48 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]=392354296 ERROR=400 DESC=Bad Request: chat not found ACTION="text":"Bot dba_almaty_bot polling mode started \.\.\."
+Mon Jul  3 06:49:42 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]=392354296 ERROR=400 DESC=Bad Request: chat not found ACTION="text":"Bot dba_almaty_bot polling mode started \.\.\."
+Mon Jul  3 06:49:44 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]=392354296 ERROR=400 DESC=Bad Request: chat not found ACTION="text":"Bot dba_almaty_bot polling mode started \.\.\."
+Mon Jul  3 06:51:28 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]=392354296 ERROR=400 DESC=Bad Request: chat not found ACTION="text":"Bot dba_almaty_bot polling mode started \.\.\."
+Mon Jul  3 06:51:31 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]=392354296 ERROR=400 DESC=Bad Request: chat not found ACTION="text":"Bot dba_almaty_bot polling mode started \.\.\."
+Mon Jul  3 06:51:35 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]=392354296 ERROR=400 DESC=Bad Request: chat not found ACTION="text":"Bot dba_almaty_bot polling mode started \.\.\."
+Mon Jul  3 06:53:13 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]=392354296 ERROR=400 DESC=Bad Request: chat not found ACTION="text":"Bot dba_almaty_bot polling mode started \.\.\."
+Mon Jul  3 06:53:16 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]=392354296 ERROR=400 DESC=Bad Request: chat not found ACTION="text":"Bot dba_almaty_bot polling mode started \.\.\."
+Mon Jul  3 09:11:21 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]=392354296 ERROR=400 DESC=Bad Request: chat not found ACTION="text":"Bot dba_almaty_bot polling mode started \.\.\."
+Mon Jul  3 09:12:29 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]=392354296 ERROR=400 DESC=Bad Request: chat not found ACTION="text":"Bot dba_almaty_bot polling mode started \.\.\."
+Mon Jul  3 09:12:32 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]=392354296 ERROR=400 DESC=Bad Request: chat not found ACTION="text":"Bot dba_almaty_bot polling mode started \.\.\."
+Mon Jul  3 09:12:34 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]=392354296 ERROR=400 DESC=Bad Request: chat not found ACTION="text":"Bot dba_almaty_bot polling mode started \.\.\."
+Mon Jul  3 09:12:36 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]=392354296 ERROR=400 DESC=Bad Request: chat not found ACTION="text":"Bot dba_almaty_bot polling mode started \.\.\."
+Mon Jul  3 09:13:56 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]=392354463 ERROR=400 DESC=Bad Request: chat not found ACTION="text":"Bot dba_almaty_bot polling mode started \.\.\."
+Mon Jul  3 09:13:58 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]=392354463 ERROR=400 DESC=Bad Request: chat not found ACTION="text":"Bot dba_almaty_bot polling mode started \.\.\."
+Mon Jul  3 09:14:30 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]=392354463 ERROR=400 DESC=Bad Request: chat not found ACTION="text":"Bot dba_almaty_bot polling mode started \.\.\."
+Mon Jul  3 09:14:41 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]=392354463 ERROR=400 DESC=Bad Request: chat not found ACTION="text":"Bot dba_almaty_bot polling mode started \.\.\."
+Mon Jul  3 09:15:31 2023: Warning conflicting webhook set, can't get updates until your run delete_webhook! Sleep 1 min ...
+Mon Jul  3 09:17:05 2023: Warning conflicting webhook set, can't get updates until your run delete_webhook! Sleep 1 min ...
+Mon Jul  3 10:07:24 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]=392354296 ERROR=400 DESC=Bad Request: chat not found ACTION="text":"Bot dba_almaty_bot polling mode started \.\.\."
+Mon Jul  3 10:07:29 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]=392354296 ERROR=400 DESC=Bad Request: chat not found ACTION="text":"Bot dba_almaty_bot polling mode stopped \.\.\."
+Mon Jul  3 10:07:30 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]=392354296 ERROR=400 DESC=Bad Request: chat not found ACTION="text":"Bot dba_almaty_bot polling mode started \.\.\."
+Mon Jul  3 10:08:11 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]=392354296 ERROR=400 DESC=Bad Request: chat not found ACTION="text":"Bot dba_almaty_bot polling mode stopped \.\.\."
+Mon Jul  3 10:08:11 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]=392354296 ERROR=400 DESC=Bad Request: chat not found ACTION="text":"Bot dba_almaty_bot polling mode started \.\.\."
+Mon Jul  3 10:21:13 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]=392354296 ERROR=400 DESC=Bad Request: chat not found ACTION="text":"Bot dba_almaty_bot polling mode started \.\.\."
+Mon Jul  3 10:21:15 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]=392354296 ERROR=400 DESC=Bad Request: chat not found ACTION="text":"Bot dba_almaty_bot polling mode started \.\.\."
+Mon Jul  3 10:21:25 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]=392354296 ERROR=400 DESC=Bad Request: chat not found ACTION="text":"Bot dba_almaty_bot polling mode started \.\.\."
+Mon Jul  3 10:21:27 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]=392354296 ERROR=400 DESC=Bad Request: chat not found ACTION="text":"Bot dba_almaty_bot polling mode started \.\.\."
+Mon Jul  3 10:21:39 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]=392354296 ERROR=400 DESC=Bad Request: chat not found ACTION="text":"Bot dba_almaty_bot polling mode started \.\.\."
+Mon Jul  3 10:22:10 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]=392354296 ERROR=400 DESC=Bad Request: chat not found ACTION="text":"Bot dba_almaty_bot polling mode started \.\.\."
+Mon Jul  3 10:23:09 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]=392354296 ERROR=400 DESC=Bad Request: chat not found ACTION="text":"Bot dba_almaty_bot polling mode started \.\.\."
+Mon Jul  3 10:23:11 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]=392354296 ERROR=400 DESC=Bad Request: chat not found ACTION="text":"Bot dba_almaty_bot polling mode started \.\.\."
+Mon Jul  3 10:23:42 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]=392354296 ERROR=400 DESC=Bad Request: chat not found ACTION="text":"Bot dba_almaty_bot polling mode started \.\.\."
+Mon Jul  3 10:23:45 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]=392354296 ERROR=400 DESC=Bad Request: chat not found ACTION="text":"Bot dba_almaty_bot polling mode started \.\.\."
+Mon Jul  3 10:25:16 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]=392354296 ERROR=400 DESC=Bad Request: chat not found ACTION="text":"Bot dba_almaty_bot polling mode started \.\.\."
+Mon Jul  3 10:25:18 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]=392354296 ERROR=400 DESC=Bad Request: chat not found ACTION="text":"Bot dba_almaty_bot polling mode started \.\.\."
+Mon Jul  3 10:25:20 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]=392354296 ERROR=400 DESC=Bad Request: chat not found ACTION="text":"Bot dba_almaty_bot polling mode started \.\.\."
+Mon Jul  3 10:26:03 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]=392354296 ERROR=400 DESC=Bad Request: chat not found ACTION="text":"Bot dba_almaty_bot polling mode started \.\.\."
+Mon Jul  3 10:26:06 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]=392354296 ERROR=400 DESC=Bad Request: chat not found ACTION="text":"Bot dba_almaty_bot polling mode started \.\.\."
+Mon Jul  3 10:26:36 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]=392354296 ERROR=400 DESC=Bad Request: chat not found ACTION="text":"Bot dba_almaty_bot polling mode started \.\.\."
+Mon Jul  3 10:26:42 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]=392354296 ERROR=400 DESC=Bad Request: chat not found ACTION="text":"Bot dba_almaty_bot polling mode started \.\.\."
+Mon Jul  3 10:29:20 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]=392354296 ERROR=400 DESC=Bad Request: chat not found ACTION="text":"Bot dba_almaty_bot polling mode started \.\.\."
+Mon Jul  3 10:29:22 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]=392354296 ERROR=400 DESC=Bad Request: chat not found ACTION="text":"Bot dba_almaty_bot polling mode started \.\.\."
+Tue Jul  4 04:19:11 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]=392354296 ERROR=400 DESC=Bad Request: chat not found ACTION="text":"Bot dba_almaty_bot polling mode started \.\.\."
+Tue Jul  4 04:19:13 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]=392354296 ERROR=400 DESC=Bad Request: chat not found ACTION="text":"Bot dba_almaty_bot polling mode started \.\.\."
+Tue Jul  4 05:44:55 2023: Warning conflicting webhook set, can't get updates until your run delete_webhook! Sleep 1 min ...
+Tue Jul  4 05:45:55 2023: Warning conflicting webhook set, can't get updates until your run delete_webhook! Sleep 2 min ...
+Tue Jul  4 05:47:56 2023: Warning conflicting webhook set, can't get updates until your run delete_webhook! Sleep 3 min ...
+Tue Jul  4 05:50:57 2023: Warning conflicting webhook set, can't get updates until your run delete_webhook! Sleep 4 min ...
+Tue Jul  4 05:54:58 2023: Warning conflicting webhook set, can't get updates until your run delete_webhook! Sleep 5 min ...
+Tue Jul  4 05:59:59 2023: Warning conflicting webhook set, can't get updates until your run delete_webhook! Sleep 6 min ...
+Tue Jul  4 06:06:00 2023: Warning conflicting webhook set, can't get updates until your run delete_webhook! Sleep 7 min ...
+Tue Jul  4 06:13:02 2023: Warning conflicting webhook set, can't get updates until your run delete_webhook! Sleep 8 min ...
+Tue Jul  4 06:21:04 2023: Warning conflicting webhook set, can't get updates until your run delete_webhook! Sleep 9 min ...
+Tue Jul  4 06:30:05 2023: Warning conflicting webhook set, can't get updates until your run delete_webhook! Sleep 10 min ...
+Tue Jul  4 06:40:08 2023: Warning conflicting webhook set, can't get updates until your run delete_webhook! Sleep 11 min ...
+Tue Jul  4 06:51:10 2023: Warning conflicting webhook set, can't get updates until your run delete_webhook! Sleep 12 min ...
+Tue Jul  4 07:03:13 2023: Warning conflicting webhook set, can't get updates until your run delete_webhook! Sleep 13 min ...
+Tue Jul  4 07:16:15 2023: Warning conflicting webhook set, can't get updates until your run delete_webhook! Sleep 14 min ...
+Tue Jul  4 07:30:18 2023: Warning conflicting webhook set, can't get updates until your run delete_webhook! Sleep 15 min ...
+Tue Jul  4 07:45:21 2023: Warning conflicting webhook set, can't get updates until your run delete_webhook! Sleep 16 min ...
+Tue Jul  4 08:01:25 2023: Warning conflicting webhook set, can't get updates until your run delete_webhook! Sleep 17 min ...
+Tue Jul  4 08:18:28 2023: Warning conflicting webhook set, can't get updates until your run delete_webhook! Sleep 18 min ...
+Tue Jul  4 08:36:32 2023: Warning conflicting webhook set, can't get updates until your run delete_webhook! Sleep 19 min ...
+Tue Jul  4 08:55:36 2023: Warning conflicting webhook set, can't get updates until your run delete_webhook! Sleep 20 min ...
+Tue Jul  4 09:15:40 2023: Warning conflicting webhook set, can't get updates until your run delete_webhook! Sleep 21 min ...
+Tue Jul  4 09:36:44 2023: Warning conflicting webhook set, can't get updates until your run delete_webhook! Sleep 22 min ...
+Tue Jul  4 09:58:49 2023: Warning conflicting webhook set, can't get updates until your run delete_webhook! Sleep 23 min ...
+Tue Jul  4 10:21:54 2023: Warning conflicting webhook set, can't get updates until your run delete_webhook! Sleep 24 min ...
+Tue Jul  4 10:45:59 2023: Warning conflicting webhook set, can't get updates until your run delete_webhook! Sleep 25 min ...
+Tue Jul  4 11:11:04 2023: Warning conflicting webhook set, can't get updates until your run delete_webhook! Sleep 25 min ...
+Tue Jul  4 11:36:09 2023: Warning conflicting webhook set, can't get updates until your run delete_webhook! Sleep 25 min ...
+Tue Jul  4 12:01:14 2023: Warning conflicting webhook set, can't get updates until your run delete_webhook! Sleep 25 min ...
+Tue Jul  4 12:26:19 2023: Warning conflicting webhook set, can't get updates until your run delete_webhook! Sleep 25 min ...
+Tue Jul  4 12:51:24 2023: Warning conflicting webhook set, can't get updates until your run delete_webhook! Sleep 25 min ...
+Tue Jul  4 13:16:29 2023: Warning conflicting webhook set, can't get updates until your run delete_webhook! Sleep 25 min ...
+Tue Jul  4 13:41:35 2023: Warning conflicting webhook set, can't get updates until your run delete_webhook! Sleep 25 min ...
+Tue Jul  4 14:06:40 2023: Warning conflicting webhook set, can't get updates until your run delete_webhook! Sleep 25 min ...
+Tue Jul  4 14:31:45 2023: Warning conflicting webhook set, can't get updates until your run delete_webhook! Sleep 25 min ...
+Tue Jul  4 14:56:50 2023: Warning conflicting webhook set, can't get updates until your run delete_webhook! Sleep 25 min ...
+Tue Jul  4 15:21:55 2023: Warning conflicting webhook set, can't get updates until your run delete_webhook! Sleep 25 min ...
+Tue Jul  4 15:47:00 2023: Warning conflicting webhook set, can't get updates until your run delete_webhook! Sleep 25 min ...
+Tue Jul  4 16:12:06 2023: Warning conflicting webhook set, can't get updates until your run delete_webhook! Sleep 25 min ...
+Tue Jul  4 16:37:11 2023: Warning conflicting webhook set, can't get updates until your run delete_webhook! Sleep 25 min ...
+Tue Jul  4 17:02:16 2023: Warning conflicting webhook set, can't get updates until your run delete_webhook! Sleep 25 min ...
+Tue Jul  4 17:27:21 2023: Warning conflicting webhook set, can't get updates until your run delete_webhook! Sleep 25 min ...
+Tue Jul  4 17:52:26 2023: Warning conflicting webhook set, can't get updates until your run delete_webhook! Sleep 25 min ...
+Tue Jul  4 18:17:31 2023: Warning conflicting webhook set, can't get updates until your run delete_webhook! Sleep 25 min ...
+Tue Jul  4 18:42:36 2023: Warning conflicting webhook set, can't get updates until your run delete_webhook! Sleep 25 min ...
+Tue Jul  4 19:07:42 2023: Warning conflicting webhook set, can't get updates until your run delete_webhook! Sleep 25 min ...
+Tue Jul  4 19:32:47 2023: Warning conflicting webhook set, can't get updates until your run delete_webhook! Sleep 25 min ...
+Tue Jul  4 19:57:52 2023: Warning conflicting webhook set, can't get updates until your run delete_webhook! Sleep 25 min ...
+Tue Jul  4 20:22:57 2023: Warning conflicting webhook set, can't get updates until your run delete_webhook! Sleep 25 min ...
+Tue Jul  4 20:48:03 2023: Warning conflicting webhook set, can't get updates until your run delete_webhook! Sleep 25 min ...
+Tue Jul  4 21:13:08 2023: Warning conflicting webhook set, can't get updates until your run delete_webhook! Sleep 25 min ...
+Tue Jul  4 21:38:13 2023: Warning conflicting webhook set, can't get updates until your run delete_webhook! Sleep 25 min ...
+Tue Jul  4 22:03:18 2023: Warning conflicting webhook set, can't get updates until your run delete_webhook! Sleep 25 min ...
+Tue Jul  4 22:28:23 2023: Warning conflicting webhook set, can't get updates until your run delete_webhook! Sleep 25 min ...
+Tue Jul  4 22:53:28 2023: Warning conflicting webhook set, can't get updates until your run delete_webhook! Sleep 25 min ...
+Tue Jul  4 23:18:34 2023: Warning conflicting webhook set, can't get updates until your run delete_webhook! Sleep 25 min ...
+Tue Jul  4 23:43:39 2023: Warning conflicting webhook set, can't get updates until your run delete_webhook! Sleep 25 min ...
+Wed Jul  5 00:08:44 2023: Warning conflicting webhook set, can't get updates until your run delete_webhook! Sleep 25 min ...
+Wed Jul  5 00:33:49 2023: Warning conflicting webhook set, can't get updates until your run delete_webhook! Sleep 25 min ...
+Wed Jul  5 00:58:54 2023: Warning conflicting webhook set, can't get updates until your run delete_webhook! Sleep 25 min ...
+Wed Jul  5 01:23:59 2023: Warning conflicting webhook set, can't get updates until your run delete_webhook! Sleep 25 min ...
+Wed Jul  5 01:49:04 2023: Warning conflicting webhook set, can't get updates until your run delete_webhook! Sleep 25 min ...
+Wed Jul  5 02:14:10 2023: Warning conflicting webhook set, can't get updates until your run delete_webhook! Sleep 25 min ...
+Wed Jul  5 02:39:15 2023: Warning conflicting webhook set, can't get updates until your run delete_webhook! Sleep 25 min ...
+Wed Jul  5 03:04:20 2023: Warning conflicting webhook set, can't get updates until your run delete_webhook! Sleep 25 min ...
+Wed Jul  5 03:29:25 2023: Warning conflicting webhook set, can't get updates until your run delete_webhook! Sleep 25 min ...
+Wed Jul  5 03:54:30 2023: Warning conflicting webhook set, can't get updates until your run delete_webhook! Sleep 25 min ...
+Wed Jul  5 04:19:35 2023: Warning conflicting webhook set, can't get updates until your run delete_webhook! Sleep 25 min ...
+Wed Jul  5 04:44:40 2023: Warning conflicting webhook set, can't get updates until your run delete_webhook! Sleep 25 min ...
+Wed Jul  5 05:09:46 2023: Warning conflicting webhook set, can't get updates until your run delete_webhook! Sleep 25 min ...
+Wed Jul  5 05:34:51 2023: Warning conflicting webhook set, can't get updates until your run delete_webhook! Sleep 25 min ...
+Wed Jul  5 05:59:56 2023: Warning conflicting webhook set, can't get updates until your run delete_webhook! Sleep 25 min ...
+Wed Jul  5 06:25:01 2023: Warning conflicting webhook set, can't get updates until your run delete_webhook! Sleep 25 min ...
+Wed Jul  5 06:50:06 2023: Warning conflicting webhook set, can't get updates until your run delete_webhook! Sleep 25 min ...
+Wed Jul  5 07:15:11 2023: Warning conflicting webhook set, can't get updates until your run delete_webhook! Sleep 25 min ...
+Wed Jul  5 07:40:16 2023: Warning conflicting webhook set, can't get updates until your run delete_webhook! Sleep 25 min ...
+Wed Jul  5 08:05:22 2023: Warning conflicting webhook set, can't get updates until your run delete_webhook! Sleep 25 min ...
+Wed Jul  5 08:30:27 2023: Warning conflicting webhook set, can't get updates until your run delete_webhook! Sleep 25 min ...
+Wed Jul  5 08:55:32 2023: Warning conflicting webhook set, can't get updates until your run delete_webhook! Sleep 25 min ...
+Wed Jul  5 09:20:37 2023: Warning conflicting webhook set, can't get updates until your run delete_webhook! Sleep 25 min ...
+Wed Jul  5 09:45:42 2023: Warning conflicting webhook set, can't get updates until your run delete_webhook! Sleep 25 min ...
+Wed Jul  5 10:10:47 2023: Warning conflicting webhook set, can't get updates until your run delete_webhook! Sleep 25 min ...
+Wed Jul  5 10:35:52 2023: Warning conflicting webhook set, can't get updates until your run delete_webhook! Sleep 25 min ...
+Wed Jul  5 10:55:48 2023: Warning conflicting webhook set, can't get updates until your run delete_webhook! Sleep 1 min ...
+Wed Jul  5 10:56:48 2023: Warning conflicting webhook set, can't get updates until your run delete_webhook! Sleep 2 min ...
+Wed Jul  5 10:58:49 2023: Warning conflicting webhook set, can't get updates until your run delete_webhook! Sleep 3 min ...
+Wed Jul  5 10:59:15 2023: Warning conflicting webhook set, can't get updates until your run delete_webhook! Sleep 1 min ...
+Wed Jul  5 11:00:15 2023: Warning conflicting webhook set, can't get updates until your run delete_webhook! Sleep 2 min ...
+Wed Jul  5 11:01:21 2023: Warning conflicting webhook set, can't get updates until your run delete_webhook! Sleep 1 min ...
+Wed Jul  5 11:02:14 2023: Warning conflicting webhook set, can't get updates until your run delete_webhook! Sleep 1 min ...
+Wed Jul  5 11:03:56 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]=392354296 ERROR=400 DESC=Bad Request: chat not found ACTION="text":"Bot dba_almaty_bot polling mode started \.\.\."
+Wed Jul  5 11:03:56 2023: Warning conflicting webhook set, can't get updates until your run delete_webhook! Sleep 1 min ...
+Wed Jul  5 11:04:57 2023: Warning conflicting webhook set, can't get updates until your run delete_webhook! Sleep 2 min ...
+Wed Jul  5 11:06:57 2023: Warning conflicting webhook set, can't get updates until your run delete_webhook! Sleep 3 min ...
+Wed Jul  5 11:08:28 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]=392354296 ERROR=400 DESC=Bad Request: chat not found ACTION="text":"Bot dba_almaty_bot polling mode stopped \.\.\."
+Wed Jul  5 11:08:28 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]=392354296 ERROR=400 DESC=Bad Request: chat not found ACTION="text":"Bot dba_almaty_bot polling mode started \.\.\."
+Wed Jul  5 11:09:21 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]=392354296 ERROR=400 DESC=Bad Request: chat not found ACTION="text":"Bot dba_almaty_bot polling mode stopped \.\.\."
+Wed Jul  5 11:09:22 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]=392354296 ERROR=400 DESC=Bad Request: chat not found ACTION="text":"Bot dba_almaty_bot polling mode started \.\.\."
+Wed Jul  5 11:09:46 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]=392354296 ERROR=400 DESC=Bad Request: chat not found ACTION="text":"Bot dba_almaty_bot polling mode started \.\.\."
+Wed Jul  5 11:11:26 2023: RESULT=false FUNC=sendJson (NAN) CHAT[ID]=6205889059:AAGQY9_yM7OtNy_P9fH6O0q1dT2ZOAuBQXI ERROR=400 DESC=Bad Request: chat id not a number ACTION="text":"Bot dba_almaty_bot polling mode started \.\.\."
+Wed Jul  5 11:11:37 2023: RESULT=false FUNC=sendJson (NAN) CHAT[ID]=6205889059:AAGQY9_yM7OtNy_P9fH6O0q1dT2ZOAuBQXI ERROR=400 DESC=Bad Request: chat id not a number ACTION="text":"Bot dba_almaty_bot polling mode started \.\.\."
+Wed Jul  5 11:12:33 2023: RESULT=false FUNC=sendJson (NAN) CHAT[ID]=? ERROR=400 DESC=Bad Request: chat id not a number ACTION="text":"Bot dba_almaty_bot polling mode started \.\.\."
+Wed Jul  5 11:14:30 2023: RESULT=false FUNC=sendJson (NAN) CHAT[ID]=? ERROR=400 DESC=Bad Request: chat id not a number ACTION="text":"Bot dba_almaty_bot polling mode started \.\.\."
+Wed Jul  5 11:14:33 2023: RESULT=false FUNC=sendJson (NAN) CHAT[ID]=? ERROR=400 DESC=Bad Request: chat id not a number ACTION="text":"Bot dba_almaty_bot polling mode started \.\.\."
+Wed Jul  5 11:15:28 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]=392354529 ERROR=400 DESC=Bad Request: chat not found ACTION="text":"Bot dba_almaty_bot polling mode started \.\.\."
+Wed Jul  5 11:15:30 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]=392354529 ERROR=400 DESC=Bad Request: chat not found ACTION="text":"Bot dba_almaty_bot polling mode started \.\.\."
+Wed Jul  5 11:15:37 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]=392354529 ERROR=400 DESC=Bad Request: chat not found ACTION="text":"Bot dba_almaty_bot polling mode started \.\.\."
+Wed Jul  5 11:16:05 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]=392354529 ERROR=400 DESC=Bad Request: chat not found ACTION="text":"Bot dba_almaty_bot polling mode stopped \.\.\."
+Wed Jul  5 11:16:06 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]=392354529 ERROR=400 DESC=Bad Request: chat not found ACTION="text":"Bot dba_almaty_bot polling mode started \.\.\."
+Wed Jul  5 11:20:07 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]=392354529 ERROR=400 DESC=Bad Request: chat not found ACTION="text":"Bot dba_almaty_bot polling mode stopped \.\.\."
+Wed Jul  5 11:20:08 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]=392354529 ERROR=400 DESC=Bad Request: chat not found ACTION="text":"Bot dba_almaty_bot polling mode started \.\.\."
+Wed Jul  5 11:23:37 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]=392354529 ERROR=400 DESC=Bad Request: chat not found ACTION="text":"Bot dba_almaty_bot polling mode started \.\.\."
+Wed Jul  5 11:23:37 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]= ERROR=400 DESC=Bad Request: query is too old and response timeout expired or query ID is invalid ACTION="callback_query_id": "1615115628266048611","text":"Button pressed"
+Wed Jul  5 11:23:39 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]=392354529 ERROR=400 DESC=Bad Request: chat not found ACTION="text":"Bot dba_almaty_bot polling mode started \.\.\."
+Wed Jul  5 11:23:40 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]= ERROR=400 DESC=Bad Request: query is too old and response timeout expired or query ID is invalid ACTION="callback_query_id": "1615115628266048611","text":"Button pressed"
+Wed Jul  5 11:23:50 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]=392354529 ERROR=400 DESC=Bad Request: chat not found ACTION="text":"Bot dba_almaty_bot polling mode started \.\.\."
+Wed Jul  5 11:23:50 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]= ERROR=400 DESC=Bad Request: query is too old and response timeout expired or query ID is invalid ACTION="callback_query_id": "1615115628266048611","text":"Button pressed"
+Wed Jul  5 11:24:16 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]= ERROR=400 DESC=Bad Request: query is too old and response timeout expired or query ID is invalid ACTION="callback_query_id": "1615115628266048611","text":"Button pressed"
+Wed Jul  5 11:24:18 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]= ERROR=400 DESC=Bad Request: query is too old and response timeout expired or query ID is invalid ACTION="callback_query_id": "1615115628266048611","text":"Button pressed"
+Wed Jul  5 11:24:26 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]= ERROR=400 DESC=Bad Request: query is too old and response timeout expired or query ID is invalid ACTION="callback_query_id": "1615115628266048611","text":"Button pressed"
+Wed Jul  5 11:25:08 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]= ERROR=400 DESC=Bad Request: query is too old and response timeout expired or query ID is invalid ACTION="callback_query_id": "1615115628266048611","text":"Button pressed"
+Wed Jul  5 11:28:32 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]= ERROR=400 DESC=Bad Request: chat_id is empty ACTION="text":"1\-\-\-  \- 376048411 \- 376048411 \- RANDOM\-BUTTON \- 1"
+Wed Jul  5 11:28:32 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]= ERROR=400 DESC=Bad Request: chat_id is empty ACTION="text":"2\-\-\-  \- 376048411 \- 376048411 \- RANDOM\-BUTTON \- 1"
+Wed Jul  5 11:28:51 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]= ERROR=400 DESC=Bad Request: chat_id is empty ACTION="text":"1\-\-\-  \- 376048411 \- 376048411 \- RANDOM\-BUTTON \- 1"
+Wed Jul  5 11:28:51 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]= ERROR=400 DESC=Bad Request: query is too old and response timeout expired or query ID is invalid ACTION="callback_query_id": "1615115630966278756","text":"Button pressed"
+Wed Jul  5 11:28:51 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]= ERROR=400 DESC=Bad Request: chat_id is empty ACTION="text":"2\-\-\-  \- 376048411 \- 376048411 \- RANDOM\-BUTTON \- 1"
+Wed Jul  5 11:28:56 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]= ERROR=400 DESC=Bad Request: chat_id is empty ACTION="text":"1\-\-\-  \- 376048411 \- 376048411 \- RANDOM\-BUTTON \- 1"
+Wed Jul  5 11:28:56 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]= ERROR=400 DESC=Bad Request: query is too old and response timeout expired or query ID is invalid ACTION="callback_query_id": "1615115630966278756","text":"Button pressed"
+Wed Jul  5 11:28:56 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]= ERROR=400 DESC=Bad Request: chat_id is empty ACTION="text":"2\-\-\-  \- 376048411 \- 376048411 \- RANDOM\-BUTTON \- 1"
+Wed Jul  5 11:28:58 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]= ERROR=400 DESC=Bad Request: chat_id is empty ACTION="text":"1\-\-\-  \- 376048411 \- 376048411 \- RANDOM\-BUTTON \- 1"
+Wed Jul  5 11:28:59 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]= ERROR=400 DESC=Bad Request: query is too old and response timeout expired or query ID is invalid ACTION="callback_query_id": "1615115630966278756","text":"Button pressed"
+Wed Jul  5 11:28:59 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]= ERROR=400 DESC=Bad Request: chat_id is empty ACTION="text":"2\-\-\-  \- 376048411 \- 376048411 \- RANDOM\-BUTTON \- 1"
+Wed Jul  5 11:29:46 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]= ERROR=400 DESC=Bad Request: chat_id is empty ACTION="text":"0\-\-\-  \- 376048411 \- 376048411 \- RANDOM\-BUTTON \- 1"
+Wed Jul  5 11:29:46 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]= ERROR=400 DESC=Bad Request: chat_id is empty ACTION="text":"00\-\-\-  \- 376048411 \- 376048411 \- RANDOM\-BUTTON \- 1"
+Wed Jul  5 11:29:46 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]= ERROR=400 DESC=Bad Request: chat_id is empty ACTION="text":"1\-\-\-  \- 376048411 \- 376048411 \- RANDOM\-BUTTON \- 1"
+Wed Jul  5 11:29:47 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]= ERROR=400 DESC=Bad Request: query is too old and response timeout expired or query ID is invalid ACTION="callback_query_id": "1615115630966278756","text":"Button pressed"
+Wed Jul  5 11:29:47 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]= ERROR=400 DESC=Bad Request: chat_id is empty ACTION="text":"2\-\-\-  \- 376048411 \- 376048411 \- RANDOM\-BUTTON \- 1"
+Wed Jul  5 11:30:18 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]= ERROR=400 DESC=Bad Request: chat_id is empty ACTION="text":"0\-\-\-  \- 376048411 \- 376048411 \- RANDOM\-BUTTON \- 1"
+Wed Jul  5 11:30:18 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]= ERROR=400 DESC=Bad Request: chat_id is empty ACTION="text":"00\-\-\-  \- 376048411 \- 376048411 \- RANDOM\-BUTTON \- 1"
+Wed Jul  5 11:30:18 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]= ERROR=400 DESC=Bad Request: chat_id is empty ACTION="text":"1\-\-\-  \- 376048411 \- 376048411 \- RANDOM\-BUTTON \- 1"
+Wed Jul  5 11:30:18 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]= ERROR=400 DESC=Bad Request: query is too old and response timeout expired or query ID is invalid ACTION="callback_query_id": "1615115630966278756","text":"Button pressed"
+Wed Jul  5 11:30:19 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]= ERROR=400 DESC=Bad Request: chat_id is empty ACTION="text":"2\-\-\-  \- 376048411 \- 376048411 \- RANDOM\-BUTTON \- 1"
+Wed Jul  5 11:30:42 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]= ERROR=400 DESC=Bad Request: chat_id is empty ACTION="text":"0\-\-\-  \- 376048411 \- 376048411 \- RANDOM\-BUTTON \- 1"
+Wed Jul  5 11:30:43 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]= ERROR=400 DESC=Bad Request: chat_id is empty ACTION="text":"00\-\-\-  \- 376048411 \- 376048411 \- RANDOM\-BUTTON \- 1"
+Wed Jul  5 11:30:43 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]= ERROR=400 DESC=Bad Request: query is too old and response timeout expired or query ID is invalid ACTION="callback_query_id": "1615115630966278756","text":"Button pressed"
+Wed Jul  5 11:30:57 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]= ERROR=400 DESC=Bad Request: query is too old and response timeout expired or query ID is invalid ACTION="callback_query_id": "1615115630966278756","text":"Button pressed"
+Wed Jul  5 11:30:59 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]= ERROR=400 DESC=Bad Request: query is too old and response timeout expired or query ID is invalid ACTION="callback_query_id": "1615115630966278756","text":"Button pressed"
+Wed Jul  5 11:31:54 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]= ERROR=400 DESC=Bad Request: chat_id is empty ACTION="text":"0\-\-\-   \- 376048411 \- 376048411 \- RANDOM\-BUTTON \- 1"
+Wed Jul  5 11:31:54 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]= ERROR=400 DESC=Bad Request: chat_id is empty ACTION="text":"00\-\-\-   \- 376048411 \- 376048411 \- RANDOM\-BUTTON \- 1"
+Wed Jul  5 11:33:36 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]= ERROR=400 DESC=Bad Request: chat_id is empty ACTION="text":"0\-\-\-   \- 376048411 \- 376048411 \- RANDOM\-BUTTON \- 1"
+Wed Jul  5 11:33:36 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]= ERROR=400 DESC=Bad Request: query is too old and response timeout expired or query ID is invalid ACTION="callback_query_id": "1615115628914769847","text":"Button pressed"
+Wed Jul  5 11:33:39 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]= ERROR=400 DESC=Bad Request: chat_id is empty ACTION="text":"0\-\-\-   \- 376048411 \- 376048411 \- RANDOM\-BUTTON \- 1"
+Wed Jul  5 11:33:40 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]= ERROR=400 DESC=Bad Request: query is too old and response timeout expired or query ID is invalid ACTION="callback_query_id": "1615115628914769847","text":"Button pressed"
+Wed Jul  5 11:33:43 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]= ERROR=400 DESC=Bad Request: chat_id is empty ACTION="text":"0\-\-\-   \- 376048411 \- 376048411 \- RANDOM\-BUTTON \- 1"
+Wed Jul  5 11:33:43 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]= ERROR=400 DESC=Bad Request: query is too old and response timeout expired or query ID is invalid ACTION="callback_query_id": "1615115628914769847","text":"Button pressed"
+Wed Jul  5 11:33:47 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]= ERROR=400 DESC=Bad Request: chat_id is empty ACTION="text":"0\-\-\-   \- 376048411 \- 376048411 \- RANDOM\-BUTTON \- 1"
+Wed Jul  5 11:33:48 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]= ERROR=400 DESC=Bad Request: query is too old and response timeout expired or query ID is invalid ACTION="callback_query_id": "1615115628914769847","text":"Button pressed"
+Wed Jul  5 11:33:52 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]= ERROR=400 DESC=Bad Request: chat_id is empty ACTION="text":"0\-\-\-   \- 376048411 \- 376048411 \- RANDOM\-BUTTON \- 1"
+Wed Jul  5 11:33:52 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]= ERROR=400 DESC=Bad Request: query is too old and response timeout expired or query ID is invalid ACTION="callback_query_id": "1615115628914769847","text":"Button pressed"
+Wed Jul  5 11:33:55 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]= ERROR=400 DESC=Bad Request: chat_id is empty ACTION="text":"0\-\-\-   \- 376048411 \- 376048411 \- RANDOM\-BUTTON \- 1"
+Wed Jul  5 11:33:56 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]= ERROR=400 DESC=Bad Request: query is too old and response timeout expired or query ID is invalid ACTION="callback_query_id": "1615115628914769847","text":"Button pressed"
+Wed Jul  5 11:33:58 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]= ERROR=400 DESC=Bad Request: chat_id is empty ACTION="text":"0\-\-\-   \- 376048411 \- 376048411 \- RANDOM\-BUTTON \- 1"
+Wed Jul  5 11:33:58 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]= ERROR=400 DESC=Bad Request: query is too old and response timeout expired or query ID is invalid ACTION="callback_query_id": "1615115628914769847","text":"Button pressed"
+Wed Jul  5 11:34:57 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]= ERROR=400 DESC=Bad Request: chat_id is empty ACTION="text":"0\-\-\-   \- 376048411 \- 376048411 \- RANDOM\-BUTTON \- 1"
+Thu Jul  6 03:57:21 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]= ERROR=400 DESC=Bad Request: query is too old and response timeout expired or query ID is invalid ACTION="callback_query_id": "1615115627857339805","text":"Button pressed"
+Thu Jul  6 03:59:10 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]= ERROR=400 DESC=Bad Request: query is too old and response timeout expired or query ID is invalid ACTION="callback_query_id": "1615115627857339805","text":"Button pressed"
+Thu Jul  6 04:02:41 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]= ERROR=400 DESC=Bad Request: query is too old and response timeout expired or query ID is invalid ACTION="callback_query_id": "1615115628671922412","text":"Button pressed"
+Thu Jul  6 04:03:37 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]= ERROR=400 DESC=Bad Request: query is too old and response timeout expired or query ID is invalid ACTION="callback_query_id": "1615115628671922412","text":"Button pressed"
+Thu Jul  6 04:03:42 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]= ERROR=400 DESC=Bad Request: query is too old and response timeout expired or query ID is invalid ACTION="callback_query_id": "1615115628671922412","text":"Button pressed"
+Thu Jul  6 04:03:45 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]= ERROR=400 DESC=Bad Request: query is too old and response timeout expired or query ID is invalid ACTION="callback_query_id": "1615115628671922412","text":"Button pressed"
+Thu Jul  6 04:03:48 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]= ERROR=400 DESC=Bad Request: query is too old and response timeout expired or query ID is invalid ACTION="callback_query_id": "1615115628671922412","text":"Button pressed"
+Thu Jul  6 04:05:48 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]= ERROR=400 DESC=Bad Request: query is too old and response timeout expired or query ID is invalid ACTION="callback_query_id": "1615115629075082334","text":"Button pressed"
+Thu Jul  6 04:05:56 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]= ERROR=400 DESC=Bad Request: query is too old and response timeout expired or query ID is invalid ACTION="callback_query_id": "1615115629075082334","text":"Button pressed"
+Thu Jul  6 04:06:04 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]= ERROR=400 DESC=Bad Request: query is too old and response timeout expired or query ID is invalid ACTION="callback_query_id": "1615115629075082334","text":"Button pressed"
+Thu Jul  6 04:06:43 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]= ERROR=400 DESC=Bad Request: query is too old and response timeout expired or query ID is invalid ACTION="callback_query_id": "1615115629075082334","text":"Button pressed"
+Thu Jul  6 04:10:31 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]= ERROR=400 DESC=Bad Request: query is too old and response timeout expired or query ID is invalid ACTION="callback_query_id": "1615115629115697565","text":"Button pressed"
+Thu Jul  6 04:12:09 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]= ERROR=400 DESC=Bad Request: query is too old and response timeout expired or query ID is invalid ACTION="callback_query_id": "1615115629115697565","text":"Button pressed"
+Thu Jul  6 04:12:24 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]= ERROR=400 DESC=Bad Request: query is too old and response timeout expired or query ID is invalid ACTION="callback_query_id": "1615115629115697565","text":"Button pressed"
+Thu Jul  6 04:12:32 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]= ERROR=400 DESC=Bad Request: query is too old and response timeout expired or query ID is invalid ACTION="callback_query_id": "1615115629115697565","text":"Button pressed"
+Thu Jul  6 04:12:40 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]= ERROR=400 DESC=Bad Request: query is too old and response timeout expired or query ID is invalid ACTION="callback_query_id": "1615115629115697565","text":"Button pressed"
+Thu Jul  6 04:16:23 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]= ERROR=400 DESC=Bad Request: query is too old and response timeout expired or query ID is invalid ACTION="callback_query_id": "1615115627343596684","text":"Button pressed"
+Thu Jul  6 04:16:38 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]= ERROR=400 DESC=Bad Request: query is too old and response timeout expired or query ID is invalid ACTION="callback_query_id": "1615115627343596684","text":"Button pressed"
+Thu Jul  6 04:16:58 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]= ERROR=400 DESC=Bad Request: query is too old and response timeout expired or query ID is invalid ACTION="callback_query_id": "1615115627343596684","text":"Button pressed"
+Thu Jul  6 04:17:04 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]= ERROR=400 DESC=Bad Request: query is too old and response timeout expired or query ID is invalid ACTION="callback_query_id": "1615115627343596684","text":"Button pressed"
+Thu Jul  6 04:28:00 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]= ERROR=400 DESC=Bad Request: query is too old and response timeout expired or query ID is invalid ACTION="callback_query_id": "1615115630253986846","text":"Button pressed"
+Thu Jul  6 04:28:30 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]= ERROR=400 DESC=Bad Request: query is too old and response timeout expired or query ID is invalid ACTION="callback_query_id": "1615115630253986846","text":"Button pressed"
+Thu Jul  6 04:33:53 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]= ERROR=400 DESC=Bad Request: query is too old and response timeout expired or query ID is invalid ACTION="callback_query_id": "1615115627081636012","text":"Button pressed"
+Thu Jul  6 04:45:37 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]= ERROR=400 DESC=Bad Request: query is too old and response timeout expired or query ID is invalid ACTION="callback_query_id": "1615115627222363679","text":"Button pressed"
+Thu Jul  6 04:50:46 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]= ERROR=400 DESC=Bad Request: query is too old and response timeout expired or query ID is invalid ACTION="callback_query_id": "1615115627492989739","text":"Button pressed"
+Thu Jul  6 04:56:34 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]= ERROR=400 DESC=Bad Request: query is too old and response timeout expired or query ID is invalid ACTION="callback_query_id": "1615115631055095597","text":"Button pressed"
+Thu Jul  6 05:21:01 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]= ERROR=400 DESC=Bad Request: query is too old and response timeout expired or query ID is invalid ACTION="callback_query_id": "1615115630739958911","text":"Button_pressed"
+Thu Jul  6 05:21:08 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]= ERROR=400 DESC=Bad Request: query is too old and response timeout expired or query ID is invalid ACTION="callback_query_id": "1615115630739958911","text":"Button_pressed"
+Thu Jul  6 05:21:16 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]= ERROR=400 DESC=Bad Request: query is too old and response timeout expired or query ID is invalid ACTION="callback_query_id": "1615115630739958911","text":"Button_pressed"
+Thu Jul  6 05:27:03 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]= ERROR=400 DESC=Bad Request: query is too old and response timeout expired or query ID is invalid ACTION="callback_query_id": "1615115630811706812","text":"Button_pressed"
+Thu Jul  6 05:27:16 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]= ERROR=400 DESC=Bad Request: query is too old and response timeout expired or query ID is invalid ACTION="callback_query_id": "1615115630811706812","text":"Button_pressed"
+Thu Jul  6 05:27:28 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]= ERROR=400 DESC=Bad Request: query is too old and response timeout expired or query ID is invalid ACTION="callback_query_id": "1615115630811706812","text":"Button_pressed"
+Thu Jul  6 05:28:35 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]= ERROR=400 DESC=Bad Request: query is too old and response timeout expired or query ID is invalid ACTION="callback_query_id": "1615115630811706812","text":"Button_pressed"
+Thu Jul  6 05:28:41 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]= ERROR=400 DESC=Bad Request: query is too old and response timeout expired or query ID is invalid ACTION="callback_query_id": "1615115630811706812","text":"Button_pressed"
+Thu Jul  6 05:30:03 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]= ERROR=400 DESC=Bad Request: query is too old and response timeout expired or query ID is invalid ACTION="callback_query_id": "1615115630582392931","text":"Button_pressed"
+Thu Jul  6 05:30:09 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]= ERROR=400 DESC=Bad Request: query is too old and response timeout expired or query ID is invalid ACTION="callback_query_id": "1615115630582392931","text":"Button_pressed"
+Thu Jul  6 05:30:18 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]= ERROR=400 DESC=Bad Request: query is too old and response timeout expired or query ID is invalid ACTION="callback_query_id": "1615115630582392931","text":"Button_pressed"
+Thu Jul  6 05:31:01 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]= ERROR=400 DESC=Bad Request: query is too old and response timeout expired or query ID is invalid ACTION="callback_query_id": "1615115630582392931","text":"Button_pressed"
+Thu Jul  6 05:31:20 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]= ERROR=400 DESC=Bad Request: query is too old and response timeout expired or query ID is invalid ACTION="callback_query_id": "1615115630582392931","text":"Button_pressed"
+Thu Jul  6 05:31:29 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]= ERROR=400 DESC=Bad Request: query is too old and response timeout expired or query ID is invalid ACTION="callback_query_id": "1615115630582392931","text":"Button_pressed"
+Thu Jul  6 05:31:45 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]= ERROR=400 DESC=Bad Request: query is too old and response timeout expired or query ID is invalid ACTION="callback_query_id": "1615115630582392931","text":"Button_pressed"
+Thu Jul  6 05:54:39 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]= ERROR=400 DESC=Bad Request: query is too old and response timeout expired or query ID is invalid ACTION="callback_query_id": "1615115630199819099","text":"Button_pressed"
+Thu Jul  6 05:55:06 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]= ERROR=400 DESC=Bad Request: query is too old and response timeout expired or query ID is invalid ACTION="callback_query_id": "1615115630199819099","text":"Button_pressed"
+Thu Jul  6 06:03:02 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]= ERROR=400 DESC=Bad Request: query is too old and response timeout expired or query ID is invalid ACTION="callback_query_id": "1615115629034705122","text":""
+Thu Jul  6 06:03:09 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]= ERROR=400 DESC=Bad Request: query is too old and response timeout expired or query ID is invalid ACTION="callback_query_id": "1615115629034705122","text":""
+Thu Jul  6 06:09:03 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]= ERROR=400 DESC=Bad Request: query is too old and response timeout expired or query ID is invalid ACTION="callback_query_id": "1615115629254772443","text":"Button_pressed"
+Thu Jul  6 06:09:48 2023: RESULT=false FUNC=sendJson (curl) CHAT[ID]= ERROR=400 DESC=Bad Request: query is too old and response timeout expired or query ID is invalid ACTION="callback_query_id": "1615115629254772443","text":"Button_pressed"
+Sun Aug  6 04:41:31 2023: Repeated timeout/broken/no connection on telegram update, sleep 20s
+Sun Aug  6 04:41:51 2023: Recovered from timeout/broken/no connection, continue with telegram updates
+Mon Aug 28 01:11:52 2023: Repeated timeout/broken/no connection on telegram update, sleep 20s
+Mon Aug 28 01:12:12 2023: Recovered from timeout/broken/no connection, continue with telegram updates
+Wed Aug 30 01:11:40 2023: Repeated timeout/broken/no connection on telegram update, sleep 20s
+Wed Aug 30 01:12:00 2023: Recovered from timeout/broken/no connection, continue with telegram updates
+Sat Sep  9 05:07:24 2023: Repeated timeout/broken/no connection on telegram update, sleep 20s
+Sat Sep  9 05:07:44 2023: Recovered from timeout/broken/no connection, continue with telegram updates
+Sat Sep  9 05:09:19 2023: Repeated timeout/broken/no connection on telegram update, sleep 20s
+Sat Sep  9 05:09:39 2023: Recovered from timeout/broken/no connection, continue with telegram updates
+Sat Sep  9 05:10:34 2023: Repeated timeout/broken/no connection on telegram update, sleep 20s
+Sat Sep  9 05:11:14 2023: Repeated timeout/broken/no connection on telegram update, sleep 40s
+Sat Sep  9 05:11:59 2023: Recovered from timeout/broken/no connection, continue with telegram updates
+Sat Sep  9 05:13:02 2023: Repeated timeout/broken/no connection on telegram update, sleep 20s
+Sat Sep  9 05:13:22 2023: Recovered from timeout/broken/no connection, continue with telegram updates
+Sat Sep  9 05:20:22 2023: Repeated timeout/broken/no connection on telegram update, sleep 20s
+Sat Sep  9 05:21:02 2023: Repeated timeout/broken/no connection on telegram update, sleep 40s
+Sat Sep  9 05:21:43 2023: Recovered from timeout/broken/no connection, continue with telegram updates
+Sat Sep  9 05:23:34 2023: Repeated timeout/broken/no connection on telegram update, sleep 20s
+Sat Sep  9 05:24:14 2023: Repeated timeout/broken/no connection on telegram update, sleep 40s
+Sat Sep  9 05:24:54 2023: Recovered from timeout/broken/no connection, continue with telegram updates
+Sat Sep  9 05:25:49 2023: Repeated timeout/broken/no connection on telegram update, sleep 20s
+Sat Sep  9 05:26:10 2023: Recovered from timeout/broken/no connection, continue with telegram updates
+Sat Sep  9 05:30:45 2023: Repeated timeout/broken/no connection on telegram update, sleep 20s
+Sat Sep  9 05:31:25 2023: Repeated timeout/broken/no connection on telegram update, sleep 40s
+Sat Sep  9 05:32:25 2023: Repeated timeout/broken/no connection on telegram update, sleep 50s
+Sat Sep  9 05:33:35 2023: Repeated timeout/broken/no connection on telegram update, sleep 50s
+Sat Sep  9 05:34:25 2023: Recovered from timeout/broken/no connection, continue with telegram updates
+Sat Sep  9 05:35:25 2023: Repeated timeout/broken/no connection on telegram update, sleep 20s
+Sat Sep  9 05:35:45 2023: Recovered from timeout/broken/no connection, continue with telegram updates
+Sat Sep  9 05:39:10 2023: Repeated timeout/broken/no connection on telegram update, sleep 20s
+Sat Sep  9 05:39:50 2023: Repeated timeout/broken/no connection on telegram update, sleep 40s
+Sat Sep  9 05:40:50 2023: Repeated timeout/broken/no connection on telegram update, sleep 50s
+Sat Sep  9 05:42:00 2023: Repeated timeout/broken/no connection on telegram update, sleep 50s
+Sat Sep  9 05:43:10 2023: Repeated timeout/broken/no connection on telegram update, sleep 50s
+Sat Sep  9 05:44:20 2023: Repeated timeout/broken/no connection on telegram update, sleep 50s
+Sat Sep  9 05:45:12 2023: Recovered from timeout/broken/no connection, continue with telegram updates
+Sat Sep  9 05:46:22 2023: Repeated timeout/broken/no connection on telegram update, sleep 20s
+Sat Sep  9 05:47:02 2023: Repeated timeout/broken/no connection on telegram update, sleep 40s
+Sat Sep  9 05:48:02 2023: Repeated timeout/broken/no connection on telegram update, sleep 50s
+Sat Sep  9 05:49:13 2023: Repeated timeout/broken/no connection on telegram update, sleep 50s
+Sat Sep  9 05:50:23 2023: Repeated timeout/broken/no connection on telegram update, sleep 50s
+Sat Sep  9 05:51:13 2023: Recovered from timeout/broken/no connection, continue with telegram updates
+Sat Sep  9 05:53:11 2023: Repeated timeout/broken/no connection on telegram update, sleep 20s
+Sat Sep  9 05:53:41 2023: Repeated timeout/broken/no connection on telegram update, sleep 40s
+Sat Sep  9 05:54:41 2023: Repeated timeout/broken/no connection on telegram update, sleep 50s
+Sat Sep  9 05:55:51 2023: Repeated timeout/broken/no connection on telegram update, sleep 50s
+Sat Sep  9 05:56:41 2023: Recovered from timeout/broken/no connection, continue with telegram updates
+Sat Sep  9 05:58:59 2023: Repeated timeout/broken/no connection on telegram update, sleep 20s
+Sat Sep  9 05:59:19 2023: Recovered from timeout/broken/no connection, continue with telegram updates
+Sat Sep  9 06:00:23 2023: Repeated timeout/broken/no connection on telegram update, sleep 20s
+Sat Sep  9 06:01:03 2023: Repeated timeout/broken/no connection on telegram update, sleep 40s
+Sat Sep  9 06:02:03 2023: Repeated timeout/broken/no connection on telegram update, sleep 50s
+Sat Sep  9 06:03:13 2023: Repeated timeout/broken/no connection on telegram update, sleep 50s
+Sat Sep  9 06:04:23 2023: Repeated timeout/broken/no connection on telegram update, sleep 50s
+Sat Sep  9 06:05:33 2023: Repeated timeout/broken/no connection on telegram update, sleep 50s
+Sat Sep  9 06:06:23 2023: Recovered from timeout/broken/no connection, continue with telegram updates
+Sat Sep  9 06:08:04 2023: Repeated timeout/broken/no connection on telegram update, sleep 20s
+Sat Sep  9 06:08:26 2023: Recovered from timeout/broken/no connection, continue with telegram updates
+Sat Sep  9 06:11:18 2023: Repeated timeout/broken/no connection on telegram update, sleep 20s
+Sat Sep  9 06:11:38 2023: Recovered from timeout/broken/no connection, continue with telegram updates
+Sat Sep  9 06:17:42 2023: Repeated timeout/broken/no connection on telegram update, sleep 20s
+Sat Sep  9 06:18:22 2023: Repeated timeout/broken/no connection on telegram update, sleep 40s
+Sat Sep  9 06:19:22 2023: Repeated timeout/broken/no connection on telegram update, sleep 50s
+Sat Sep  9 06:20:32 2023: Repeated timeout/broken/no connection on telegram update, sleep 50s
+Sat Sep  9 06:21:42 2023: Repeated timeout/broken/no connection on telegram update, sleep 50s
+Sat Sep  9 06:22:32 2023: Recovered from timeout/broken/no connection, continue with telegram updates
+Sat Sep  9 06:23:27 2023: Repeated timeout/broken/no connection on telegram update, sleep 20s
+Sat Sep  9 06:24:07 2023: Repeated timeout/broken/no connection on telegram update, sleep 40s
+Sat Sep  9 06:25:07 2023: Repeated timeout/broken/no connection on telegram update, sleep 50s
+Sat Sep  9 06:26:17 2023: Repeated timeout/broken/no connection on telegram update, sleep 50s
+Sat Sep  9 06:27:12 2023: Recovered from timeout/broken/no connection, continue with telegram updates
+Sat Sep  9 06:41:48 2023: Repeated timeout/broken/no connection on telegram update, sleep 20s
+Sat Sep  9 06:42:08 2023: Recovered from timeout/broken/no connection, continue with telegram updates
+Wed Sep 13 01:11:42 2023: Repeated timeout/broken/no connection on telegram update, sleep 20s
+Wed Sep 13 01:12:02 2023: Recovered from timeout/broken/no connection, continue with telegram updates
+Sat Sep 16 19:44:56 2023: Repeated timeout/broken/no connection on telegram update, sleep 20s
+Sat Sep 16 19:45:16 2023: Recovered from timeout/broken/no connection, continue with telegram updates
+Thu Sep 21 06:57:44 2023: Repeated timeout/broken/no connection on telegram update, sleep 20s
+Thu Sep 21 06:58:04 2023: Recovered from timeout/broken/no connection, continue with telegram updates
+Thu Sep 21 07:02:46 2023: Repeated timeout/broken/no connection on telegram update, sleep 20s
+Thu Sep 21 07:03:26 2023: Repeated timeout/broken/no connection on telegram update, sleep 40s
+Thu Sep 21 07:04:26 2023: Repeated timeout/broken/no connection on telegram update, sleep 50s
+Thu Sep 21 07:05:19 2023: Recovered from timeout/broken/no connection, continue with telegram updates
+Thu Sep 21 07:07:40 2023: Repeated timeout/broken/no connection on telegram update, sleep 20s
+Thu Sep 21 07:08:20 2023: Repeated timeout/broken/no connection on telegram update, sleep 40s
+Thu Sep 21 07:09:02 2023: Recovered from timeout/broken/no connection, continue with telegram updates
+Fri Sep 22 04:56:33 2023: Repeated timeout/broken/no connection on telegram update, sleep 20s
+Fri Sep 22 04:57:13 2023: Repeated timeout/broken/no connection on telegram update, sleep 40s
+Fri Sep 22 04:57:57 2023: Recovered from timeout/broken/no connection, continue with telegram updates
+Fri Sep 22 04:59:26 2023: Repeated timeout/broken/no connection on telegram update, sleep 20s
+Fri Sep 22 05:00:01 2023: Repeated timeout/broken/no connection on telegram update, sleep 40s
+Fri Sep 22 05:00:49 2023: Recovered from timeout/broken/no connection, continue with telegram updates
+Fri Sep 22 05:03:54 2023: Repeated timeout/broken/no connection on telegram update, sleep 20s
+Fri Sep 22 05:04:34 2023: Repeated timeout/broken/no connection on telegram update, sleep 40s
+Fri Sep 22 05:05:15 2023: Recovered from timeout/broken/no connection, continue with telegram updates
+Fri Sep 22 05:07:01 2023: Repeated timeout/broken/no connection on telegram update, sleep 20s
+Fri Sep 22 05:07:41 2023: Repeated timeout/broken/no connection on telegram update, sleep 40s
+Fri Sep 22 05:08:21 2023: Recovered from timeout/broken/no connection, continue with telegram updates
+Fri Sep 22 05:10:05 2023: Repeated timeout/broken/no connection on telegram update, sleep 20s
+Fri Sep 22 05:10:45 2023: Repeated timeout/broken/no connection on telegram update, sleep 40s
+Fri Sep 22 05:11:30 2023: Recovered from timeout/broken/no connection, continue with telegram updates
+Fri Sep 22 05:12:26 2023: Repeated timeout/broken/no connection on telegram update, sleep 20s
+Fri Sep 22 05:13:06 2023: Repeated timeout/broken/no connection on telegram update, sleep 40s
+Fri Sep 22 05:13:48 2023: Recovered from timeout/broken/no connection, continue with telegram updates
+Fri Sep 22 05:14:43 2023: Repeated timeout/broken/no connection on telegram update, sleep 20s
+Fri Sep 22 05:15:17 2023: Repeated timeout/broken/no connection on telegram update, sleep 40s
+Fri Sep 22 05:16:17 2023: Repeated timeout/broken/no connection on telegram update, sleep 50s
+Fri Sep 22 05:17:27 2023: Repeated timeout/broken/no connection on telegram update, sleep 50s
+Fri Sep 22 05:18:37 2023: Repeated timeout/broken/no connection on telegram update, sleep 50s
+Fri Sep 22 05:19:47 2023: Repeated timeout/broken/no connection on telegram update, sleep 50s
+Fri Sep 22 05:20:58 2023: Repeated timeout/broken/no connection on telegram update, sleep 50s
+Fri Sep 22 05:21:55 2023: Recovered from timeout/broken/no connection, continue with telegram updates
+Fri Sep 22 05:22:50 2023: Repeated timeout/broken/no connection on telegram update, sleep 20s
+Fri Sep 22 05:23:30 2023: Repeated timeout/broken/no connection on telegram update, sleep 40s
+Fri Sep 22 05:24:30 2023: Repeated timeout/broken/no connection on telegram update, sleep 50s
+Fri Sep 22 05:25:40 2023: Repeated timeout/broken/no connection on telegram update, sleep 50s
+Fri Sep 22 05:26:50 2023: Repeated timeout/broken/no connection on telegram update, sleep 50s
+Fri Sep 22 05:28:00 2023: Repeated timeout/broken/no connection on telegram update, sleep 50s
+Fri Sep 22 05:29:11 2023: Repeated timeout/broken/no connection on telegram update, sleep 50s
+Fri Sep 22 05:30:21 2023: Repeated timeout/broken/no connection on telegram update, sleep 50s
+Fri Sep 22 05:31:31 2023: Repeated timeout/broken/no connection on telegram update, sleep 50s
+Fri Sep 22 05:32:41 2023: Repeated timeout/broken/no connection on telegram update, sleep 50s
+Fri Sep 22 05:33:51 2023: Repeated timeout/broken/no connection on telegram update, sleep 50s
+Fri Sep 22 05:35:01 2023: Repeated timeout/broken/no connection on telegram update, sleep 50s
+Fri Sep 22 05:35:51 2023: Recovered from timeout/broken/no connection, continue with telegram updates
+Fri Sep 22 05:37:26 2023: Repeated timeout/broken/no connection on telegram update, sleep 20s
+Fri Sep 22 05:37:47 2023: Recovered from timeout/broken/no connection, continue with telegram updates
+Fri Sep 22 05:39:38 2023: Repeated timeout/broken/no connection on telegram update, sleep 20s
+Fri Sep 22 05:39:58 2023: Recovered from timeout/broken/no connection, continue with telegram updates
+Fri Sep 22 05:40:53 2023: Repeated timeout/broken/no connection on telegram update, sleep 20s
+Fri Sep 22 05:41:33 2023: Repeated timeout/broken/no connection on telegram update, sleep 40s
+Fri Sep 22 05:42:33 2023: Repeated timeout/broken/no connection on telegram update, sleep 50s
+Fri Sep 22 05:43:43 2023: Repeated timeout/broken/no connection on telegram update, sleep 50s
+Fri Sep 22 05:44:53 2023: Repeated timeout/broken/no connection on telegram update, sleep 50s
+Fri Sep 22 05:45:53 2023: Recovered from timeout/broken/no connection, continue with telegram updates
+Fri Sep 22 05:49:01 2023: Repeated timeout/broken/no connection on telegram update, sleep 20s
+Fri Sep 22 05:49:41 2023: Repeated timeout/broken/no connection on telegram update, sleep 40s
+Fri Sep 22 05:50:41 2023: Repeated timeout/broken/no connection on telegram update, sleep 50s
+Fri Sep 22 05:51:51 2023: Repeated timeout/broken/no connection on telegram update, sleep 50s
+Fri Sep 22 05:53:01 2023: Repeated timeout/broken/no connection on telegram update, sleep 50s
+Fri Sep 22 05:53:57 2023: Recovered from timeout/broken/no connection, continue with telegram updates
+Fri Sep 22 05:54:52 2023: Repeated timeout/broken/no connection on telegram update, sleep 20s
+Fri Sep 22 05:55:32 2023: Repeated timeout/broken/no connection on telegram update, sleep 40s
+Fri Sep 22 05:56:32 2023: Repeated timeout/broken/no connection on telegram update, sleep 50s
+Fri Sep 22 05:57:42 2023: Repeated timeout/broken/no connection on telegram update, sleep 50s
+Fri Sep 22 05:58:32 2023: Recovered from timeout/broken/no connection, continue with telegram updates
+Fri Sep 22 06:06:27 2023: Repeated timeout/broken/no connection on telegram update, sleep 20s
+Fri Sep 22 06:06:48 2023: Recovered from timeout/broken/no connection, continue with telegram updates
+Fri Sep 22 06:11:39 2023: Repeated timeout/broken/no connection on telegram update, sleep 20s
+Fri Sep 22 06:11:59 2023: Recovered from timeout/broken/no connection, continue with telegram updates
+Fri Sep 22 06:13:01 2023: Repeated timeout/broken/no connection on telegram update, sleep 20s
+Fri Sep 22 06:13:23 2023: Recovered from timeout/broken/no connection, continue with telegram updates
+Fri Sep 22 06:15:42 2023: Repeated timeout/broken/no connection on telegram update, sleep 20s
+Fri Sep 22 06:16:05 2023: Recovered from timeout/broken/no connection, continue with telegram updates
+Fri Sep 22 06:17:00 2023: Repeated timeout/broken/no connection on telegram update, sleep 20s
+Fri Sep 22 06:17:20 2023: Recovered from timeout/broken/no connection, continue with telegram updates
+Fri Sep 22 06:20:55 2023: Repeated timeout/broken/no connection on telegram update, sleep 20s
+Fri Sep 22 06:21:35 2023: Repeated timeout/broken/no connection on telegram update, sleep 40s
+Fri Sep 22 06:22:16 2023: Recovered from timeout/broken/no connection, continue with telegram updates
+Sat Sep 23 19:56:16 2023: Repeated timeout/broken/no connection on telegram update, sleep 20s
+Sat Sep 23 19:56:36 2023: Recovered from timeout/broken/no connection, continue with telegram updates
+Sat Sep 30 15:17:41 2023: Repeated timeout/broken/no connection on telegram update, sleep 20s
+Sat Sep 30 15:18:01 2023: Recovered from timeout/broken/no connection, continue with telegram updates
+Mon Oct 16 01:48:55 2023: Repeated timeout/broken/no connection on telegram update, sleep 20s
+Mon Oct 16 01:49:15 2023: Recovered from timeout/broken/no connection, continue with telegram updates

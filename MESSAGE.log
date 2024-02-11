@@ -1,0 +1,4057 @@
+
+Thu Jun 29 06:27:33 2023: DEBUG sendJson ==========
+["chat_id"]	392354296
+["text"]	"message qweqweqweqwe"
+
+Thu Jun 29 06:27:33 2023: New Result ==========
+["ok"]	false
+["error_code"]	400
+["description"]	"Bad Request: chat not found"
+
+Thu Jun 29 06:27:54 2023: DEBUG sendJson ==========
+["chat_id"]	6205889059
+["text"]	"message qweqweqweqwe"
+
+Thu Jun 29 06:27:54 2023: New Result ==========
+["ok"]	false
+["error_code"]	403
+["description"]	"Forbidden: bot can't send messages to bots"
+
+Thu Jun 29 06:30:25 2023: DEBUG sendJson ==========
+["chat_id"]	376048411
+["text"]	"message qweqweqweqwe"
+
+Thu Jun 29 06:30:25 2023: New Result ==========
+["ok"]	true
+["result","message_id"]	18
+["result","from","id"]	6205889059
+["result","from","is_bot"]	true
+["result","from","first_name"]	"dba_almaty_bot"
+["result","from","username"]	"dba_almaty_bot"
+["result","chat","id"]	376048411
+["result","chat","first_name"]	"Talgat M"
+["result","chat","username"]	"M_Talgat"
+["result","chat","type"]	"private"
+["result","date"]	1688020225
+["result","text"]	"message qweqweqweqwe"
+
+Sun Jul  2 04:47:04 2023: DEBUG sendJson ==========
+["chat_id"]	376048411
+["text"]	"message qweqweqweqwe"
+
+Sun Jul  2 04:47:04 2023: New Result ==========
+["ok"]	true
+["result","message_id"]	182
+["result","from","id"]	6205889059
+["result","from","is_bot"]	true
+["result","from","first_name"]	"dba_almaty_bot"
+["result","from","username"]	"dba_almaty_bot"
+["result","chat","id"]	376048411
+["result","chat","first_name"]	"Talgat M"
+["result","chat","username"]	"M_Talgat"
+["result","chat","type"]	"private"
+["result","date"]	1688273224
+["result","text"]	"message qweqweqweqwe"
+
+Mon Jul  3 04:49:04 2023: DEBUG sendJson ==========
+["chat_id"]	376048411
+["text"]	"msg"
+["reply_markup","inline_keyboard",0,0,"text"]	"Amazon"
+["reply_markup","inline_keyboard",0,0,"url"]	"https://www.amazon.com"
+
+Mon Jul  3 04:49:04 2023: New Result ==========
+["ok"]	true
+["result","message_id"]	264
+["result","from","id"]	6205889059
+["result","from","is_bot"]	true
+["result","from","first_name"]	"dba_almaty_bot"
+["result","from","username"]	"dba_almaty_bot"
+["result","chat","id"]	376048411
+["result","chat","first_name"]	"Talgat M"
+["result","chat","username"]	"M_Talgat"
+["result","chat","type"]	"private"
+["result","date"]	1688359744
+["result","text"]	"msg"
+["result","reply_markup","inline_keyboard",0,0,"text"]	"Amazon"
+["result","reply_markup","inline_keyboard",0,0,"url"]	"https://www.amazon.com/"
+
+Mon Jul  3 10:31:56 2023: DEBUG sendJson ==========
+["chat_id"]	376048411
+["text"]	"msg"
+["reply_markup","inline_keyboard",0,0,"text"]	"Amazon"
+["reply_markup","inline_keyboard",0,0,"url"]	"https://www.amazon.com"
+
+Mon Jul  3 10:31:56 2023: New Result ==========
+["ok"]	true
+["result","message_id"]	678
+["result","from","id"]	6205889059
+["result","from","is_bot"]	true
+["result","from","first_name"]	"dba_almaty_bot"
+["result","from","username"]	"dba_almaty_bot"
+["result","chat","id"]	376048411
+["result","chat","first_name"]	"Talgat M"
+["result","chat","username"]	"M_Talgat"
+["result","chat","type"]	"private"
+["result","date"]	1688380316
+["result","text"]	"msg"
+["result","reply_markup","inline_keyboard",0,0,"text"]	"Amazon"
+["result","reply_markup","inline_keyboard",0,0,"url"]	"https://www.amazon.com/"
+
+Tue Jul  4 04:31:13 2023: DEBUG sendJson ==========
+["chat_id"]	376048411
+["text"]	"msg"
+["reply_markup","inline_keyboard",0,0,"text"]	"Amazon"
+["reply_markup","inline_keyboard",0,0,"url"]	"https://www.amazon.com"
+
+Tue Jul  4 04:31:13 2023: New Result ==========
+["ok"]	true
+["result","message_id"]	708
+["result","from","id"]	6205889059
+["result","from","is_bot"]	true
+["result","from","first_name"]	"dba_almaty_bot"
+["result","from","username"]	"dba_almaty_bot"
+["result","chat","id"]	376048411
+["result","chat","first_name"]	"Talgat M"
+["result","chat","username"]	"M_Talgat"
+["result","chat","type"]	"private"
+["result","date"]	1688445073
+["result","text"]	"msg"
+["result","reply_markup","inline_keyboard",0,0,"text"]	"Amazon"
+["result","reply_markup","inline_keyboard",0,0,"url"]	"https://www.amazon.com/"
+
+Wed Jul  5 10:58:33 2023: DEBUG sendJson ==========
+["chat_id"]	376048411
+["text"]	"msg"
+["reply_markup","inline_keyboard",0,0,"text"]	"Amazon"
+["reply_markup","inline_keyboard",0,0,"url"]	"https://www.amazon.com"
+
+Wed Jul  5 10:58:33 2023: New Result ==========
+["ok"]	true
+["result","message_id"]	725
+["result","from","id"]	6205889059
+["result","from","is_bot"]	true
+["result","from","first_name"]	"dba_almaty_bot"
+["result","from","username"]	"dba_almaty_bot"
+["result","chat","id"]	376048411
+["result","chat","first_name"]	"Talgat M"
+["result","chat","username"]	"M_Talgat"
+["result","chat","type"]	"private"
+["result","date"]	1688554713
+["result","text"]	"msg"
+["result","reply_markup","inline_keyboard",0,0,"text"]	"Amazon"
+["result","reply_markup","inline_keyboard",0,0,"url"]	"https://www.amazon.com/"
+
+Wed Jul  5 11:10:31 2023: DEBUG sendJson ==========
+["chat_id"]	376048411
+["text"]	"msg"
+["reply_markup","inline_keyboard",0,0,"text"]	"Amazon"
+["reply_markup","inline_keyboard",0,0,"url"]	"https://www.amazon.com"
+
+Wed Jul  5 11:10:31 2023: New Result ==========
+["ok"]	true
+["result","message_id"]	818
+["result","from","id"]	6205889059
+["result","from","is_bot"]	true
+["result","from","first_name"]	"dba_almaty_bot"
+["result","from","username"]	"dba_almaty_bot"
+["result","chat","id"]	376048411
+["result","chat","first_name"]	"Talgat M"
+["result","chat","username"]	"M_Talgat"
+["result","chat","type"]	"private"
+["result","date"]	1688555431
+["result","text"]	"msg"
+["result","reply_markup","inline_keyboard",0,0,"text"]	"Amazon"
+["result","reply_markup","inline_keyboard",0,0,"url"]	"https://www.amazon.com/"
+
+Thu Jul  6 04:50:13 2023: DEBUG sendJson ==========
+["chat_id"]	376048411
+["text"]	"Bot dba_almaty_bot polling mode started ..."
+
+Thu Jul  6 04:50:13 2023: New Result ==========
+["ok"]	true
+["result","message_id"]	1076
+["result","from","id"]	6205889059
+["result","from","is_bot"]	true
+["result","from","first_name"]	"dba_almaty_bot"
+["result","from","username"]	"dba_almaty_bot"
+["result","chat","id"]	376048411
+["result","chat","first_name"]	"Talgat M"
+["result","chat","username"]	"M_Talgat"
+["result","chat","type"]	"private"
+["result","date"]	1688619013
+["result","text"]	"Bot dba_almaty_bot polling mode started ..."
+
+Thu Jul  6 04:50:19 2023: DEBUG sendJson ==========
+["chat_id"]	376048411
+["text"]	"command from example received: /b"
+
+Thu Jul  6 04:50:19 2023: DEBUG sendJson ==========
+["chat_id"]	376048411
+["text"]	" -  -  -  - 1"
+
+Thu Jul  6 04:50:19 2023: New Result ==========
+["ok"]	true
+["result","message_id"]	1078
+["result","from","id"]	6205889059
+["result","from","is_bot"]	true
+["result","from","first_name"]	"dba_almaty_bot"
+["result","from","username"]	"dba_almaty_bot"
+["result","chat","id"]	376048411
+["result","chat","first_name"]	"Talgat M"
+["result","chat","username"]	"M_Talgat"
+["result","chat","type"]	"private"
+["result","date"]	1688619019
+["result","text"]	"-  -  -  - 1"
+
+Thu Jul  6 04:50:19 2023: New Result ==========
+["ok"]	true
+["result","message_id"]	1079
+["result","from","id"]	6205889059
+["result","from","is_bot"]	true
+["result","from","first_name"]	"dba_almaty_bot"
+["result","from","username"]	"dba_almaty_bot"
+["result","chat","id"]	376048411
+["result","chat","first_name"]	"Talgat M"
+["result","chat","username"]	"M_Talgat"
+["result","chat","type"]	"private"
+["result","date"]	1688619019
+["result","text"]	"command from example received: /b"
+["result","entities",0,"offset"]	31
+["result","entities",0,"length"]	2
+["result","entities",0,"type"]	"bot_command"
+
+Thu Jul  6 04:50:19 2023: DEBUG sendJson ==========
+["chat_id"]	376048411
+["text"]	"Press Button ..."
+["reply_markup","inline_keyboard",0,0,"text"]	"   Button   "
+["reply_markup","inline_keyboard",0,0,"callback_data"]	"RANDOM-BUTTON"
+
+Thu Jul  6 04:50:19 2023: New Result ==========
+["ok"]	true
+["result","message_id"]	1080
+["result","from","id"]	6205889059
+["result","from","is_bot"]	true
+["result","from","first_name"]	"dba_almaty_bot"
+["result","from","username"]	"dba_almaty_bot"
+["result","chat","id"]	376048411
+["result","chat","first_name"]	"Talgat M"
+["result","chat","username"]	"M_Talgat"
+["result","chat","type"]	"private"
+["result","date"]	1688619019
+["result","text"]	"Press Button ..."
+["result","reply_markup","inline_keyboard",0,0,"text"]	"   Button   "
+["result","reply_markup","inline_keyboard",0,0,"callback_data"]	"RANDOM-BUTTON"
+
+Thu Jul  6 04:50:20 2023: DEBUG sendJson ==========
+["chat_id"]	376048411
+["message_id"]	1080
+["reply_markup","inline_keyboard",0,0,"text"]	"Button 6434"
+["reply_markup","inline_keyboard",0,0,"callback_data"]	"RANDOM-BUTTON"
+
+Thu Jul  6 04:50:20 2023: New Result ==========
+["ok"]	true
+["result","message_id"]	1080
+["result","from","id"]	6205889059
+["result","from","is_bot"]	true
+["result","from","first_name"]	"dba_almaty_bot"
+["result","from","username"]	"dba_almaty_bot"
+["result","chat","id"]	376048411
+["result","chat","first_name"]	"Talgat M"
+["result","chat","username"]	"M_Talgat"
+["result","chat","type"]	"private"
+["result","date"]	1688619019
+["result","edit_date"]	1688619020
+["result","text"]	"Press Button ..."
+["result","reply_markup","inline_keyboard",0,0,"text"]	"Button 6434"
+["result","reply_markup","inline_keyboard",0,0,"callback_data"]	"RANDOM-BUTTON"
+
+Thu Jul  6 04:50:20 2023: DEBUG sendJson ==========
+["callback_query_id"]	"1615115627492989739"
+["text"]	"Button pressed"
+
+Thu Jul  6 04:50:20 2023: New Result ==========
+["ok"]	true
+["result"]	true
+
+Thu Jul  6 04:50:20 2023: DEBUG sendJson ==========
+["chat_id"]	376048411
+["text"]	"0- 1615115627492989739 -  376048411 - 376048411 - RANDOM-BUTTON - 1 - Button pressed"
+
+Thu Jul  6 04:50:21 2023: New Result ==========
+["ok"]	true
+["result","message_id"]	1081
+["result","from","id"]	6205889059
+["result","from","is_bot"]	true
+["result","from","first_name"]	"dba_almaty_bot"
+["result","from","username"]	"dba_almaty_bot"
+["result","chat","id"]	376048411
+["result","chat","first_name"]	"Talgat M"
+["result","chat","username"]	"M_Talgat"
+["result","chat","type"]	"private"
+["result","date"]	1688619021
+["result","text"]	"0- 1615115627492989739 -  376048411 - 376048411 - RANDOM-BUTTON - 1 - Button pressed"
+
+Thu Jul  6 04:50:46 2023: DEBUG sendJson ==========
+["chat_id"]	376048411
+["text"]	"Bot dba_almaty_bot polling mode started ..."
+
+Thu Jul  6 04:50:46 2023: New Result ==========
+["ok"]	true
+["result","message_id"]	1082
+["result","from","id"]	6205889059
+["result","from","is_bot"]	true
+["result","from","first_name"]	"dba_almaty_bot"
+["result","from","username"]	"dba_almaty_bot"
+["result","chat","id"]	376048411
+["result","chat","first_name"]	"Talgat M"
+["result","chat","username"]	"M_Talgat"
+["result","chat","type"]	"private"
+["result","date"]	1688619046
+["result","text"]	"Bot dba_almaty_bot polling mode started ..."
+
+Thu Jul  6 04:50:46 2023: DEBUG sendJson ==========
+["chat_id"]	376048411
+["message_id"]	1080
+["reply_markup","inline_keyboard",0,0,"text"]	"Button 24360"
+["reply_markup","inline_keyboard",0,0,"callback_data"]	"RANDOM-BUTTON"
+
+Thu Jul  6 04:50:46 2023: New Result ==========
+["ok"]	true
+["result","message_id"]	1080
+["result","from","id"]	6205889059
+["result","from","is_bot"]	true
+["result","from","first_name"]	"dba_almaty_bot"
+["result","from","username"]	"dba_almaty_bot"
+["result","chat","id"]	376048411
+["result","chat","first_name"]	"Talgat M"
+["result","chat","username"]	"M_Talgat"
+["result","chat","type"]	"private"
+["result","date"]	1688619019
+["result","edit_date"]	1688619046
+["result","text"]	"Press Button ..."
+["result","reply_markup","inline_keyboard",0,0,"text"]	"Button 24360"
+["result","reply_markup","inline_keyboard",0,0,"callback_data"]	"RANDOM-BUTTON"
+
+Thu Jul  6 04:50:46 2023: DEBUG sendJson ==========
+["callback_query_id"]	"1615115627492989739"
+["text"]	"Button pressed"
+
+Thu Jul  6 04:50:46 2023: New Result ==========
+["ok"]	false
+["error_code"]	400
+["description"]	"Bad Request: query is too old and response timeout expired or query ID is invalid"
+
+Thu Jul  6 04:50:46 2023: DEBUG sendJson ==========
+["chat_id"]	376048411
+["text"]	"0- 1615115627492989739 -  376048411 - 376048411 - RANDOM-BUTTON - 1 - Button pressed"
+
+Thu Jul  6 04:50:46 2023: New Result ==========
+["ok"]	true
+["result","message_id"]	1083
+["result","from","id"]	6205889059
+["result","from","is_bot"]	true
+["result","from","first_name"]	"dba_almaty_bot"
+["result","from","username"]	"dba_almaty_bot"
+["result","chat","id"]	376048411
+["result","chat","first_name"]	"Talgat M"
+["result","chat","username"]	"M_Talgat"
+["result","chat","type"]	"private"
+["result","date"]	1688619046
+["result","text"]	"0- 1615115627492989739 -  376048411 - 376048411 - RANDOM-BUTTON - 1 - Button pressed"
+
+Thu Jul  6 04:54:42 2023: DEBUG sendJson ==========
+["chat_id"]	376048411
+["text"]	"Bot dba_almaty_bot polling mode started ..."
+
+Thu Jul  6 04:54:42 2023: New Result ==========
+["ok"]	true
+["result","message_id"]	1084
+["result","from","id"]	6205889059
+["result","from","is_bot"]	true
+["result","from","first_name"]	"dba_almaty_bot"
+["result","from","username"]	"dba_almaty_bot"
+["result","chat","id"]	376048411
+["result","chat","first_name"]	"Talgat M"
+["result","chat","username"]	"M_Talgat"
+["result","chat","type"]	"private"
+["result","date"]	1688619282
+["result","text"]	"Bot dba_almaty_bot polling mode started ..."
+
+Thu Jul  6 04:55:23 2023: DEBUG sendJson ==========
+["chat_id"]	376048411
+["text"]	"command from example received: /b"
+
+Thu Jul  6 04:55:23 2023: DEBUG sendJson ==========
+["chat_id"]	376048411
+["text"]	" -  -  -  - 1"
+
+Thu Jul  6 04:55:24 2023: New Result ==========
+["ok"]	true
+["result","message_id"]	1086
+["result","from","id"]	6205889059
+["result","from","is_bot"]	true
+["result","from","first_name"]	"dba_almaty_bot"
+["result","from","username"]	"dba_almaty_bot"
+["result","chat","id"]	376048411
+["result","chat","first_name"]	"Talgat M"
+["result","chat","username"]	"M_Talgat"
+["result","chat","type"]	"private"
+["result","date"]	1688619324
+["result","text"]	"command from example received: /b"
+["result","entities",0,"offset"]	31
+["result","entities",0,"length"]	2
+["result","entities",0,"type"]	"bot_command"
+
+Thu Jul  6 04:55:24 2023: New Result ==========
+["ok"]	true
+["result","message_id"]	1087
+["result","from","id"]	6205889059
+["result","from","is_bot"]	true
+["result","from","first_name"]	"dba_almaty_bot"
+["result","from","username"]	"dba_almaty_bot"
+["result","chat","id"]	376048411
+["result","chat","first_name"]	"Talgat M"
+["result","chat","username"]	"M_Talgat"
+["result","chat","type"]	"private"
+["result","date"]	1688619324
+["result","text"]	"-  -  -  - 1"
+
+Thu Jul  6 04:55:24 2023: DEBUG sendJson ==========
+["chat_id"]	376048411
+["text"]	"Press Button ..."
+["reply_markup","inline_keyboard",0,0,"text"]	"   Button   "
+["reply_markup","inline_keyboard",0,0,"callback_data"]	"RANDOM-BUTTON"
+
+Thu Jul  6 04:55:24 2023: New Result ==========
+["ok"]	true
+["result","message_id"]	1088
+["result","from","id"]	6205889059
+["result","from","is_bot"]	true
+["result","from","first_name"]	"dba_almaty_bot"
+["result","from","username"]	"dba_almaty_bot"
+["result","chat","id"]	376048411
+["result","chat","first_name"]	"Talgat M"
+["result","chat","username"]	"M_Talgat"
+["result","chat","type"]	"private"
+["result","date"]	1688619324
+["result","text"]	"Press Button ..."
+["result","reply_markup","inline_keyboard",0,0,"text"]	"   Button   "
+["result","reply_markup","inline_keyboard",0,0,"callback_data"]	"RANDOM-BUTTON"
+
+Thu Jul  6 04:55:25 2023: DEBUG sendJson ==========
+["chat_id"]	376048411
+["message_id"]	1088
+["reply_markup","inline_keyboard",0,0,"text"]	"Button 31166"
+["reply_markup","inline_keyboard",0,0,"callback_data"]	"RANDOM-BUTTON"
+
+Thu Jul  6 04:55:25 2023: New Result ==========
+["ok"]	true
+["result","message_id"]	1088
+["result","from","id"]	6205889059
+["result","from","is_bot"]	true
+["result","from","first_name"]	"dba_almaty_bot"
+["result","from","username"]	"dba_almaty_bot"
+["result","chat","id"]	376048411
+["result","chat","first_name"]	"Talgat M"
+["result","chat","username"]	"M_Talgat"
+["result","chat","type"]	"private"
+["result","date"]	1688619324
+["result","edit_date"]	1688619325
+["result","text"]	"Press Button ..."
+["result","reply_markup","inline_keyboard",0,0,"text"]	"Button 31166"
+["result","reply_markup","inline_keyboard",0,0,"callback_data"]	"RANDOM-BUTTON"
+
+Thu Jul  6 04:55:25 2023: DEBUG sendJson ==========
+["callback_query_id"]	"1615115631055095597"
+["text"]	"Button pressed"
+
+Thu Jul  6 04:55:25 2023: New Result ==========
+["ok"]	true
+["result"]	true
+
+Thu Jul  6 04:55:25 2023: DEBUG sendJson ==========
+["chat_id"]	376048411
+["text"]	"0- 1615115631055095597 -  376048411 - 376048411 - RANDOM-BUTTON - 1 - Button pressed"
+
+Thu Jul  6 04:55:25 2023: New Result ==========
+["ok"]	true
+["result","message_id"]	1089
+["result","from","id"]	6205889059
+["result","from","is_bot"]	true
+["result","from","first_name"]	"dba_almaty_bot"
+["result","from","username"]	"dba_almaty_bot"
+["result","chat","id"]	376048411
+["result","chat","first_name"]	"Talgat M"
+["result","chat","username"]	"M_Talgat"
+["result","chat","type"]	"private"
+["result","date"]	1688619325
+["result","text"]	"0- 1615115631055095597 -  376048411 - 376048411 - RANDOM-BUTTON - 1 - Button pressed"
+
+Thu Jul  6 04:56:33 2023: DEBUG sendJson ==========
+["chat_id"]	376048411
+["text"]	"Bot dba_almaty_bot polling mode started ..."
+
+Thu Jul  6 04:56:33 2023: New Result ==========
+["ok"]	true
+["result","message_id"]	1090
+["result","from","id"]	6205889059
+["result","from","is_bot"]	true
+["result","from","first_name"]	"dba_almaty_bot"
+["result","from","username"]	"dba_almaty_bot"
+["result","chat","id"]	376048411
+["result","chat","first_name"]	"Talgat M"
+["result","chat","username"]	"M_Talgat"
+["result","chat","type"]	"private"
+["result","date"]	1688619393
+["result","text"]	"Bot dba_almaty_bot polling mode started ..."
+
+Thu Jul  6 04:56:33 2023: DEBUG sendJson ==========
+["chat_id"]	376048411
+["message_id"]	1088
+["reply_markup","inline_keyboard",0,0,"text"]	"Button 12091"
+["reply_markup","inline_keyboard",0,0,"callback_data"]	"RANDOM-BUTTON"
+
+Thu Jul  6 04:56:33 2023: New Result ==========
+["ok"]	true
+["result","message_id"]	1088
+["result","from","id"]	6205889059
+["result","from","is_bot"]	true
+["result","from","first_name"]	"dba_almaty_bot"
+["result","from","username"]	"dba_almaty_bot"
+["result","chat","id"]	376048411
+["result","chat","first_name"]	"Talgat M"
+["result","chat","username"]	"M_Talgat"
+["result","chat","type"]	"private"
+["result","date"]	1688619324
+["result","edit_date"]	1688619393
+["result","text"]	"Press Button ..."
+["result","reply_markup","inline_keyboard",0,0,"text"]	"Button 12091"
+["result","reply_markup","inline_keyboard",0,0,"callback_data"]	"RANDOM-BUTTON"
+
+Thu Jul  6 04:56:33 2023: DEBUG sendJson ==========
+["callback_query_id"]	"1615115631055095597"
+["text"]	"Button pressed"
+
+Thu Jul  6 04:56:34 2023: New Result ==========
+["ok"]	false
+["error_code"]	400
+["description"]	"Bad Request: query is too old and response timeout expired or query ID is invalid"
+
+Thu Jul  6 04:56:34 2023: DEBUG sendJson ==========
+["chat_id"]	376048411
+["text"]	"0- 1615115631055095597 -  376048411 - 376048411 - RANDOM-BUTTON - 1 - Button pressed"
+
+Thu Jul  6 04:56:34 2023: New Result ==========
+["ok"]	true
+["result","message_id"]	1091
+["result","from","id"]	6205889059
+["result","from","is_bot"]	true
+["result","from","first_name"]	"dba_almaty_bot"
+["result","from","username"]	"dba_almaty_bot"
+["result","chat","id"]	376048411
+["result","chat","first_name"]	"Talgat M"
+["result","chat","username"]	"M_Talgat"
+["result","chat","type"]	"private"
+["result","date"]	1688619394
+["result","text"]	"0- 1615115631055095597 -  376048411 - 376048411 - RANDOM-BUTTON - 1 - Button pressed"
+
+Thu Jul  6 04:59:16 2023: DEBUG sendJson ==========
+["chat_id"]	376048411
+["text"]	"Bot dba_almaty_bot polling mode started ..."
+
+Thu Jul  6 04:59:16 2023: New Result ==========
+["ok"]	true
+["result","message_id"]	1092
+["result","from","id"]	6205889059
+["result","from","is_bot"]	true
+["result","from","first_name"]	"dba_almaty_bot"
+["result","from","username"]	"dba_almaty_bot"
+["result","chat","id"]	376048411
+["result","chat","first_name"]	"Talgat M"
+["result","chat","username"]	"M_Talgat"
+["result","chat","type"]	"private"
+["result","date"]	1688619556
+["result","text"]	"Bot dba_almaty_bot polling mode started ..."
+
+Thu Jul  6 04:59:21 2023: DEBUG sendJson ==========
+["chat_id"]	376048411
+["text"]	"command from example received: /b"
+
+Thu Jul  6 04:59:21 2023: DEBUG sendJson ==========
+["chat_id"]	376048411
+["text"]	" -  -  -  - 1"
+
+Thu Jul  6 04:59:21 2023: New Result ==========
+["ok"]	true
+["result","message_id"]	1094
+["result","from","id"]	6205889059
+["result","from","is_bot"]	true
+["result","from","first_name"]	"dba_almaty_bot"
+["result","from","username"]	"dba_almaty_bot"
+["result","chat","id"]	376048411
+["result","chat","first_name"]	"Talgat M"
+["result","chat","username"]	"M_Talgat"
+["result","chat","type"]	"private"
+["result","date"]	1688619561
+["result","text"]	"command from example received: /b"
+["result","entities",0,"offset"]	31
+["result","entities",0,"length"]	2
+["result","entities",0,"type"]	"bot_command"
+
+Thu Jul  6 04:59:21 2023: New Result ==========
+["ok"]	true
+["result","message_id"]	1095
+["result","from","id"]	6205889059
+["result","from","is_bot"]	true
+["result","from","first_name"]	"dba_almaty_bot"
+["result","from","username"]	"dba_almaty_bot"
+["result","chat","id"]	376048411
+["result","chat","first_name"]	"Talgat M"
+["result","chat","username"]	"M_Talgat"
+["result","chat","type"]	"private"
+["result","date"]	1688619561
+["result","text"]	"-  -  -  - 1"
+
+Thu Jul  6 04:59:21 2023: DEBUG sendJson ==========
+["chat_id"]	376048411
+["text"]	"Press Button ..."
+["reply_markup","inline_keyboard",0,0,"text"]	"   Button   "
+["reply_markup","inline_keyboard",0,0,"callback_data"]	"RANDOM-BUTTON"
+
+Thu Jul  6 04:59:21 2023: New Result ==========
+["ok"]	true
+["result","message_id"]	1096
+["result","from","id"]	6205889059
+["result","from","is_bot"]	true
+["result","from","first_name"]	"dba_almaty_bot"
+["result","from","username"]	"dba_almaty_bot"
+["result","chat","id"]	376048411
+["result","chat","first_name"]	"Talgat M"
+["result","chat","username"]	"M_Talgat"
+["result","chat","type"]	"private"
+["result","date"]	1688619561
+["result","text"]	"Press Button ..."
+["result","reply_markup","inline_keyboard",0,0,"text"]	"   Button   "
+["result","reply_markup","inline_keyboard",0,0,"callback_data"]	"RANDOM-BUTTON"
+
+Thu Jul  6 04:59:22 2023: DEBUG sendJson ==========
+["chat_id"]	376048411
+["message_id"]	1096
+["reply_markup","inline_keyboard",0,0,"text"]	"Button 15702"
+["reply_markup","inline_keyboard",0,0,"callback_data"]	"RANDOM-BUTTON"
+
+Thu Jul  6 04:59:22 2023: New Result ==========
+["ok"]	true
+["result","message_id"]	1096
+["result","from","id"]	6205889059
+["result","from","is_bot"]	true
+["result","from","first_name"]	"dba_almaty_bot"
+["result","from","username"]	"dba_almaty_bot"
+["result","chat","id"]	376048411
+["result","chat","first_name"]	"Talgat M"
+["result","chat","username"]	"M_Talgat"
+["result","chat","type"]	"private"
+["result","date"]	1688619561
+["result","edit_date"]	1688619562
+["result","text"]	"Press Button ..."
+["result","reply_markup","inline_keyboard",0,0,"text"]	"Button 15702"
+["result","reply_markup","inline_keyboard",0,0,"callback_data"]	"RANDOM-BUTTON"
+
+Thu Jul  6 04:59:22 2023: DEBUG sendJson ==========
+["callback_query_id"]	"1615115630126554122"
+["text"]	"Button pressed"
+
+Thu Jul  6 04:59:22 2023: New Result ==========
+["ok"]	true
+["result"]	true
+
+Thu Jul  6 04:59:22 2023: DEBUG sendJson ==========
+["chat_id"]	376048411
+["text"]	"0- 1615115630126554122 -  376048411 - 376048411 - RANDOM-BUTTON - 1 - Button pressed"
+
+Thu Jul  6 04:59:22 2023: New Result ==========
+["ok"]	true
+["result","message_id"]	1097
+["result","from","id"]	6205889059
+["result","from","is_bot"]	true
+["result","from","first_name"]	"dba_almaty_bot"
+["result","from","username"]	"dba_almaty_bot"
+["result","chat","id"]	376048411
+["result","chat","first_name"]	"Talgat M"
+["result","chat","username"]	"M_Talgat"
+["result","chat","type"]	"private"
+["result","date"]	1688619562
+["result","text"]	"0- 1615115630126554122 -  376048411 - 376048411 - RANDOM-BUTTON - 1 - Button pressed"
+
+Thu Jul  6 04:59:26 2023: DEBUG sendJson ==========
+["chat_id"]	376048411
+["text"]	"Bot dba_almaty_bot polling mode started ..."
+
+Thu Jul  6 04:59:26 2023: New Result ==========
+["ok"]	true
+["result","message_id"]	1098
+["result","from","id"]	6205889059
+["result","from","is_bot"]	true
+["result","from","first_name"]	"dba_almaty_bot"
+["result","from","username"]	"dba_almaty_bot"
+["result","chat","id"]	376048411
+["result","chat","first_name"]	"Talgat M"
+["result","chat","username"]	"M_Talgat"
+["result","chat","type"]	"private"
+["result","date"]	1688619566
+["result","text"]	"Bot dba_almaty_bot polling mode started ..."
+
+Thu Jul  6 04:59:26 2023: DEBUG sendJson ==========
+["chat_id"]	376048411
+["message_id"]	1096
+["reply_markup","inline_keyboard",0,0,"text"]	"Button 1040"
+["reply_markup","inline_keyboard",0,0,"callback_data"]	"RANDOM-BUTTON"
+
+Thu Jul  6 04:59:26 2023: New Result ==========
+["ok"]	true
+["result","message_id"]	1096
+["result","from","id"]	6205889059
+["result","from","is_bot"]	true
+["result","from","first_name"]	"dba_almaty_bot"
+["result","from","username"]	"dba_almaty_bot"
+["result","chat","id"]	376048411
+["result","chat","first_name"]	"Talgat M"
+["result","chat","username"]	"M_Talgat"
+["result","chat","type"]	"private"
+["result","date"]	1688619561
+["result","edit_date"]	1688619566
+["result","text"]	"Press Button ..."
+["result","reply_markup","inline_keyboard",0,0,"text"]	"Button 1040"
+["result","reply_markup","inline_keyboard",0,0,"callback_data"]	"RANDOM-BUTTON"
+
+Thu Jul  6 04:59:26 2023: DEBUG sendJson ==========
+["callback_query_id"]	"1615115630126554122"
+["text"]	"Button pressed"
+
+Thu Jul  6 04:59:26 2023: New Result ==========
+["ok"]	true
+["result"]	true
+
+Thu Jul  6 04:59:26 2023: DEBUG sendJson ==========
+["chat_id"]	376048411
+["text"]	"0- 1615115630126554122 -  376048411 - 376048411 - RANDOM-BUTTON - 1 - Button pressed"
+
+Thu Jul  6 04:59:26 2023: New Result ==========
+["ok"]	true
+["result","message_id"]	1099
+["result","from","id"]	6205889059
+["result","from","is_bot"]	true
+["result","from","first_name"]	"dba_almaty_bot"
+["result","from","username"]	"dba_almaty_bot"
+["result","chat","id"]	376048411
+["result","chat","first_name"]	"Talgat M"
+["result","chat","username"]	"M_Talgat"
+["result","chat","type"]	"private"
+["result","date"]	1688619566
+["result","text"]	"0- 1615115630126554122 -  376048411 - 376048411 - RANDOM-BUTTON - 1 - Button pressed"
+
+Thu Jul  6 05:12:29 2023: DEBUG sendJson ==========
+["chat_id"]	376048411
+["text"]	"Bot dba_almaty_bot polling mode started ..."
+
+Thu Jul  6 05:12:30 2023: New Result ==========
+["ok"]	true
+["result","message_id"]	1100
+["result","from","id"]	6205889059
+["result","from","is_bot"]	true
+["result","from","first_name"]	"dba_almaty_bot"
+["result","from","username"]	"dba_almaty_bot"
+["result","chat","id"]	376048411
+["result","chat","first_name"]	"Talgat M"
+["result","chat","username"]	"M_Talgat"
+["result","chat","type"]	"private"
+["result","date"]	1688620350
+["result","text"]	"Bot dba_almaty_bot polling mode started ..."
+
+Thu Jul  6 05:15:52 2023: DEBUG sendJson ==========
+["chat_id"]	376048411
+["text"]	"command from example received: /b"
+
+Thu Jul  6 05:15:52 2023: DEBUG sendJson ==========
+["chat_id"]	376048411
+["text"]	" -  -  -  - 1"
+
+Thu Jul  6 05:15:52 2023: New Result ==========
+["ok"]	true
+["result","message_id"]	1102
+["result","from","id"]	6205889059
+["result","from","is_bot"]	true
+["result","from","first_name"]	"dba_almaty_bot"
+["result","from","username"]	"dba_almaty_bot"
+["result","chat","id"]	376048411
+["result","chat","first_name"]	"Talgat M"
+["result","chat","username"]	"M_Talgat"
+["result","chat","type"]	"private"
+["result","date"]	1688620552
+["result","text"]	"command from example received: /b"
+["result","entities",0,"offset"]	31
+["result","entities",0,"length"]	2
+["result","entities",0,"type"]	"bot_command"
+
+Thu Jul  6 05:15:52 2023: New Result ==========
+["ok"]	true
+["result","message_id"]	1103
+["result","from","id"]	6205889059
+["result","from","is_bot"]	true
+["result","from","first_name"]	"dba_almaty_bot"
+["result","from","username"]	"dba_almaty_bot"
+["result","chat","id"]	376048411
+["result","chat","first_name"]	"Talgat M"
+["result","chat","username"]	"M_Talgat"
+["result","chat","type"]	"private"
+["result","date"]	1688620552
+["result","text"]	"-  -  -  - 1"
+
+Thu Jul  6 05:15:53 2023: DEBUG sendJson ==========
+["chat_id"]	376048411
+["text"]	"Press Button ..."
+["reply_markup","inline_keyboard",0,0,"text"]	"   Button   "
+["reply_markup","inline_keyboard",0,0,"callback_data"]	"RANDOM-BUTTON"
+
+Thu Jul  6 05:15:53 2023: New Result ==========
+["ok"]	true
+["result","message_id"]	1104
+["result","from","id"]	6205889059
+["result","from","is_bot"]	true
+["result","from","first_name"]	"dba_almaty_bot"
+["result","from","username"]	"dba_almaty_bot"
+["result","chat","id"]	376048411
+["result","chat","first_name"]	"Talgat M"
+["result","chat","username"]	"M_Talgat"
+["result","chat","type"]	"private"
+["result","date"]	1688620553
+["result","text"]	"Press Button ..."
+["result","reply_markup","inline_keyboard",0,0,"text"]	"   Button   "
+["result","reply_markup","inline_keyboard",0,0,"callback_data"]	"RANDOM-BUTTON"
+
+Thu Jul  6 05:18:42 2023: DEBUG sendJson ==========
+["chat_id"]	376048411
+["text"]	"command from example received: /b"
+
+Thu Jul  6 05:18:42 2023: DEBUG sendJson ==========
+["chat_id"]	376048411
+["text"]	" -  -  -  - 1"
+
+Thu Jul  6 05:18:42 2023: New Result ==========
+["ok"]	true
+["result","message_id"]	1106
+["result","from","id"]	6205889059
+["result","from","is_bot"]	true
+["result","from","first_name"]	"dba_almaty_bot"
+["result","from","username"]	"dba_almaty_bot"
+["result","chat","id"]	376048411
+["result","chat","first_name"]	"Talgat M"
+["result","chat","username"]	"M_Talgat"
+["result","chat","type"]	"private"
+["result","date"]	1688620722
+["result","text"]	"command from example received: /b"
+["result","entities",0,"offset"]	31
+["result","entities",0,"length"]	2
+["result","entities",0,"type"]	"bot_command"
+
+Thu Jul  6 05:18:42 2023: New Result ==========
+["ok"]	true
+["result","message_id"]	1107
+["result","from","id"]	6205889059
+["result","from","is_bot"]	true
+["result","from","first_name"]	"dba_almaty_bot"
+["result","from","username"]	"dba_almaty_bot"
+["result","chat","id"]	376048411
+["result","chat","first_name"]	"Talgat M"
+["result","chat","username"]	"M_Talgat"
+["result","chat","type"]	"private"
+["result","date"]	1688620722
+["result","text"]	"-  -  -  - 1"
+
+Thu Jul  6 05:18:42 2023: DEBUG sendJson ==========
+["chat_id"]	376048411
+["text"]	"Press Button ..."
+["reply_markup","inline_keyboard",0,0,"text"]	"   Button   "
+["reply_markup","inline_keyboard",0,0,"callback_data"]	"RANDOM-BUTTON"
+
+Thu Jul  6 05:18:42 2023: New Result ==========
+["ok"]	true
+["result","message_id"]	1108
+["result","from","id"]	6205889059
+["result","from","is_bot"]	true
+["result","from","first_name"]	"dba_almaty_bot"
+["result","from","username"]	"dba_almaty_bot"
+["result","chat","id"]	376048411
+["result","chat","first_name"]	"Talgat M"
+["result","chat","username"]	"M_Talgat"
+["result","chat","type"]	"private"
+["result","date"]	1688620722
+["result","text"]	"Press Button ..."
+["result","reply_markup","inline_keyboard",0,0,"text"]	"   Button   "
+["result","reply_markup","inline_keyboard",0,0,"callback_data"]	"RANDOM-BUTTON"
+
+Thu Jul  6 05:18:58 2023: DEBUG sendJson ==========
+["chat_id"]	376048411
+["message_id"]	1108
+["reply_markup","inline_keyboard",0,0,"text"]	"Button 3622"
+["reply_markup","inline_keyboard",0,0,"callback_data"]	"RANDOM-BUTTON"
+
+Thu Jul  6 05:18:58 2023: New Result ==========
+["ok"]	true
+["result","message_id"]	1108
+["result","from","id"]	6205889059
+["result","from","is_bot"]	true
+["result","from","first_name"]	"dba_almaty_bot"
+["result","from","username"]	"dba_almaty_bot"
+["result","chat","id"]	376048411
+["result","chat","first_name"]	"Talgat M"
+["result","chat","username"]	"M_Talgat"
+["result","chat","type"]	"private"
+["result","date"]	1688620722
+["result","edit_date"]	1688620738
+["result","text"]	"Press Button ..."
+["result","reply_markup","inline_keyboard",0,0,"text"]	"Button 3622"
+["result","reply_markup","inline_keyboard",0,0,"callback_data"]	"RANDOM-BUTTON"
+
+Thu Jul  6 05:18:58 2023: DEBUG sendJson ==========
+["callback_query_id"]	"1615115630739958911"
+["text"]	"Button_pressed"
+
+Thu Jul  6 05:18:58 2023: New Result ==========
+["ok"]	true
+["result"]	true
+
+Thu Jul  6 05:18:58 2023: DEBUG sendJson ==========
+["chat_id"]	376048411
+["text"]	"0- 1615115630739958911 -  376048411 - 376048411 - RANDOM-BUTTON - 1 - Button_pressed"
+
+Thu Jul  6 05:18:58 2023: New Result ==========
+["ok"]	true
+["result","message_id"]	1109
+["result","from","id"]	6205889059
+["result","from","is_bot"]	true
+["result","from","first_name"]	"dba_almaty_bot"
+["result","from","username"]	"dba_almaty_bot"
+["result","chat","id"]	376048411
+["result","chat","first_name"]	"Talgat M"
+["result","chat","username"]	"M_Talgat"
+["result","chat","type"]	"private"
+["result","date"]	1688620738
+["result","text"]	"0- 1615115630739958911 -  376048411 - 376048411 - RANDOM-BUTTON - 1 - Button_pressed"
+
+Thu Jul  6 05:21:01 2023: DEBUG sendJson ==========
+["chat_id"]	376048411
+["text"]	"Bot dba_almaty_bot polling mode started ..."
+
+Thu Jul  6 05:21:01 2023: New Result ==========
+["ok"]	true
+["result","message_id"]	1110
+["result","from","id"]	6205889059
+["result","from","is_bot"]	true
+["result","from","first_name"]	"dba_almaty_bot"
+["result","from","username"]	"dba_almaty_bot"
+["result","chat","id"]	376048411
+["result","chat","first_name"]	"Talgat M"
+["result","chat","username"]	"M_Talgat"
+["result","chat","type"]	"private"
+["result","date"]	1688620861
+["result","text"]	"Bot dba_almaty_bot polling mode started ..."
+
+Thu Jul  6 05:21:01 2023: DEBUG sendJson ==========
+["chat_id"]	376048411
+["message_id"]	1108
+["reply_markup","inline_keyboard",0,0,"text"]	"Button 9719"
+["reply_markup","inline_keyboard",0,0,"callback_data"]	"RANDOM-BUTTON"
+
+Thu Jul  6 05:21:01 2023: New Result ==========
+["ok"]	true
+["result","message_id"]	1108
+["result","from","id"]	6205889059
+["result","from","is_bot"]	true
+["result","from","first_name"]	"dba_almaty_bot"
+["result","from","username"]	"dba_almaty_bot"
+["result","chat","id"]	376048411
+["result","chat","first_name"]	"Talgat M"
+["result","chat","username"]	"M_Talgat"
+["result","chat","type"]	"private"
+["result","date"]	1688620722
+["result","edit_date"]	1688620861
+["result","text"]	"Press Button ..."
+["result","reply_markup","inline_keyboard",0,0,"text"]	"Button 9719"
+["result","reply_markup","inline_keyboard",0,0,"callback_data"]	"RANDOM-BUTTON"
+
+Thu Jul  6 05:21:01 2023: DEBUG sendJson ==========
+["callback_query_id"]	"1615115630739958911"
+["text"]	"Button_pressed"
+
+Thu Jul  6 05:21:01 2023: New Result ==========
+["ok"]	false
+["error_code"]	400
+["description"]	"Bad Request: query is too old and response timeout expired or query ID is invalid"
+
+Thu Jul  6 05:21:01 2023: DEBUG sendJson ==========
+["chat_id"]	376048411
+["text"]	"0- 1615115630739958911 -  376048411 - 376048411 - RANDOM-BUTTON - 1 - Button_pressed"
+
+Thu Jul  6 05:21:01 2023: New Result ==========
+["ok"]	true
+["result","message_id"]	1111
+["result","from","id"]	6205889059
+["result","from","is_bot"]	true
+["result","from","first_name"]	"dba_almaty_bot"
+["result","from","username"]	"dba_almaty_bot"
+["result","chat","id"]	376048411
+["result","chat","first_name"]	"Talgat M"
+["result","chat","username"]	"M_Talgat"
+["result","chat","type"]	"private"
+["result","date"]	1688620861
+["result","text"]	"0- 1615115630739958911 -  376048411 - 376048411 - RANDOM-BUTTON - 1 - Button_pressed"
+
+Thu Jul  6 05:21:07 2023: DEBUG sendJson ==========
+["chat_id"]	376048411
+["text"]	"Bot dba_almaty_bot polling mode started ..."
+
+Thu Jul  6 05:21:08 2023: New Result ==========
+["ok"]	true
+["result","message_id"]	1112
+["result","from","id"]	6205889059
+["result","from","is_bot"]	true
+["result","from","first_name"]	"dba_almaty_bot"
+["result","from","username"]	"dba_almaty_bot"
+["result","chat","id"]	376048411
+["result","chat","first_name"]	"Talgat M"
+["result","chat","username"]	"M_Talgat"
+["result","chat","type"]	"private"
+["result","date"]	1688620868
+["result","text"]	"Bot dba_almaty_bot polling mode started ..."
+
+Thu Jul  6 05:21:08 2023: DEBUG sendJson ==========
+["chat_id"]	376048411
+["message_id"]	1108
+["reply_markup","inline_keyboard",0,0,"text"]	"Button 32103"
+["reply_markup","inline_keyboard",0,0,"callback_data"]	"RANDOM-BUTTON"
+
+Thu Jul  6 05:21:08 2023: New Result ==========
+["ok"]	true
+["result","message_id"]	1108
+["result","from","id"]	6205889059
+["result","from","is_bot"]	true
+["result","from","first_name"]	"dba_almaty_bot"
+["result","from","username"]	"dba_almaty_bot"
+["result","chat","id"]	376048411
+["result","chat","first_name"]	"Talgat M"
+["result","chat","username"]	"M_Talgat"
+["result","chat","type"]	"private"
+["result","date"]	1688620722
+["result","edit_date"]	1688620868
+["result","text"]	"Press Button ..."
+["result","reply_markup","inline_keyboard",0,0,"text"]	"Button 32103"
+["result","reply_markup","inline_keyboard",0,0,"callback_data"]	"RANDOM-BUTTON"
+
+Thu Jul  6 05:21:08 2023: DEBUG sendJson ==========
+["callback_query_id"]	"1615115630739958911"
+["text"]	"Button_pressed"
+
+Thu Jul  6 05:21:08 2023: New Result ==========
+["ok"]	false
+["error_code"]	400
+["description"]	"Bad Request: query is too old and response timeout expired or query ID is invalid"
+
+Thu Jul  6 05:21:08 2023: DEBUG sendJson ==========
+["chat_id"]	376048411
+["text"]	"0- 1615115630739958911 -  376048411 - 376048411 - RANDOM-BUTTON - 1 - Button_pressed"
+
+Thu Jul  6 05:21:08 2023: New Result ==========
+["ok"]	true
+["result","message_id"]	1113
+["result","from","id"]	6205889059
+["result","from","is_bot"]	true
+["result","from","first_name"]	"dba_almaty_bot"
+["result","from","username"]	"dba_almaty_bot"
+["result","chat","id"]	376048411
+["result","chat","first_name"]	"Talgat M"
+["result","chat","username"]	"M_Talgat"
+["result","chat","type"]	"private"
+["result","date"]	1688620868
+["result","text"]	"0- 1615115630739958911 -  376048411 - 376048411 - RANDOM-BUTTON - 1 - Button_pressed"
+
+Thu Jul  6 05:21:15 2023: DEBUG sendJson ==========
+["chat_id"]	376048411
+["text"]	"Bot dba_almaty_bot polling mode started ..."
+
+Thu Jul  6 05:21:15 2023: New Result ==========
+["ok"]	true
+["result","message_id"]	1114
+["result","from","id"]	6205889059
+["result","from","is_bot"]	true
+["result","from","first_name"]	"dba_almaty_bot"
+["result","from","username"]	"dba_almaty_bot"
+["result","chat","id"]	376048411
+["result","chat","first_name"]	"Talgat M"
+["result","chat","username"]	"M_Talgat"
+["result","chat","type"]	"private"
+["result","date"]	1688620875
+["result","text"]	"Bot dba_almaty_bot polling mode started ..."
+
+Thu Jul  6 05:21:15 2023: DEBUG sendJson ==========
+["chat_id"]	376048411
+["message_id"]	1108
+["reply_markup","inline_keyboard",0,0,"text"]	"Button 16926"
+["reply_markup","inline_keyboard",0,0,"callback_data"]	"RANDOM-BUTTON"
+
+Thu Jul  6 05:21:15 2023: New Result ==========
+["ok"]	true
+["result","message_id"]	1108
+["result","from","id"]	6205889059
+["result","from","is_bot"]	true
+["result","from","first_name"]	"dba_almaty_bot"
+["result","from","username"]	"dba_almaty_bot"
+["result","chat","id"]	376048411
+["result","chat","first_name"]	"Talgat M"
+["result","chat","username"]	"M_Talgat"
+["result","chat","type"]	"private"
+["result","date"]	1688620722
+["result","edit_date"]	1688620875
+["result","text"]	"Press Button ..."
+["result","reply_markup","inline_keyboard",0,0,"text"]	"Button 16926"
+["result","reply_markup","inline_keyboard",0,0,"callback_data"]	"RANDOM-BUTTON"
+
+Thu Jul  6 05:21:15 2023: DEBUG sendJson ==========
+["callback_query_id"]	"1615115630739958911"
+["text"]	"Button_pressed"
+
+Thu Jul  6 05:21:16 2023: New Result ==========
+["ok"]	false
+["error_code"]	400
+["description"]	"Bad Request: query is too old and response timeout expired or query ID is invalid"
+
+Thu Jul  6 05:21:16 2023: DEBUG sendJson ==========
+["chat_id"]	376048411
+["text"]	"0- 1615115630739958911 -  376048411 - 376048411 - RANDOM-BUTTON - 1 - Button_pressed"
+
+Thu Jul  6 05:21:16 2023: New Result ==========
+["ok"]	true
+["result","message_id"]	1115
+["result","from","id"]	6205889059
+["result","from","is_bot"]	true
+["result","from","first_name"]	"dba_almaty_bot"
+["result","from","username"]	"dba_almaty_bot"
+["result","chat","id"]	376048411
+["result","chat","first_name"]	"Talgat M"
+["result","chat","username"]	"M_Talgat"
+["result","chat","type"]	"private"
+["result","date"]	1688620876
+["result","text"]	"0- 1615115630739958911 -  376048411 - 376048411 - RANDOM-BUTTON - 1 - Button_pressed"
+
+Thu Jul  6 05:26:07 2023: DEBUG sendJson ==========
+["chat_id"]	376048411
+["text"]	"Bot  polling mode started ..."
+
+Thu Jul  6 05:26:07 2023: New Result ==========
+["ok"]	true
+["result","message_id"]	1116
+["result","from","id"]	6205889059
+["result","from","is_bot"]	true
+["result","from","first_name"]	"dba_almaty_bot"
+["result","from","username"]	"dba_almaty_bot"
+["result","chat","id"]	376048411
+["result","chat","first_name"]	"Talgat M"
+["result","chat","username"]	"M_Talgat"
+["result","chat","type"]	"private"
+["result","date"]	1688621167
+["result","text"]	"Bot  polling mode started ..."
+
+Thu Jul  6 05:26:17 2023: DEBUG sendJson ==========
+["chat_id"]	376048411
+["text"]	"command from example received: /b"
+
+Thu Jul  6 05:26:17 2023: DEBUG sendJson ==========
+["chat_id"]	376048411
+["text"]	" -  -  -  - 1"
+
+Thu Jul  6 05:26:17 2023: New Result ==========
+["ok"]	true
+["result","message_id"]	1118
+["result","from","id"]	6205889059
+["result","from","is_bot"]	true
+["result","from","first_name"]	"dba_almaty_bot"
+["result","from","username"]	"dba_almaty_bot"
+["result","chat","id"]	376048411
+["result","chat","first_name"]	"Talgat M"
+["result","chat","username"]	"M_Talgat"
+["result","chat","type"]	"private"
+["result","date"]	1688621177
+["result","text"]	"command from example received: /b"
+["result","entities",0,"offset"]	31
+["result","entities",0,"length"]	2
+["result","entities",0,"type"]	"bot_command"
+
+Thu Jul  6 05:26:17 2023: New Result ==========
+["ok"]	true
+["result","message_id"]	1119
+["result","from","id"]	6205889059
+["result","from","is_bot"]	true
+["result","from","first_name"]	"dba_almaty_bot"
+["result","from","username"]	"dba_almaty_bot"
+["result","chat","id"]	376048411
+["result","chat","first_name"]	"Talgat M"
+["result","chat","username"]	"M_Talgat"
+["result","chat","type"]	"private"
+["result","date"]	1688621177
+["result","text"]	"-  -  -  - 1"
+
+Thu Jul  6 05:26:17 2023: DEBUG sendJson ==========
+["chat_id"]	376048411
+["text"]	"Press Button ..."
+["reply_markup","inline_keyboard",0,0,"text"]	"   Button   "
+["reply_markup","inline_keyboard",0,0,"callback_data"]	"RANDOM-BUTTON"
+
+Thu Jul  6 05:26:17 2023: New Result ==========
+["ok"]	true
+["result","message_id"]	1120
+["result","from","id"]	6205889059
+["result","from","is_bot"]	true
+["result","from","first_name"]	"dba_almaty_bot"
+["result","from","username"]	"dba_almaty_bot"
+["result","chat","id"]	376048411
+["result","chat","first_name"]	"Talgat M"
+["result","chat","username"]	"M_Talgat"
+["result","chat","type"]	"private"
+["result","date"]	1688621177
+["result","text"]	"Press Button ..."
+["result","reply_markup","inline_keyboard",0,0,"text"]	"   Button   "
+["result","reply_markup","inline_keyboard",0,0,"callback_data"]	"RANDOM-BUTTON"
+
+Thu Jul  6 05:26:19 2023: DEBUG sendJson ==========
+["chat_id"]	376048411
+["message_id"]	1120
+["reply_markup","inline_keyboard",0,0,"text"]	"Button 29152"
+["reply_markup","inline_keyboard",0,0,"callback_data"]	"RANDOM-BUTTON"
+
+Thu Jul  6 05:26:19 2023: New Result ==========
+["ok"]	true
+["result","message_id"]	1120
+["result","from","id"]	6205889059
+["result","from","is_bot"]	true
+["result","from","first_name"]	"dba_almaty_bot"
+["result","from","username"]	"dba_almaty_bot"
+["result","chat","id"]	376048411
+["result","chat","first_name"]	"Talgat M"
+["result","chat","username"]	"M_Talgat"
+["result","chat","type"]	"private"
+["result","date"]	1688621177
+["result","edit_date"]	1688621179
+["result","text"]	"Press Button ..."
+["result","reply_markup","inline_keyboard",0,0,"text"]	"Button 29152"
+["result","reply_markup","inline_keyboard",0,0,"callback_data"]	"RANDOM-BUTTON"
+
+Thu Jul  6 05:26:19 2023: DEBUG sendJson ==========
+["callback_query_id"]	"1615115630811706812"
+["text"]	"Button_pressed"
+
+Thu Jul  6 05:26:19 2023: New Result ==========
+["ok"]	true
+["result"]	true
+
+Thu Jul  6 05:26:19 2023: DEBUG sendJson ==========
+["chat_id"]	376048411
+["text"]	"0- 1615115630811706812 -  376048411 - 376048411 - RANDOM-BUTTON - 1 - Button_pressed"
+
+Thu Jul  6 05:26:19 2023: New Result ==========
+["ok"]	true
+["result","message_id"]	1121
+["result","from","id"]	6205889059
+["result","from","is_bot"]	true
+["result","from","first_name"]	"dba_almaty_bot"
+["result","from","username"]	"dba_almaty_bot"
+["result","chat","id"]	376048411
+["result","chat","first_name"]	"Talgat M"
+["result","chat","username"]	"M_Talgat"
+["result","chat","type"]	"private"
+["result","date"]	1688621179
+["result","text"]	"0- 1615115630811706812 -  376048411 - 376048411 - RANDOM-BUTTON - 1 - Button_pressed"
+
+Thu Jul  6 05:26:24 2023: DEBUG sendJson ==========
+["chat_id"]	376048411
+["text"]	"Bot  polling mode started ..."
+
+Thu Jul  6 05:26:24 2023: New Result ==========
+["ok"]	true
+["result","message_id"]	1122
+["result","from","id"]	6205889059
+["result","from","is_bot"]	true
+["result","from","first_name"]	"dba_almaty_bot"
+["result","from","username"]	"dba_almaty_bot"
+["result","chat","id"]	376048411
+["result","chat","first_name"]	"Talgat M"
+["result","chat","username"]	"M_Talgat"
+["result","chat","type"]	"private"
+["result","date"]	1688621184
+["result","text"]	"Bot  polling mode started ..."
+
+Thu Jul  6 05:26:24 2023: DEBUG sendJson ==========
+["chat_id"]	376048411
+["message_id"]	1120
+["reply_markup","inline_keyboard",0,0,"text"]	"Button 14263"
+["reply_markup","inline_keyboard",0,0,"callback_data"]	"RANDOM-BUTTON"
+
+Thu Jul  6 05:26:24 2023: New Result ==========
+["ok"]	true
+["result","message_id"]	1120
+["result","from","id"]	6205889059
+["result","from","is_bot"]	true
+["result","from","first_name"]	"dba_almaty_bot"
+["result","from","username"]	"dba_almaty_bot"
+["result","chat","id"]	376048411
+["result","chat","first_name"]	"Talgat M"
+["result","chat","username"]	"M_Talgat"
+["result","chat","type"]	"private"
+["result","date"]	1688621177
+["result","edit_date"]	1688621184
+["result","text"]	"Press Button ..."
+["result","reply_markup","inline_keyboard",0,0,"text"]	"Button 14263"
+["result","reply_markup","inline_keyboard",0,0,"callback_data"]	"RANDOM-BUTTON"
+
+Thu Jul  6 05:26:24 2023: DEBUG sendJson ==========
+["callback_query_id"]	"1615115630811706812"
+["text"]	"Button_pressed"
+
+Thu Jul  6 05:26:24 2023: New Result ==========
+["ok"]	true
+["result"]	true
+
+Thu Jul  6 05:26:24 2023: DEBUG sendJson ==========
+["chat_id"]	376048411
+["text"]	"0- 1615115630811706812 -  376048411 - 376048411 - RANDOM-BUTTON - 1 - Button_pressed"
+
+Thu Jul  6 05:26:24 2023: New Result ==========
+["ok"]	true
+["result","message_id"]	1123
+["result","from","id"]	6205889059
+["result","from","is_bot"]	true
+["result","from","first_name"]	"dba_almaty_bot"
+["result","from","username"]	"dba_almaty_bot"
+["result","chat","id"]	376048411
+["result","chat","first_name"]	"Talgat M"
+["result","chat","username"]	"M_Talgat"
+["result","chat","type"]	"private"
+["result","date"]	1688621184
+["result","text"]	"0- 1615115630811706812 -  376048411 - 376048411 - RANDOM-BUTTON - 1 - Button_pressed"
+
+Thu Jul  6 05:26:29 2023: DEBUG sendJson ==========
+["chat_id"]	376048411
+["text"]	"Bot  polling mode started ..."
+
+Thu Jul  6 05:26:29 2023: New Result ==========
+["ok"]	true
+["result","message_id"]	1124
+["result","from","id"]	6205889059
+["result","from","is_bot"]	true
+["result","from","first_name"]	"dba_almaty_bot"
+["result","from","username"]	"dba_almaty_bot"
+["result","chat","id"]	376048411
+["result","chat","first_name"]	"Talgat M"
+["result","chat","username"]	"M_Talgat"
+["result","chat","type"]	"private"
+["result","date"]	1688621189
+["result","text"]	"Bot  polling mode started ..."
+
+Thu Jul  6 05:26:29 2023: DEBUG sendJson ==========
+["chat_id"]	376048411
+["message_id"]	1120
+["reply_markup","inline_keyboard",0,0,"text"]	"Button 10720"
+["reply_markup","inline_keyboard",0,0,"callback_data"]	"RANDOM-BUTTON"
+
+Thu Jul  6 05:26:29 2023: New Result ==========
+["ok"]	true
+["result","message_id"]	1120
+["result","from","id"]	6205889059
+["result","from","is_bot"]	true
+["result","from","first_name"]	"dba_almaty_bot"
+["result","from","username"]	"dba_almaty_bot"
+["result","chat","id"]	376048411
+["result","chat","first_name"]	"Talgat M"
+["result","chat","username"]	"M_Talgat"
+["result","chat","type"]	"private"
+["result","date"]	1688621177
+["result","edit_date"]	1688621189
+["result","text"]	"Press Button ..."
+["result","reply_markup","inline_keyboard",0,0,"text"]	"Button 10720"
+["result","reply_markup","inline_keyboard",0,0,"callback_data"]	"RANDOM-BUTTON"
+
+Thu Jul  6 05:26:29 2023: DEBUG sendJson ==========
+["callback_query_id"]	"1615115630811706812"
+["text"]	"Button_pressed"
+
+Thu Jul  6 05:26:30 2023: New Result ==========
+["ok"]	true
+["result"]	true
+
+Thu Jul  6 05:26:30 2023: DEBUG sendJson ==========
+["chat_id"]	376048411
+["text"]	"0- 1615115630811706812 -  376048411 - 376048411 - RANDOM-BUTTON - 1 - Button_pressed"
+
+Thu Jul  6 05:26:30 2023: New Result ==========
+["ok"]	true
+["result","message_id"]	1125
+["result","from","id"]	6205889059
+["result","from","is_bot"]	true
+["result","from","first_name"]	"dba_almaty_bot"
+["result","from","username"]	"dba_almaty_bot"
+["result","chat","id"]	376048411
+["result","chat","first_name"]	"Talgat M"
+["result","chat","username"]	"M_Talgat"
+["result","chat","type"]	"private"
+["result","date"]	1688621190
+["result","text"]	"0- 1615115630811706812 -  376048411 - 376048411 - RANDOM-BUTTON - 1 - Button_pressed"
+
+Thu Jul  6 05:27:02 2023: DEBUG sendJson ==========
+["chat_id"]	376048411
+["text"]	"Bot dba_almaty_bot polling mode started ..."
+
+Thu Jul  6 05:27:02 2023: New Result ==========
+["ok"]	true
+["result","message_id"]	1126
+["result","from","id"]	6205889059
+["result","from","is_bot"]	true
+["result","from","first_name"]	"dba_almaty_bot"
+["result","from","username"]	"dba_almaty_bot"
+["result","chat","id"]	376048411
+["result","chat","first_name"]	"Talgat M"
+["result","chat","username"]	"M_Talgat"
+["result","chat","type"]	"private"
+["result","date"]	1688621222
+["result","text"]	"Bot dba_almaty_bot polling mode started ..."
+
+Thu Jul  6 05:27:02 2023: DEBUG sendJson ==========
+["chat_id"]	376048411
+["message_id"]	1120
+["reply_markup","inline_keyboard",0,0,"text"]	"Button 8164"
+["reply_markup","inline_keyboard",0,0,"callback_data"]	"RANDOM-BUTTON"
+
+Thu Jul  6 05:27:03 2023: New Result ==========
+["ok"]	true
+["result","message_id"]	1120
+["result","from","id"]	6205889059
+["result","from","is_bot"]	true
+["result","from","first_name"]	"dba_almaty_bot"
+["result","from","username"]	"dba_almaty_bot"
+["result","chat","id"]	376048411
+["result","chat","first_name"]	"Talgat M"
+["result","chat","username"]	"M_Talgat"
+["result","chat","type"]	"private"
+["result","date"]	1688621177
+["result","edit_date"]	1688621223
+["result","text"]	"Press Button ..."
+["result","reply_markup","inline_keyboard",0,0,"text"]	"Button 8164"
+["result","reply_markup","inline_keyboard",0,0,"callback_data"]	"RANDOM-BUTTON"
+
+Thu Jul  6 05:27:03 2023: DEBUG sendJson ==========
+["callback_query_id"]	"1615115630811706812"
+["text"]	"Button_pressed"
+
+Thu Jul  6 05:27:03 2023: New Result ==========
+["ok"]	false
+["error_code"]	400
+["description"]	"Bad Request: query is too old and response timeout expired or query ID is invalid"
+
+Thu Jul  6 05:27:03 2023: DEBUG sendJson ==========
+["chat_id"]	376048411
+["text"]	"0- 1615115630811706812 -  376048411 - 376048411 - RANDOM-BUTTON - 1 - Button_pressed"
+
+Thu Jul  6 05:27:03 2023: New Result ==========
+["ok"]	true
+["result","message_id"]	1127
+["result","from","id"]	6205889059
+["result","from","is_bot"]	true
+["result","from","first_name"]	"dba_almaty_bot"
+["result","from","username"]	"dba_almaty_bot"
+["result","chat","id"]	376048411
+["result","chat","first_name"]	"Talgat M"
+["result","chat","username"]	"M_Talgat"
+["result","chat","type"]	"private"
+["result","date"]	1688621223
+["result","text"]	"0- 1615115630811706812 -  376048411 - 376048411 - RANDOM-BUTTON - 1 - Button_pressed"
+
+Thu Jul  6 05:27:15 2023: DEBUG sendJson ==========
+["chat_id"]	376048411
+["text"]	"Bot dba_almaty_bot polling mode started ..."
+
+Thu Jul  6 05:27:15 2023: New Result ==========
+["ok"]	true
+["result","message_id"]	1128
+["result","from","id"]	6205889059
+["result","from","is_bot"]	true
+["result","from","first_name"]	"dba_almaty_bot"
+["result","from","username"]	"dba_almaty_bot"
+["result","chat","id"]	376048411
+["result","chat","first_name"]	"Talgat M"
+["result","chat","username"]	"M_Talgat"
+["result","chat","type"]	"private"
+["result","date"]	1688621235
+["result","text"]	"Bot dba_almaty_bot polling mode started ..."
+
+Thu Jul  6 05:27:15 2023: DEBUG sendJson ==========
+["chat_id"]	376048411
+["message_id"]	1120
+["reply_markup","inline_keyboard",0,0,"text"]	"Button 29582"
+["reply_markup","inline_keyboard",0,0,"callback_data"]	"RANDOM-BUTTON"
+
+Thu Jul  6 05:27:16 2023: New Result ==========
+["ok"]	true
+["result","message_id"]	1120
+["result","from","id"]	6205889059
+["result","from","is_bot"]	true
+["result","from","first_name"]	"dba_almaty_bot"
+["result","from","username"]	"dba_almaty_bot"
+["result","chat","id"]	376048411
+["result","chat","first_name"]	"Talgat M"
+["result","chat","username"]	"M_Talgat"
+["result","chat","type"]	"private"
+["result","date"]	1688621177
+["result","edit_date"]	1688621235
+["result","text"]	"Press Button ..."
+["result","reply_markup","inline_keyboard",0,0,"text"]	"Button 29582"
+["result","reply_markup","inline_keyboard",0,0,"callback_data"]	"RANDOM-BUTTON"
+
+Thu Jul  6 05:27:16 2023: DEBUG sendJson ==========
+["callback_query_id"]	"1615115630811706812"
+["text"]	"Button_pressed"
+
+Thu Jul  6 05:27:16 2023: New Result ==========
+["ok"]	false
+["error_code"]	400
+["description"]	"Bad Request: query is too old and response timeout expired or query ID is invalid"
+
+Thu Jul  6 05:27:16 2023: DEBUG sendJson ==========
+["chat_id"]	376048411
+["text"]	"0- 1615115630811706812 -  376048411 - 376048411 - RANDOM-BUTTON - 1 - Button_pressed"
+
+Thu Jul  6 05:27:16 2023: New Result ==========
+["ok"]	true
+["result","message_id"]	1129
+["result","from","id"]	6205889059
+["result","from","is_bot"]	true
+["result","from","first_name"]	"dba_almaty_bot"
+["result","from","username"]	"dba_almaty_bot"
+["result","chat","id"]	376048411
+["result","chat","first_name"]	"Talgat M"
+["result","chat","username"]	"M_Talgat"
+["result","chat","type"]	"private"
+["result","date"]	1688621236
+["result","text"]	"0- 1615115630811706812 -  376048411 - 376048411 - RANDOM-BUTTON - 1 - Button_pressed"
+
+Thu Jul  6 05:27:28 2023: DEBUG sendJson ==========
+["chat_id"]	376048411
+["text"]	"Bot dba_almaty_bot polling mode started ..."
+
+Thu Jul  6 05:27:28 2023: New Result ==========
+["ok"]	true
+["result","message_id"]	1130
+["result","from","id"]	6205889059
+["result","from","is_bot"]	true
+["result","from","first_name"]	"dba_almaty_bot"
+["result","from","username"]	"dba_almaty_bot"
+["result","chat","id"]	376048411
+["result","chat","first_name"]	"Talgat M"
+["result","chat","username"]	"M_Talgat"
+["result","chat","type"]	"private"
+["result","date"]	1688621248
+["result","text"]	"Bot dba_almaty_bot polling mode started ..."
+
+Thu Jul  6 05:27:28 2023: DEBUG sendJson ==========
+["chat_id"]	376048411
+["message_id"]	1120
+["reply_markup","inline_keyboard",0,0,"text"]	"Button 23002"
+["reply_markup","inline_keyboard",0,0,"callback_data"]	"RANDOM-BUTTON"
+
+Thu Jul  6 05:27:28 2023: New Result ==========
+["ok"]	true
+["result","message_id"]	1120
+["result","from","id"]	6205889059
+["result","from","is_bot"]	true
+["result","from","first_name"]	"dba_almaty_bot"
+["result","from","username"]	"dba_almaty_bot"
+["result","chat","id"]	376048411
+["result","chat","first_name"]	"Talgat M"
+["result","chat","username"]	"M_Talgat"
+["result","chat","type"]	"private"
+["result","date"]	1688621177
+["result","edit_date"]	1688621248
+["result","text"]	"Press Button ..."
+["result","reply_markup","inline_keyboard",0,0,"text"]	"Button 23002"
+["result","reply_markup","inline_keyboard",0,0,"callback_data"]	"RANDOM-BUTTON"
+
+Thu Jul  6 05:27:28 2023: DEBUG sendJson ==========
+["callback_query_id"]	"1615115630811706812"
+["text"]	"Button_pressed"
+
+Thu Jul  6 05:27:28 2023: New Result ==========
+["ok"]	false
+["error_code"]	400
+["description"]	"Bad Request: query is too old and response timeout expired or query ID is invalid"
+
+Thu Jul  6 05:27:28 2023: DEBUG sendJson ==========
+["chat_id"]	376048411
+["text"]	"0- 1615115630811706812 -  376048411 - 376048411 - RANDOM-BUTTON - 1 - Button_pressed"
+
+Thu Jul  6 05:27:28 2023: New Result ==========
+["ok"]	true
+["result","message_id"]	1131
+["result","from","id"]	6205889059
+["result","from","is_bot"]	true
+["result","from","first_name"]	"dba_almaty_bot"
+["result","from","username"]	"dba_almaty_bot"
+["result","chat","id"]	376048411
+["result","chat","first_name"]	"Talgat M"
+["result","chat","username"]	"M_Talgat"
+["result","chat","type"]	"private"
+["result","date"]	1688621248
+["result","text"]	"0- 1615115630811706812 -  376048411 - 376048411 - RANDOM-BUTTON - 1 - Button_pressed"
+
+Thu Jul  6 05:28:35 2023: DEBUG sendJson ==========
+["chat_id"]	376048411
+["text"]	"Bot dba_almaty_bot polling mode started ..."
+
+Thu Jul  6 05:28:35 2023: New Result ==========
+["ok"]	true
+["result","message_id"]	1132
+["result","from","id"]	6205889059
+["result","from","is_bot"]	true
+["result","from","first_name"]	"dba_almaty_bot"
+["result","from","username"]	"dba_almaty_bot"
+["result","chat","id"]	376048411
+["result","chat","first_name"]	"Talgat M"
+["result","chat","username"]	"M_Talgat"
+["result","chat","type"]	"private"
+["result","date"]	1688621315
+["result","text"]	"Bot dba_almaty_bot polling mode started ..."
+
+Thu Jul  6 05:28:35 2023: DEBUG sendJson ==========
+["chat_id"]	376048411
+["message_id"]	1120
+["reply_markup","inline_keyboard",0,0,"text"]	"Button 22405"
+["reply_markup","inline_keyboard",0,0,"callback_data"]	"RANDOM-BUTTON"
+
+Thu Jul  6 05:28:35 2023: New Result ==========
+["ok"]	true
+["result","message_id"]	1120
+["result","from","id"]	6205889059
+["result","from","is_bot"]	true
+["result","from","first_name"]	"dba_almaty_bot"
+["result","from","username"]	"dba_almaty_bot"
+["result","chat","id"]	376048411
+["result","chat","first_name"]	"Talgat M"
+["result","chat","username"]	"M_Talgat"
+["result","chat","type"]	"private"
+["result","date"]	1688621177
+["result","edit_date"]	1688621315
+["result","text"]	"Press Button ..."
+["result","reply_markup","inline_keyboard",0,0,"text"]	"Button 22405"
+["result","reply_markup","inline_keyboard",0,0,"callback_data"]	"RANDOM-BUTTON"
+
+Thu Jul  6 05:28:35 2023: DEBUG sendJson ==========
+["callback_query_id"]	"1615115630811706812"
+["text"]	"Button_pressed"
+
+Thu Jul  6 05:28:35 2023: New Result ==========
+["ok"]	false
+["error_code"]	400
+["description"]	"Bad Request: query is too old and response timeout expired or query ID is invalid"
+
+Thu Jul  6 05:28:40 2023: DEBUG sendJson ==========
+["chat_id"]	376048411
+["text"]	"Bot dba_almaty_bot polling mode started ..."
+
+Thu Jul  6 05:28:40 2023: New Result ==========
+["ok"]	true
+["result","message_id"]	1133
+["result","from","id"]	6205889059
+["result","from","is_bot"]	true
+["result","from","first_name"]	"dba_almaty_bot"
+["result","from","username"]	"dba_almaty_bot"
+["result","chat","id"]	376048411
+["result","chat","first_name"]	"Talgat M"
+["result","chat","username"]	"M_Talgat"
+["result","chat","type"]	"private"
+["result","date"]	1688621320
+["result","text"]	"Bot dba_almaty_bot polling mode started ..."
+
+Thu Jul  6 05:28:40 2023: DEBUG sendJson ==========
+["chat_id"]	376048411
+["message_id"]	1120
+["reply_markup","inline_keyboard",0,0,"text"]	"Button 27474"
+["reply_markup","inline_keyboard",0,0,"callback_data"]	"RANDOM-BUTTON"
+
+Thu Jul  6 05:28:41 2023: New Result ==========
+["ok"]	true
+["result","message_id"]	1120
+["result","from","id"]	6205889059
+["result","from","is_bot"]	true
+["result","from","first_name"]	"dba_almaty_bot"
+["result","from","username"]	"dba_almaty_bot"
+["result","chat","id"]	376048411
+["result","chat","first_name"]	"Talgat M"
+["result","chat","username"]	"M_Talgat"
+["result","chat","type"]	"private"
+["result","date"]	1688621177
+["result","edit_date"]	1688621321
+["result","text"]	"Press Button ..."
+["result","reply_markup","inline_keyboard",0,0,"text"]	"Button 27474"
+["result","reply_markup","inline_keyboard",0,0,"callback_data"]	"RANDOM-BUTTON"
+
+Thu Jul  6 05:28:41 2023: DEBUG sendJson ==========
+["callback_query_id"]	"1615115630811706812"
+["text"]	"Button_pressed"
+
+Thu Jul  6 05:28:41 2023: New Result ==========
+["ok"]	false
+["error_code"]	400
+["description"]	"Bad Request: query is too old and response timeout expired or query ID is invalid"
+
+Thu Jul  6 05:29:25 2023: DEBUG sendJson ==========
+["chat_id"]	376048411
+["text"]	"Bot dba_almaty_bot polling mode started ..."
+
+Thu Jul  6 05:29:25 2023: New Result ==========
+["ok"]	true
+["result","message_id"]	1134
+["result","from","id"]	6205889059
+["result","from","is_bot"]	true
+["result","from","first_name"]	"dba_almaty_bot"
+["result","from","username"]	"dba_almaty_bot"
+["result","chat","id"]	376048411
+["result","chat","first_name"]	"Talgat M"
+["result","chat","username"]	"M_Talgat"
+["result","chat","type"]	"private"
+["result","date"]	1688621365
+["result","text"]	"Bot dba_almaty_bot polling mode started ..."
+
+Thu Jul  6 05:29:43 2023: DEBUG sendJson ==========
+["chat_id"]	376048411
+["text"]	"command from example received: /b"
+
+Thu Jul  6 05:29:43 2023: DEBUG sendJson ==========
+["chat_id"]	376048411
+["text"]	" -  -  -  - 1"
+
+Thu Jul  6 05:29:44 2023: New Result ==========
+["ok"]	true
+["result","message_id"]	1136
+["result","from","id"]	6205889059
+["result","from","is_bot"]	true
+["result","from","first_name"]	"dba_almaty_bot"
+["result","from","username"]	"dba_almaty_bot"
+["result","chat","id"]	376048411
+["result","chat","first_name"]	"Talgat M"
+["result","chat","username"]	"M_Talgat"
+["result","chat","type"]	"private"
+["result","date"]	1688621384
+["result","text"]	"command from example received: /b"
+["result","entities",0,"offset"]	31
+["result","entities",0,"length"]	2
+["result","entities",0,"type"]	"bot_command"
+
+Thu Jul  6 05:29:44 2023: New Result ==========
+["ok"]	true
+["result","message_id"]	1137
+["result","from","id"]	6205889059
+["result","from","is_bot"]	true
+["result","from","first_name"]	"dba_almaty_bot"
+["result","from","username"]	"dba_almaty_bot"
+["result","chat","id"]	376048411
+["result","chat","first_name"]	"Talgat M"
+["result","chat","username"]	"M_Talgat"
+["result","chat","type"]	"private"
+["result","date"]	1688621384
+["result","text"]	"-  -  -  - 1"
+
+Thu Jul  6 05:29:44 2023: DEBUG sendJson ==========
+["chat_id"]	376048411
+["text"]	"Press Button ..."
+["reply_markup","inline_keyboard",0,0,"text"]	"   Button   "
+["reply_markup","inline_keyboard",0,0,"callback_data"]	"RANDOM-BUTTON"
+
+Thu Jul  6 05:29:44 2023: New Result ==========
+["ok"]	true
+["result","message_id"]	1138
+["result","from","id"]	6205889059
+["result","from","is_bot"]	true
+["result","from","first_name"]	"dba_almaty_bot"
+["result","from","username"]	"dba_almaty_bot"
+["result","chat","id"]	376048411
+["result","chat","first_name"]	"Talgat M"
+["result","chat","username"]	"M_Talgat"
+["result","chat","type"]	"private"
+["result","date"]	1688621384
+["result","text"]	"Press Button ..."
+["result","reply_markup","inline_keyboard",0,0,"text"]	"   Button   "
+["result","reply_markup","inline_keyboard",0,0,"callback_data"]	"RANDOM-BUTTON"
+
+Thu Jul  6 05:29:46 2023: DEBUG sendJson ==========
+["chat_id"]	376048411
+["message_id"]	1138
+["reply_markup","inline_keyboard",0,0,"text"]	"Button 26825"
+["reply_markup","inline_keyboard",0,0,"callback_data"]	"RANDOM-BUTTON"
+
+Thu Jul  6 05:29:46 2023: New Result ==========
+["ok"]	true
+["result","message_id"]	1138
+["result","from","id"]	6205889059
+["result","from","is_bot"]	true
+["result","from","first_name"]	"dba_almaty_bot"
+["result","from","username"]	"dba_almaty_bot"
+["result","chat","id"]	376048411
+["result","chat","first_name"]	"Talgat M"
+["result","chat","username"]	"M_Talgat"
+["result","chat","type"]	"private"
+["result","date"]	1688621384
+["result","edit_date"]	1688621386
+["result","text"]	"Press Button ..."
+["result","reply_markup","inline_keyboard",0,0,"text"]	"Button 26825"
+["result","reply_markup","inline_keyboard",0,0,"callback_data"]	"RANDOM-BUTTON"
+
+Thu Jul  6 05:29:46 2023: DEBUG sendJson ==========
+["callback_query_id"]	"1615115630582392931"
+["text"]	"Button_pressed"
+
+Thu Jul  6 05:29:46 2023: New Result ==========
+["ok"]	true
+["result"]	true
+
+Thu Jul  6 05:30:02 2023: DEBUG sendJson ==========
+["chat_id"]	376048411
+["text"]	"Bot dba_almaty_bot polling mode started ..."
+
+Thu Jul  6 05:30:02 2023: New Result ==========
+["ok"]	true
+["result","message_id"]	1139
+["result","from","id"]	6205889059
+["result","from","is_bot"]	true
+["result","from","first_name"]	"dba_almaty_bot"
+["result","from","username"]	"dba_almaty_bot"
+["result","chat","id"]	376048411
+["result","chat","first_name"]	"Talgat M"
+["result","chat","username"]	"M_Talgat"
+["result","chat","type"]	"private"
+["result","date"]	1688621402
+["result","text"]	"Bot dba_almaty_bot polling mode started ..."
+
+Thu Jul  6 05:30:02 2023: DEBUG sendJson ==========
+["chat_id"]	376048411
+["message_id"]	1138
+["reply_markup","inline_keyboard",0,0,"text"]	"Button 7495"
+["reply_markup","inline_keyboard",0,0,"callback_data"]	"RANDOM-BUTTON"
+
+Thu Jul  6 05:30:02 2023: New Result ==========
+["ok"]	true
+["result","message_id"]	1138
+["result","from","id"]	6205889059
+["result","from","is_bot"]	true
+["result","from","first_name"]	"dba_almaty_bot"
+["result","from","username"]	"dba_almaty_bot"
+["result","chat","id"]	376048411
+["result","chat","first_name"]	"Talgat M"
+["result","chat","username"]	"M_Talgat"
+["result","chat","type"]	"private"
+["result","date"]	1688621384
+["result","edit_date"]	1688621402
+["result","text"]	"Press Button ..."
+["result","reply_markup","inline_keyboard",0,0,"text"]	"Button 7495"
+["result","reply_markup","inline_keyboard",0,0,"callback_data"]	"RANDOM-BUTTON"
+
+Thu Jul  6 05:30:02 2023: DEBUG sendJson ==========
+["callback_query_id"]	"1615115630582392931"
+["text"]	"Button_pressed"
+
+Thu Jul  6 05:30:03 2023: New Result ==========
+["ok"]	false
+["error_code"]	400
+["description"]	"Bad Request: query is too old and response timeout expired or query ID is invalid"
+
+Thu Jul  6 05:30:08 2023: DEBUG sendJson ==========
+["chat_id"]	376048411
+["text"]	"Bot dba_almaty_bot polling mode started ..."
+
+Thu Jul  6 05:30:08 2023: New Result ==========
+["ok"]	true
+["result","message_id"]	1140
+["result","from","id"]	6205889059
+["result","from","is_bot"]	true
+["result","from","first_name"]	"dba_almaty_bot"
+["result","from","username"]	"dba_almaty_bot"
+["result","chat","id"]	376048411
+["result","chat","first_name"]	"Talgat M"
+["result","chat","username"]	"M_Talgat"
+["result","chat","type"]	"private"
+["result","date"]	1688621408
+["result","text"]	"Bot dba_almaty_bot polling mode started ..."
+
+Thu Jul  6 05:30:09 2023: DEBUG sendJson ==========
+["chat_id"]	376048411
+["message_id"]	1138
+["reply_markup","inline_keyboard",0,0,"text"]	"Button 14919"
+["reply_markup","inline_keyboard",0,0,"callback_data"]	"RANDOM-BUTTON"
+
+Thu Jul  6 05:30:09 2023: New Result ==========
+["ok"]	true
+["result","message_id"]	1138
+["result","from","id"]	6205889059
+["result","from","is_bot"]	true
+["result","from","first_name"]	"dba_almaty_bot"
+["result","from","username"]	"dba_almaty_bot"
+["result","chat","id"]	376048411
+["result","chat","first_name"]	"Talgat M"
+["result","chat","username"]	"M_Talgat"
+["result","chat","type"]	"private"
+["result","date"]	1688621384
+["result","edit_date"]	1688621409
+["result","text"]	"Press Button ..."
+["result","reply_markup","inline_keyboard",0,0,"text"]	"Button 14919"
+["result","reply_markup","inline_keyboard",0,0,"callback_data"]	"RANDOM-BUTTON"
+
+Thu Jul  6 05:30:09 2023: DEBUG sendJson ==========
+["callback_query_id"]	"1615115630582392931"
+["text"]	"Button_pressed"
+
+Thu Jul  6 05:30:09 2023: New Result ==========
+["ok"]	false
+["error_code"]	400
+["description"]	"Bad Request: query is too old and response timeout expired or query ID is invalid"
+
+Thu Jul  6 05:30:17 2023: DEBUG sendJson ==========
+["chat_id"]	376048411
+["text"]	"Bot dba_almaty_bot polling mode started ..."
+
+Thu Jul  6 05:30:17 2023: New Result ==========
+["ok"]	true
+["result","message_id"]	1141
+["result","from","id"]	6205889059
+["result","from","is_bot"]	true
+["result","from","first_name"]	"dba_almaty_bot"
+["result","from","username"]	"dba_almaty_bot"
+["result","chat","id"]	376048411
+["result","chat","first_name"]	"Talgat M"
+["result","chat","username"]	"M_Talgat"
+["result","chat","type"]	"private"
+["result","date"]	1688621417
+["result","text"]	"Bot dba_almaty_bot polling mode started ..."
+
+Thu Jul  6 05:30:17 2023: DEBUG sendJson ==========
+["chat_id"]	376048411
+["message_id"]	1138
+["reply_markup","inline_keyboard",0,0,"text"]	"Button 25980"
+["reply_markup","inline_keyboard",0,0,"callback_data"]	"RANDOM-BUTTON"
+
+Thu Jul  6 05:30:18 2023: New Result ==========
+["ok"]	true
+["result","message_id"]	1138
+["result","from","id"]	6205889059
+["result","from","is_bot"]	true
+["result","from","first_name"]	"dba_almaty_bot"
+["result","from","username"]	"dba_almaty_bot"
+["result","chat","id"]	376048411
+["result","chat","first_name"]	"Talgat M"
+["result","chat","username"]	"M_Talgat"
+["result","chat","type"]	"private"
+["result","date"]	1688621384
+["result","edit_date"]	1688621418
+["result","text"]	"Press Button ..."
+["result","reply_markup","inline_keyboard",0,0,"text"]	"Button 25980"
+["result","reply_markup","inline_keyboard",0,0,"callback_data"]	"RANDOM-BUTTON"
+
+Thu Jul  6 05:30:18 2023: DEBUG sendJson ==========
+["callback_query_id"]	"1615115630582392931"
+["text"]	"Button_pressed"
+
+Thu Jul  6 05:30:18 2023: New Result ==========
+["ok"]	false
+["error_code"]	400
+["description"]	"Bad Request: query is too old and response timeout expired or query ID is invalid"
+
+Thu Jul  6 05:31:01 2023: DEBUG sendJson ==========
+["chat_id"]	376048411
+["text"]	"Bot dba_almaty_bot polling mode started ..."
+
+Thu Jul  6 05:31:01 2023: New Result ==========
+["ok"]	true
+["result","message_id"]	1142
+["result","from","id"]	6205889059
+["result","from","is_bot"]	true
+["result","from","first_name"]	"dba_almaty_bot"
+["result","from","username"]	"dba_almaty_bot"
+["result","chat","id"]	376048411
+["result","chat","first_name"]	"Talgat M"
+["result","chat","username"]	"M_Talgat"
+["result","chat","type"]	"private"
+["result","date"]	1688621461
+["result","text"]	"Bot dba_almaty_bot polling mode started ..."
+
+Thu Jul  6 05:31:01 2023: DEBUG sendJson ==========
+["chat_id"]	376048411
+["message_id"]	1138
+["reply_markup","inline_keyboard",0,0,"text"]	"Button 20380"
+["reply_markup","inline_keyboard",0,0,"callback_data"]	"RANDOM-BUTTON"
+
+Thu Jul  6 05:31:01 2023: New Result ==========
+["ok"]	true
+["result","message_id"]	1138
+["result","from","id"]	6205889059
+["result","from","is_bot"]	true
+["result","from","first_name"]	"dba_almaty_bot"
+["result","from","username"]	"dba_almaty_bot"
+["result","chat","id"]	376048411
+["result","chat","first_name"]	"Talgat M"
+["result","chat","username"]	"M_Talgat"
+["result","chat","type"]	"private"
+["result","date"]	1688621384
+["result","edit_date"]	1688621461
+["result","text"]	"Press Button ..."
+["result","reply_markup","inline_keyboard",0,0,"text"]	"Button 20380"
+["result","reply_markup","inline_keyboard",0,0,"callback_data"]	"RANDOM-BUTTON"
+
+Thu Jul  6 05:31:01 2023: DEBUG sendJson ==========
+["callback_query_id"]	"1615115630582392931"
+["text"]	"Button_pressed"
+
+Thu Jul  6 05:31:01 2023: New Result ==========
+["ok"]	false
+["error_code"]	400
+["description"]	"Bad Request: query is too old and response timeout expired or query ID is invalid"
+
+Thu Jul  6 05:31:20 2023: DEBUG sendJson ==========
+["chat_id"]	376048411
+["text"]	"Bot dba_almaty_bot polling mode started ..."
+
+Thu Jul  6 05:31:20 2023: New Result ==========
+["ok"]	true
+["result","message_id"]	1143
+["result","from","id"]	6205889059
+["result","from","is_bot"]	true
+["result","from","first_name"]	"dba_almaty_bot"
+["result","from","username"]	"dba_almaty_bot"
+["result","chat","id"]	376048411
+["result","chat","first_name"]	"Talgat M"
+["result","chat","username"]	"M_Talgat"
+["result","chat","type"]	"private"
+["result","date"]	1688621480
+["result","text"]	"Bot dba_almaty_bot polling mode started ..."
+
+Thu Jul  6 05:31:20 2023: DEBUG sendJson ==========
+["chat_id"]	376048411
+["message_id"]	1138
+["reply_markup","inline_keyboard",0,0,"text"]	"Button 19450"
+["reply_markup","inline_keyboard",0,0,"callback_data"]	"RANDOM-BUTTON"
+
+Thu Jul  6 05:31:20 2023: New Result ==========
+["ok"]	true
+["result","message_id"]	1138
+["result","from","id"]	6205889059
+["result","from","is_bot"]	true
+["result","from","first_name"]	"dba_almaty_bot"
+["result","from","username"]	"dba_almaty_bot"
+["result","chat","id"]	376048411
+["result","chat","first_name"]	"Talgat M"
+["result","chat","username"]	"M_Talgat"
+["result","chat","type"]	"private"
+["result","date"]	1688621384
+["result","edit_date"]	1688621480
+["result","text"]	"Press Button ..."
+["result","reply_markup","inline_keyboard",0,0,"text"]	"Button 19450"
+["result","reply_markup","inline_keyboard",0,0,"callback_data"]	"RANDOM-BUTTON"
+
+Thu Jul  6 05:31:20 2023: DEBUG sendJson ==========
+["callback_query_id"]	"1615115630582392931"
+["text"]	"Button_pressed"
+
+Thu Jul  6 05:31:20 2023: New Result ==========
+["ok"]	false
+["error_code"]	400
+["description"]	"Bad Request: query is too old and response timeout expired or query ID is invalid"
+
+Thu Jul  6 05:31:28 2023: DEBUG sendJson ==========
+["chat_id"]	376048411
+["text"]	"Bot dba_almaty_bot polling mode started ..."
+
+Thu Jul  6 05:31:28 2023: New Result ==========
+["ok"]	true
+["result","message_id"]	1144
+["result","from","id"]	6205889059
+["result","from","is_bot"]	true
+["result","from","first_name"]	"dba_almaty_bot"
+["result","from","username"]	"dba_almaty_bot"
+["result","chat","id"]	376048411
+["result","chat","first_name"]	"Talgat M"
+["result","chat","username"]	"M_Talgat"
+["result","chat","type"]	"private"
+["result","date"]	1688621488
+["result","text"]	"Bot dba_almaty_bot polling mode started ..."
+
+Thu Jul  6 05:31:28 2023: DEBUG sendJson ==========
+["chat_id"]	376048411
+["message_id"]	1138
+["reply_markup","inline_keyboard",0,0,"text"]	"Button 20404"
+["reply_markup","inline_keyboard",0,0,"callback_data"]	"RANDOM-BUTTON"
+
+Thu Jul  6 05:31:29 2023: New Result ==========
+["ok"]	true
+["result","message_id"]	1138
+["result","from","id"]	6205889059
+["result","from","is_bot"]	true
+["result","from","first_name"]	"dba_almaty_bot"
+["result","from","username"]	"dba_almaty_bot"
+["result","chat","id"]	376048411
+["result","chat","first_name"]	"Talgat M"
+["result","chat","username"]	"M_Talgat"
+["result","chat","type"]	"private"
+["result","date"]	1688621384
+["result","edit_date"]	1688621489
+["result","text"]	"Press Button ..."
+["result","reply_markup","inline_keyboard",0,0,"text"]	"Button 20404"
+["result","reply_markup","inline_keyboard",0,0,"callback_data"]	"RANDOM-BUTTON"
+
+Thu Jul  6 05:31:29 2023: DEBUG sendJson ==========
+["callback_query_id"]	"1615115630582392931"
+["text"]	"Button_pressed"
+
+Thu Jul  6 05:31:29 2023: New Result ==========
+["ok"]	false
+["error_code"]	400
+["description"]	"Bad Request: query is too old and response timeout expired or query ID is invalid"
+
+Thu Jul  6 05:31:44 2023: DEBUG sendJson ==========
+["chat_id"]	376048411
+["text"]	"Bot dba_almaty_bot polling mode started ..."
+
+Thu Jul  6 05:31:45 2023: New Result ==========
+["ok"]	true
+["result","message_id"]	1145
+["result","from","id"]	6205889059
+["result","from","is_bot"]	true
+["result","from","first_name"]	"dba_almaty_bot"
+["result","from","username"]	"dba_almaty_bot"
+["result","chat","id"]	376048411
+["result","chat","first_name"]	"Talgat M"
+["result","chat","username"]	"M_Talgat"
+["result","chat","type"]	"private"
+["result","date"]	1688621505
+["result","text"]	"Bot dba_almaty_bot polling mode started ..."
+
+Thu Jul  6 05:31:45 2023: DEBUG sendJson ==========
+["chat_id"]	376048411
+["message_id"]	1138
+["reply_markup","inline_keyboard",0,0,"text"]	"Button 24467"
+["reply_markup","inline_keyboard",0,0,"callback_data"]	"RANDOM-BUTTON"
+
+Thu Jul  6 05:31:45 2023: New Result ==========
+["ok"]	true
+["result","message_id"]	1138
+["result","from","id"]	6205889059
+["result","from","is_bot"]	true
+["result","from","first_name"]	"dba_almaty_bot"
+["result","from","username"]	"dba_almaty_bot"
+["result","chat","id"]	376048411
+["result","chat","first_name"]	"Talgat M"
+["result","chat","username"]	"M_Talgat"
+["result","chat","type"]	"private"
+["result","date"]	1688621384
+["result","edit_date"]	1688621505
+["result","text"]	"Press Button ..."
+["result","reply_markup","inline_keyboard",0,0,"text"]	"Button 24467"
+["result","reply_markup","inline_keyboard",0,0,"callback_data"]	"RANDOM-BUTTON"
+
+Thu Jul  6 05:31:45 2023: DEBUG sendJson ==========
+["callback_query_id"]	"1615115630582392931"
+["text"]	"Button_pressed"
+
+Thu Jul  6 05:31:45 2023: New Result ==========
+["ok"]	false
+["error_code"]	400
+["description"]	"Bad Request: query is too old and response timeout expired or query ID is invalid"
+
+Thu Jul  6 05:32:18 2023: DEBUG sendJson ==========
+["chat_id"]	376048411
+["text"]	"Bot dba_almaty_bot polling mode started ..."
+
+Thu Jul  6 05:32:18 2023: New Result ==========
+["ok"]	true
+["result","message_id"]	1147
+["result","from","id"]	6205889059
+["result","from","is_bot"]	true
+["result","from","first_name"]	"dba_almaty_bot"
+["result","from","username"]	"dba_almaty_bot"
+["result","chat","id"]	376048411
+["result","chat","first_name"]	"Talgat M"
+["result","chat","username"]	"M_Talgat"
+["result","chat","type"]	"private"
+["result","date"]	1688621538
+["result","text"]	"Bot dba_almaty_bot polling mode started ..."
+
+Thu Jul  6 05:32:18 2023: DEBUG sendJson ==========
+["chat_id"]	376048411
+["text"]	"command from example received: /start"
+
+Thu Jul  6 05:32:18 2023: DEBUG sendJson ==========
+["chat_id"]	376048411
+["action"]	"typing"
+
+Thu Jul  6 05:32:18 2023: DEBUG sendJson ==========
+["chat_id"]	376048411
+["text"]	"You are *BOTADMIN*\.\nPlace your commands and messages in _mycommands\.sh_"
+["parse_mode"]	"markdownv2"
+
+Thu Jul  6 05:32:18 2023: New Result ==========
+["ok"]	true
+["result","message_id"]	1148
+["result","from","id"]	6205889059
+["result","from","is_bot"]	true
+["result","from","first_name"]	"dba_almaty_bot"
+["result","from","username"]	"dba_almaty_bot"
+["result","chat","id"]	376048411
+["result","chat","first_name"]	"Talgat M"
+["result","chat","username"]	"M_Talgat"
+["result","chat","type"]	"private"
+["result","date"]	1688621538
+["result","text"]	"command from example received: /start"
+["result","entities",0,"offset"]	31
+["result","entities",0,"length"]	6
+["result","entities",0,"type"]	"bot_command"
+
+Thu Jul  6 05:32:18 2023: New Result ==========
+["ok"]	true
+["result","message_id"]	1149
+["result","from","id"]	6205889059
+["result","from","is_bot"]	true
+["result","from","first_name"]	"dba_almaty_bot"
+["result","from","username"]	"dba_almaty_bot"
+["result","chat","id"]	376048411
+["result","chat","first_name"]	"Talgat M"
+["result","chat","username"]	"M_Talgat"
+["result","chat","type"]	"private"
+["result","date"]	1688621538
+["result","text"]	"You are BOTADMIN.\nPlace your commands and messages in mycommands.sh"
+["result","entities",0,"offset"]	8
+["result","entities",0,"length"]	8
+["result","entities",0,"type"]	"bold"
+["result","entities",1,"offset"]	54
+["result","entities",1,"length"]	13
+["result","entities",1,"type"]	"url"
+["result","entities",2,"offset"]	54
+["result","entities",2,"length"]	13
+["result","entities",2,"type"]	"italic"
+
+Thu Jul  6 05:32:19 2023: New Result ==========
+["ok"]	true
+["result"]	true
+
+Thu Jul  6 05:32:19 2023: DEBUG sendJson ==========
+["chat_id"]	376048411
+["text"]	"\n*Команды*:\n*• /start*: Start bot.\n*• /help*: Help message.\nБот `@dba_almaty_bot` для различных уведомлений\n"
+["parse_mode"]	"markdown"
+
+Thu Jul  6 05:32:19 2023: New Result ==========
+["ok"]	true
+["result","message_id"]	1150
+["result","from","id"]	6205889059
+["result","from","is_bot"]	true
+["result","from","first_name"]	"dba_almaty_bot"
+["result","from","username"]	"dba_almaty_bot"
+["result","chat","id"]	376048411
+["result","chat","first_name"]	"Talgat M"
+["result","chat","username"]	"M_Talgat"
+["result","chat","type"]	"private"
+["result","date"]	1688621539
+["result","text"]	"\u041a\u043e\u043c\u0430\u043d\u0434\u044b:\n\u2022 /start: Start bot.\n\u2022 /help: Help message.\n\u0411\u043e\u0442 @dba_almaty_bot \u0434\u043b\u044f \u0440\u0430\u0437\u043b\u0438\u0447\u043d\u044b\u0445 \u0443\u0432\u0435\u0434\u043e\u043c\u043b\u0435\u043d\u0438\u0439"
+["result","entities",0,"offset"]	0
+["result","entities",0,"length"]	7
+["result","entities",0,"type"]	"bold"
+["result","entities",1,"offset"]	9
+["result","entities",1,"length"]	2
+["result","entities",1,"type"]	"bold"
+["result","entities",2,"offset"]	11
+["result","entities",2,"length"]	6
+["result","entities",2,"type"]	"bot_command"
+["result","entities",3,"offset"]	11
+["result","entities",3,"length"]	6
+["result","entities",3,"type"]	"bold"
+["result","entities",4,"offset"]	30
+["result","entities",4,"length"]	2
+["result","entities",4,"type"]	"bold"
+["result","entities",5,"offset"]	32
+["result","entities",5,"length"]	5
+["result","entities",5,"type"]	"bot_command"
+["result","entities",6,"offset"]	32
+["result","entities",6,"length"]	5
+["result","entities",6,"type"]	"bold"
+["result","entities",7,"offset"]	57
+["result","entities",7,"length"]	15
+["result","entities",7,"type"]	"code"
+
+Thu Jul  6 05:41:28 2023: DEBUG sendJson ==========
+["chat_id"]	376048411
+["text"]	"command from example received: /b"
+
+Thu Jul  6 05:41:28 2023: DEBUG sendJson ==========
+["chat_id"]	376048411
+["text"]	" -  -  -  - 1"
+
+Thu Jul  6 05:41:28 2023: New Result ==========
+["ok"]	true
+["result","message_id"]	1152
+["result","from","id"]	6205889059
+["result","from","is_bot"]	true
+["result","from","first_name"]	"dba_almaty_bot"
+["result","from","username"]	"dba_almaty_bot"
+["result","chat","id"]	376048411
+["result","chat","first_name"]	"Talgat M"
+["result","chat","username"]	"M_Talgat"
+["result","chat","type"]	"private"
+["result","date"]	1688622088
+["result","text"]	"command from example received: /b"
+["result","entities",0,"offset"]	31
+["result","entities",0,"length"]	2
+["result","entities",0,"type"]	"bot_command"
+
+Thu Jul  6 05:41:28 2023: New Result ==========
+["ok"]	true
+["result","message_id"]	1153
+["result","from","id"]	6205889059
+["result","from","is_bot"]	true
+["result","from","first_name"]	"dba_almaty_bot"
+["result","from","username"]	"dba_almaty_bot"
+["result","chat","id"]	376048411
+["result","chat","first_name"]	"Talgat M"
+["result","chat","username"]	"M_Talgat"
+["result","chat","type"]	"private"
+["result","date"]	1688622088
+["result","text"]	"-  -  -  - 1"
+
+Thu Jul  6 05:41:28 2023: DEBUG sendJson ==========
+["chat_id"]	376048411
+["text"]	"Press Button ..."
+["reply_markup","inline_keyboard",0,0,"text"]	"   Button   "
+["reply_markup","inline_keyboard",0,0,"callback_data"]	"RANDOM-BUTTON"
+
+Thu Jul  6 05:41:28 2023: New Result ==========
+["ok"]	true
+["result","message_id"]	1154
+["result","from","id"]	6205889059
+["result","from","is_bot"]	true
+["result","from","first_name"]	"dba_almaty_bot"
+["result","from","username"]	"dba_almaty_bot"
+["result","chat","id"]	376048411
+["result","chat","first_name"]	"Talgat M"
+["result","chat","username"]	"M_Talgat"
+["result","chat","type"]	"private"
+["result","date"]	1688622088
+["result","text"]	"Press Button ..."
+["result","reply_markup","inline_keyboard",0,0,"text"]	"   Button   "
+["result","reply_markup","inline_keyboard",0,0,"callback_data"]	"RANDOM-BUTTON"
+
+Thu Jul  6 05:44:25 2023: DEBUG sendJson ==========
+["chat_id"]	376048411
+["text"]	"command from example received: /b"
+
+Thu Jul  6 05:44:25 2023: DEBUG sendJson ==========
+["chat_id"]	376048411
+["text"]	" -  -  -  - 1"
+
+Thu Jul  6 05:44:25 2023: New Result ==========
+["ok"]	true
+["result","message_id"]	1156
+["result","from","id"]	6205889059
+["result","from","is_bot"]	true
+["result","from","first_name"]	"dba_almaty_bot"
+["result","from","username"]	"dba_almaty_bot"
+["result","chat","id"]	376048411
+["result","chat","first_name"]	"Talgat M"
+["result","chat","username"]	"M_Talgat"
+["result","chat","type"]	"private"
+["result","date"]	1688622265
+["result","text"]	"-  -  -  - 1"
+
+Thu Jul  6 05:44:25 2023: New Result ==========
+["ok"]	true
+["result","message_id"]	1157
+["result","from","id"]	6205889059
+["result","from","is_bot"]	true
+["result","from","first_name"]	"dba_almaty_bot"
+["result","from","username"]	"dba_almaty_bot"
+["result","chat","id"]	376048411
+["result","chat","first_name"]	"Talgat M"
+["result","chat","username"]	"M_Talgat"
+["result","chat","type"]	"private"
+["result","date"]	1688622265
+["result","text"]	"command from example received: /b"
+["result","entities",0,"offset"]	31
+["result","entities",0,"length"]	2
+["result","entities",0,"type"]	"bot_command"
+
+Thu Jul  6 05:44:25 2023: DEBUG sendJson ==========
+["chat_id"]	376048411
+["text"]	"Press Button ..."
+["reply_markup","inline_keyboard",0,0,"text"]	"   Button   "
+["reply_markup","inline_keyboard",0,0,"callback_data"]	"RANDOM-BUTTON"
+
+Thu Jul  6 05:44:26 2023: New Result ==========
+["ok"]	true
+["result","message_id"]	1158
+["result","from","id"]	6205889059
+["result","from","is_bot"]	true
+["result","from","first_name"]	"dba_almaty_bot"
+["result","from","username"]	"dba_almaty_bot"
+["result","chat","id"]	376048411
+["result","chat","first_name"]	"Talgat M"
+["result","chat","username"]	"M_Talgat"
+["result","chat","type"]	"private"
+["result","date"]	1688622265
+["result","text"]	"Press Button ..."
+["result","reply_markup","inline_keyboard",0,0,"text"]	"   Button   "
+["result","reply_markup","inline_keyboard",0,0,"callback_data"]	"RANDOM-BUTTON"
+
+Thu Jul  6 05:44:39 2023: DEBUG sendJson ==========
+["chat_id"]	376048411
+["text"]	"command from example received: /b"
+
+Thu Jul  6 05:44:39 2023: DEBUG sendJson ==========
+["chat_id"]	376048411
+["text"]	"Press Button ..."
+["reply_markup","inline_keyboard",0,0,"text"]	"   Button   "
+["reply_markup","inline_keyboard",0,0,"callback_data"]	"RANDOM-BUTTON"
+
+Thu Jul  6 05:44:39 2023: New Result ==========
+["ok"]	true
+["result","message_id"]	1160
+["result","from","id"]	6205889059
+["result","from","is_bot"]	true
+["result","from","first_name"]	"dba_almaty_bot"
+["result","from","username"]	"dba_almaty_bot"
+["result","chat","id"]	376048411
+["result","chat","first_name"]	"Talgat M"
+["result","chat","username"]	"M_Talgat"
+["result","chat","type"]	"private"
+["result","date"]	1688622279
+["result","text"]	"command from example received: /b"
+["result","entities",0,"offset"]	31
+["result","entities",0,"length"]	2
+["result","entities",0,"type"]	"bot_command"
+
+Thu Jul  6 05:44:39 2023: New Result ==========
+["ok"]	true
+["result","message_id"]	1161
+["result","from","id"]	6205889059
+["result","from","is_bot"]	true
+["result","from","first_name"]	"dba_almaty_bot"
+["result","from","username"]	"dba_almaty_bot"
+["result","chat","id"]	376048411
+["result","chat","first_name"]	"Talgat M"
+["result","chat","username"]	"M_Talgat"
+["result","chat","type"]	"private"
+["result","date"]	1688622279
+["result","text"]	"Press Button ..."
+["result","reply_markup","inline_keyboard",0,0,"text"]	"   Button   "
+["result","reply_markup","inline_keyboard",0,0,"callback_data"]	"RANDOM-BUTTON"
+
+Thu Jul  6 05:44:45 2023: DEBUG sendJson ==========
+["chat_id"]	376048411
+["message_id"]	1161
+["reply_markup","inline_keyboard",0,0,"text"]	"Button 30742"
+["reply_markup","inline_keyboard",0,0,"callback_data"]	"RANDOM-BUTTON"
+
+Thu Jul  6 05:44:45 2023: New Result ==========
+["ok"]	true
+["result","message_id"]	1161
+["result","from","id"]	6205889059
+["result","from","is_bot"]	true
+["result","from","first_name"]	"dba_almaty_bot"
+["result","from","username"]	"dba_almaty_bot"
+["result","chat","id"]	376048411
+["result","chat","first_name"]	"Talgat M"
+["result","chat","username"]	"M_Talgat"
+["result","chat","type"]	"private"
+["result","date"]	1688622279
+["result","edit_date"]	1688622285
+["result","text"]	"Press Button ..."
+["result","reply_markup","inline_keyboard",0,0,"text"]	"Button 30742"
+["result","reply_markup","inline_keyboard",0,0,"callback_data"]	"RANDOM-BUTTON"
+
+Thu Jul  6 05:44:45 2023: DEBUG sendJson ==========
+["callback_query_id"]	"1615115627121805985"
+["text"]	"Button_pressed"
+
+Thu Jul  6 05:44:45 2023: New Result ==========
+["ok"]	true
+["result"]	true
+
+Thu Jul  6 05:44:55 2023: DEBUG sendJson ==========
+["chat_id"]	376048411
+["text"]	"Bot dba_almaty_bot polling mode started ..."
+
+Thu Jul  6 05:44:55 2023: New Result ==========
+["ok"]	true
+["result","message_id"]	1162
+["result","from","id"]	6205889059
+["result","from","is_bot"]	true
+["result","from","first_name"]	"dba_almaty_bot"
+["result","from","username"]	"dba_almaty_bot"
+["result","chat","id"]	376048411
+["result","chat","first_name"]	"Talgat M"
+["result","chat","username"]	"M_Talgat"
+["result","chat","type"]	"private"
+["result","date"]	1688622295
+["result","text"]	"Bot dba_almaty_bot polling mode started ..."
+
+Thu Jul  6 05:44:55 2023: DEBUG sendJson ==========
+["chat_id"]	376048411
+["message_id"]	1161
+["reply_markup","inline_keyboard",0,0,"text"]	"Button 9346"
+["reply_markup","inline_keyboard",0,0,"callback_data"]	"RANDOM-BUTTON"
+
+Thu Jul  6 05:44:55 2023: New Result ==========
+["ok"]	true
+["result","message_id"]	1161
+["result","from","id"]	6205889059
+["result","from","is_bot"]	true
+["result","from","first_name"]	"dba_almaty_bot"
+["result","from","username"]	"dba_almaty_bot"
+["result","chat","id"]	376048411
+["result","chat","first_name"]	"Talgat M"
+["result","chat","username"]	"M_Talgat"
+["result","chat","type"]	"private"
+["result","date"]	1688622279
+["result","edit_date"]	1688622295
+["result","text"]	"Press Button ..."
+["result","reply_markup","inline_keyboard",0,0,"text"]	"Button 9346"
+["result","reply_markup","inline_keyboard",0,0,"callback_data"]	"RANDOM-BUTTON"
+
+Thu Jul  6 05:44:55 2023: DEBUG sendJson ==========
+["callback_query_id"]	"1615115627121805985"
+["text"]	"Button_pressed"
+
+Thu Jul  6 05:44:55 2023: New Result ==========
+["ok"]	true
+["result"]	true
+
+Thu Jul  6 05:49:15 2023: DEBUG sendJson ==========
+["chat_id"]	376048411
+["text"]	"Bot dba_almaty_bot polling mode started ..."
+
+Thu Jul  6 05:49:15 2023: New Result ==========
+["ok"]	true
+["result","message_id"]	1163
+["result","from","id"]	6205889059
+["result","from","is_bot"]	true
+["result","from","first_name"]	"dba_almaty_bot"
+["result","from","username"]	"dba_almaty_bot"
+["result","chat","id"]	376048411
+["result","chat","first_name"]	"Talgat M"
+["result","chat","username"]	"M_Talgat"
+["result","chat","type"]	"private"
+["result","date"]	1688622555
+["result","text"]	"Bot dba_almaty_bot polling mode started ..."
+
+Thu Jul  6 05:49:25 2023: DEBUG sendJson ==========
+["chat_id"]	376048411
+["text"]	"command from example received: /start"
+
+Thu Jul  6 05:49:25 2023: DEBUG sendJson ==========
+["chat_id"]	376048411
+["action"]	"typing"
+
+Thu Jul  6 05:49:25 2023: DEBUG sendJson ==========
+["chat_id"]	376048411
+["text"]	"You are *BOTADMIN*\.\nPlace your commands and messages in _mycommands\.sh_"
+["parse_mode"]	"markdownv2"
+
+Thu Jul  6 05:49:25 2023: New Result ==========
+["ok"]	true
+["result","message_id"]	1165
+["result","from","id"]	6205889059
+["result","from","is_bot"]	true
+["result","from","first_name"]	"dba_almaty_bot"
+["result","from","username"]	"dba_almaty_bot"
+["result","chat","id"]	376048411
+["result","chat","first_name"]	"Talgat M"
+["result","chat","username"]	"M_Talgat"
+["result","chat","type"]	"private"
+["result","date"]	1688622565
+["result","text"]	"command from example received: /start"
+["result","entities",0,"offset"]	31
+["result","entities",0,"length"]	6
+["result","entities",0,"type"]	"bot_command"
+
+Thu Jul  6 05:49:25 2023: New Result ==========
+["ok"]	true
+["result"]	true
+
+Thu Jul  6 05:49:25 2023: New Result ==========
+["ok"]	true
+["result","message_id"]	1166
+["result","from","id"]	6205889059
+["result","from","is_bot"]	true
+["result","from","first_name"]	"dba_almaty_bot"
+["result","from","username"]	"dba_almaty_bot"
+["result","chat","id"]	376048411
+["result","chat","first_name"]	"Talgat M"
+["result","chat","username"]	"M_Talgat"
+["result","chat","type"]	"private"
+["result","date"]	1688622565
+["result","text"]	"You are BOTADMIN.\nPlace your commands and messages in mycommands.sh"
+["result","entities",0,"offset"]	8
+["result","entities",0,"length"]	8
+["result","entities",0,"type"]	"bold"
+["result","entities",1,"offset"]	54
+["result","entities",1,"length"]	13
+["result","entities",1,"type"]	"url"
+["result","entities",2,"offset"]	54
+["result","entities",2,"length"]	13
+["result","entities",2,"type"]	"italic"
+
+Thu Jul  6 05:49:25 2023: DEBUG sendJson ==========
+["chat_id"]	376048411
+["text"]	"\n*Команды*:\n*• /start*: Start bot.\n*• /help*: Help message.\nБот `@dba_almaty_bot` для различных уведомлений\n"
+["parse_mode"]	"markdown"
+
+Thu Jul  6 05:49:25 2023: New Result ==========
+["ok"]	true
+["result","message_id"]	1167
+["result","from","id"]	6205889059
+["result","from","is_bot"]	true
+["result","from","first_name"]	"dba_almaty_bot"
+["result","from","username"]	"dba_almaty_bot"
+["result","chat","id"]	376048411
+["result","chat","first_name"]	"Talgat M"
+["result","chat","username"]	"M_Talgat"
+["result","chat","type"]	"private"
+["result","date"]	1688622565
+["result","text"]	"\u041a\u043e\u043c\u0430\u043d\u0434\u044b:\n\u2022 /start: Start bot.\n\u2022 /help: Help message.\n\u0411\u043e\u0442 @dba_almaty_bot \u0434\u043b\u044f \u0440\u0430\u0437\u043b\u0438\u0447\u043d\u044b\u0445 \u0443\u0432\u0435\u0434\u043e\u043c\u043b\u0435\u043d\u0438\u0439"
+["result","entities",0,"offset"]	0
+["result","entities",0,"length"]	7
+["result","entities",0,"type"]	"bold"
+["result","entities",1,"offset"]	9
+["result","entities",1,"length"]	2
+["result","entities",1,"type"]	"bold"
+["result","entities",2,"offset"]	11
+["result","entities",2,"length"]	6
+["result","entities",2,"type"]	"bot_command"
+["result","entities",3,"offset"]	11
+["result","entities",3,"length"]	6
+["result","entities",3,"type"]	"bold"
+["result","entities",4,"offset"]	30
+["result","entities",4,"length"]	2
+["result","entities",4,"type"]	"bold"
+["result","entities",5,"offset"]	32
+["result","entities",5,"length"]	5
+["result","entities",5,"type"]	"bot_command"
+["result","entities",6,"offset"]	32
+["result","entities",6,"length"]	5
+["result","entities",6,"type"]	"bold"
+["result","entities",7,"offset"]	57
+["result","entities",7,"length"]	15
+["result","entities",7,"type"]	"code"
+
+Thu Jul  6 05:49:28 2023: DEBUG sendJson ==========
+["chat_id"]	376048411
+["text"]	"command from example received: /b"
+
+Thu Jul  6 05:49:28 2023: DEBUG sendJson ==========
+["chat_id"]	376048411
+["text"]	"Press Button ..."
+["reply_markup","inline_keyboard",0,0,"text"]	"   Button   "
+["reply_markup","inline_keyboard",0,0,"callback_data"]	"RANDOM-BUTTON"
+
+Thu Jul  6 05:49:28 2023: New Result ==========
+["ok"]	true
+["result","message_id"]	1169
+["result","from","id"]	6205889059
+["result","from","is_bot"]	true
+["result","from","first_name"]	"dba_almaty_bot"
+["result","from","username"]	"dba_almaty_bot"
+["result","chat","id"]	376048411
+["result","chat","first_name"]	"Talgat M"
+["result","chat","username"]	"M_Talgat"
+["result","chat","type"]	"private"
+["result","date"]	1688622568
+["result","text"]	"command from example received: /b"
+["result","entities",0,"offset"]	31
+["result","entities",0,"length"]	2
+["result","entities",0,"type"]	"bot_command"
+
+Thu Jul  6 05:49:28 2023: New Result ==========
+["ok"]	true
+["result","message_id"]	1170
+["result","from","id"]	6205889059
+["result","from","is_bot"]	true
+["result","from","first_name"]	"dba_almaty_bot"
+["result","from","username"]	"dba_almaty_bot"
+["result","chat","id"]	376048411
+["result","chat","first_name"]	"Talgat M"
+["result","chat","username"]	"M_Talgat"
+["result","chat","type"]	"private"
+["result","date"]	1688622568
+["result","text"]	"Press Button ..."
+["result","reply_markup","inline_keyboard",0,0,"text"]	"   Button   "
+["result","reply_markup","inline_keyboard",0,0,"callback_data"]	"RANDOM-BUTTON"
+
+Thu Jul  6 05:49:34 2023: DEBUG sendJson ==========
+["chat_id"]	376048411
+["message_id"]	1170
+["reply_markup","inline_keyboard",0,0,"text"]	"Button 15522"
+["reply_markup","inline_keyboard",0,0,"callback_data"]	"RANDOM-BUTTON"
+
+Thu Jul  6 05:49:34 2023: New Result ==========
+["ok"]	true
+["result","message_id"]	1170
+["result","from","id"]	6205889059
+["result","from","is_bot"]	true
+["result","from","first_name"]	"dba_almaty_bot"
+["result","from","username"]	"dba_almaty_bot"
+["result","chat","id"]	376048411
+["result","chat","first_name"]	"Talgat M"
+["result","chat","username"]	"M_Talgat"
+["result","chat","type"]	"private"
+["result","date"]	1688622568
+["result","edit_date"]	1688622574
+["result","text"]	"Press Button ..."
+["result","reply_markup","inline_keyboard",0,0,"text"]	"Button 15522"
+["result","reply_markup","inline_keyboard",0,0,"callback_data"]	"RANDOM-BUTTON"
+
+Thu Jul  6 05:49:34 2023: DEBUG sendJson ==========
+["callback_query_id"]	"1615115627011521127"
+["text"]	"Button_pressed"
+
+Thu Jul  6 05:49:35 2023: New Result ==========
+["ok"]	true
+["result"]	true
+
+Thu Jul  6 05:52:47 2023: DEBUG sendJson ==========
+["chat_id"]	376048411
+["text"]	"Bot dba_almaty_bot polling mode started ..."
+
+Thu Jul  6 05:52:48 2023: New Result ==========
+["ok"]	true
+["result","message_id"]	1171
+["result","from","id"]	6205889059
+["result","from","is_bot"]	true
+["result","from","first_name"]	"dba_almaty_bot"
+["result","from","username"]	"dba_almaty_bot"
+["result","chat","id"]	376048411
+["result","chat","first_name"]	"Talgat M"
+["result","chat","username"]	"M_Talgat"
+["result","chat","type"]	"private"
+["result","date"]	1688622767
+["result","text"]	"Bot dba_almaty_bot polling mode started ..."
+
+Thu Jul  6 05:52:55 2023: New Message ==========
+["result",0,"update_id"]	392354598
+["result",0,"message","message_id"]	1172
+["result",0,"message","from","id"]	376048411
+["result",0,"message","from","is_bot"]	false
+["result",0,"message","from","first_name"]	"Talgat M"
+["result",0,"message","from","username"]	"M_Talgat"
+["result",0,"message","from","language_code"]	"ru"
+["result",0,"message","chat","id"]	376048411
+["result",0,"message","chat","first_name"]	"Talgat M"
+["result",0,"message","chat","username"]	"M_Talgat"
+["result",0,"message","chat","type"]	"private"
+["result",0,"message","date"]	1688622775
+["result",0,"message","text"]	"/b"
+["result",0,"message","entities",0,"offset"]	0
+["result",0,"message","entities",0,"length"]	2
+["result",0,"message","entities",0,"type"]	"bot_command"
+
+Thu Jul  6 05:52:55 2023: DEBUG sendJson ==========
+["chat_id"]	376048411
+["text"]	"command from example received: /b"
+
+Thu Jul  6 05:52:55 2023: New Result ==========
+["ok"]	true
+["result","message_id"]	1173
+["result","from","id"]	6205889059
+["result","from","is_bot"]	true
+["result","from","first_name"]	"dba_almaty_bot"
+["result","from","username"]	"dba_almaty_bot"
+["result","chat","id"]	376048411
+["result","chat","first_name"]	"Talgat M"
+["result","chat","username"]	"M_Talgat"
+["result","chat","type"]	"private"
+["result","date"]	1688622775
+["result","text"]	"command from example received: /b"
+["result","entities",0,"offset"]	31
+["result","entities",0,"length"]	2
+["result","entities",0,"type"]	"bot_command"
+
+Thu Jul  6 05:53:03 2023: New Message ==========
+["result",0,"update_id"]	392354599
+["result",0,"message","message_id"]	1174
+["result",0,"message","from","id"]	376048411
+["result",0,"message","from","is_bot"]	false
+["result",0,"message","from","first_name"]	"Talgat M"
+["result",0,"message","from","username"]	"M_Talgat"
+["result",0,"message","from","language_code"]	"ru"
+["result",0,"message","chat","id"]	376048411
+["result",0,"message","chat","first_name"]	"Talgat M"
+["result",0,"message","chat","username"]	"M_Talgat"
+["result",0,"message","chat","type"]	"private"
+["result",0,"message","date"]	1688622783
+["result",0,"message","text"]	"/start"
+["result",0,"message","entities",0,"offset"]	0
+["result",0,"message","entities",0,"length"]	6
+["result",0,"message","entities",0,"type"]	"bot_command"
+
+Thu Jul  6 05:53:03 2023: DEBUG sendJson ==========
+["chat_id"]	376048411
+["text"]	"command from example received: /start"
+
+Thu Jul  6 05:53:03 2023: New Result ==========
+["ok"]	true
+["result","message_id"]	1175
+["result","from","id"]	6205889059
+["result","from","is_bot"]	true
+["result","from","first_name"]	"dba_almaty_bot"
+["result","from","username"]	"dba_almaty_bot"
+["result","chat","id"]	376048411
+["result","chat","first_name"]	"Talgat M"
+["result","chat","username"]	"M_Talgat"
+["result","chat","type"]	"private"
+["result","date"]	1688622783
+["result","text"]	"command from example received: /start"
+["result","entities",0,"offset"]	31
+["result","entities",0,"length"]	6
+["result","entities",0,"type"]	"bot_command"
+
+Thu Jul  6 05:53:33 2023: DEBUG sendJson ==========
+["chat_id"]	376048411
+["text"]	"Bot dba_almaty_bot polling mode stopped ..."
+
+Thu Jul  6 05:53:33 2023: New Result ==========
+["ok"]	true
+["result","message_id"]	1176
+["result","from","id"]	6205889059
+["result","from","is_bot"]	true
+["result","from","first_name"]	"dba_almaty_bot"
+["result","from","username"]	"dba_almaty_bot"
+["result","chat","id"]	376048411
+["result","chat","first_name"]	"Talgat M"
+["result","chat","username"]	"M_Talgat"
+["result","chat","type"]	"private"
+["result","date"]	1688622813
+["result","text"]	"Bot dba_almaty_bot polling mode stopped ..."
+
+Thu Jul  6 05:53:51 2023: DEBUG sendJson ==========
+["chat_id"]	376048411
+["text"]	"Bot dba_almaty_bot polling mode started ..."
+
+Thu Jul  6 05:53:51 2023: New Result ==========
+["ok"]	true
+["result","message_id"]	1177
+["result","from","id"]	6205889059
+["result","from","is_bot"]	true
+["result","from","first_name"]	"dba_almaty_bot"
+["result","from","username"]	"dba_almaty_bot"
+["result","chat","id"]	376048411
+["result","chat","first_name"]	"Talgat M"
+["result","chat","username"]	"M_Talgat"
+["result","chat","type"]	"private"
+["result","date"]	1688622831
+["result","text"]	"Bot dba_almaty_bot polling mode started ..."
+
+Thu Jul  6 05:53:57 2023: New Message ==========
+["result",0,"update_id"]	392354600
+["result",0,"message","message_id"]	1178
+["result",0,"message","from","id"]	376048411
+["result",0,"message","from","is_bot"]	false
+["result",0,"message","from","first_name"]	"Talgat M"
+["result",0,"message","from","username"]	"M_Talgat"
+["result",0,"message","from","language_code"]	"ru"
+["result",0,"message","chat","id"]	376048411
+["result",0,"message","chat","first_name"]	"Talgat M"
+["result",0,"message","chat","username"]	"M_Talgat"
+["result",0,"message","chat","type"]	"private"
+["result",0,"message","date"]	1688622836
+["result",0,"message","text"]	"/start"
+["result",0,"message","entities",0,"offset"]	0
+["result",0,"message","entities",0,"length"]	6
+["result",0,"message","entities",0,"type"]	"bot_command"
+
+Thu Jul  6 05:53:57 2023: DEBUG sendJson ==========
+["chat_id"]	376048411
+["text"]	"command from example received: /start"
+
+Thu Jul  6 05:53:57 2023: New Result ==========
+["ok"]	true
+["result","message_id"]	1179
+["result","from","id"]	6205889059
+["result","from","is_bot"]	true
+["result","from","first_name"]	"dba_almaty_bot"
+["result","from","username"]	"dba_almaty_bot"
+["result","chat","id"]	376048411
+["result","chat","first_name"]	"Talgat M"
+["result","chat","username"]	"M_Talgat"
+["result","chat","type"]	"private"
+["result","date"]	1688622837
+["result","text"]	"command from example received: /start"
+["result","entities",0,"offset"]	31
+["result","entities",0,"length"]	6
+["result","entities",0,"type"]	"bot_command"
+
+Thu Jul  6 05:54:04 2023: New Message ==========
+["result",0,"update_id"]	392354601
+["result",0,"message","message_id"]	1180
+["result",0,"message","from","id"]	376048411
+["result",0,"message","from","is_bot"]	false
+["result",0,"message","from","first_name"]	"Talgat M"
+["result",0,"message","from","username"]	"M_Talgat"
+["result",0,"message","from","language_code"]	"ru"
+["result",0,"message","chat","id"]	376048411
+["result",0,"message","chat","first_name"]	"Talgat M"
+["result",0,"message","chat","username"]	"M_Talgat"
+["result",0,"message","chat","type"]	"private"
+["result",0,"message","date"]	1688622844
+["result",0,"message","text"]	"/b"
+["result",0,"message","entities",0,"offset"]	0
+["result",0,"message","entities",0,"length"]	2
+["result",0,"message","entities",0,"type"]	"bot_command"
+
+Thu Jul  6 05:54:04 2023: DEBUG sendJson ==========
+["chat_id"]	376048411
+["text"]	"command from example received: /b"
+
+Thu Jul  6 05:54:04 2023: New Result ==========
+["ok"]	true
+["result","message_id"]	1181
+["result","from","id"]	6205889059
+["result","from","is_bot"]	true
+["result","from","first_name"]	"dba_almaty_bot"
+["result","from","username"]	"dba_almaty_bot"
+["result","chat","id"]	376048411
+["result","chat","first_name"]	"Talgat M"
+["result","chat","username"]	"M_Talgat"
+["result","chat","type"]	"private"
+["result","date"]	1688622844
+["result","text"]	"command from example received: /b"
+["result","entities",0,"offset"]	31
+["result","entities",0,"length"]	2
+["result","entities",0,"type"]	"bot_command"
+
+Thu Jul  6 05:54:09 2023: DEBUG sendJson ==========
+["chat_id"]	376048411
+["text"]	"Bot dba_almaty_bot polling mode stopped ..."
+
+Thu Jul  6 05:54:09 2023: New Result ==========
+["ok"]	true
+["result","message_id"]	1182
+["result","from","id"]	6205889059
+["result","from","is_bot"]	true
+["result","from","first_name"]	"dba_almaty_bot"
+["result","from","username"]	"dba_almaty_bot"
+["result","chat","id"]	376048411
+["result","chat","first_name"]	"Talgat M"
+["result","chat","username"]	"M_Talgat"
+["result","chat","type"]	"private"
+["result","date"]	1688622849
+["result","text"]	"Bot dba_almaty_bot polling mode stopped ..."
+
+Thu Jul  6 05:54:15 2023: DEBUG sendJson ==========
+["chat_id"]	376048411
+["text"]	"Bot dba_almaty_bot polling mode started ..."
+
+Thu Jul  6 05:54:16 2023: New Result ==========
+["ok"]	true
+["result","message_id"]	1183
+["result","from","id"]	6205889059
+["result","from","is_bot"]	true
+["result","from","first_name"]	"dba_almaty_bot"
+["result","from","username"]	"dba_almaty_bot"
+["result","chat","id"]	376048411
+["result","chat","first_name"]	"Talgat M"
+["result","chat","username"]	"M_Talgat"
+["result","chat","type"]	"private"
+["result","date"]	1688622856
+["result","text"]	"Bot dba_almaty_bot polling mode started ..."
+
+Thu Jul  6 05:54:21 2023: DEBUG sendJson ==========
+["chat_id"]	376048411
+["text"]	"command from example received: /b"
+
+Thu Jul  6 05:54:21 2023: DEBUG sendJson ==========
+["chat_id"]	376048411
+["text"]	"Press Button ..."
+["reply_markup","inline_keyboard",0,0,"text"]	"   Button   "
+["reply_markup","inline_keyboard",0,0,"callback_data"]	"RANDOM-BUTTON"
+
+Thu Jul  6 05:54:22 2023: New Result ==========
+["ok"]	true
+["result","message_id"]	1185
+["result","from","id"]	6205889059
+["result","from","is_bot"]	true
+["result","from","first_name"]	"dba_almaty_bot"
+["result","from","username"]	"dba_almaty_bot"
+["result","chat","id"]	376048411
+["result","chat","first_name"]	"Talgat M"
+["result","chat","username"]	"M_Talgat"
+["result","chat","type"]	"private"
+["result","date"]	1688622862
+["result","text"]	"command from example received: /b"
+["result","entities",0,"offset"]	31
+["result","entities",0,"length"]	2
+["result","entities",0,"type"]	"bot_command"
+
+Thu Jul  6 05:54:22 2023: New Result ==========
+["ok"]	true
+["result","message_id"]	1186
+["result","from","id"]	6205889059
+["result","from","is_bot"]	true
+["result","from","first_name"]	"dba_almaty_bot"
+["result","from","username"]	"dba_almaty_bot"
+["result","chat","id"]	376048411
+["result","chat","first_name"]	"Talgat M"
+["result","chat","username"]	"M_Talgat"
+["result","chat","type"]	"private"
+["result","date"]	1688622862
+["result","text"]	"Press Button ..."
+["result","reply_markup","inline_keyboard",0,0,"text"]	"   Button   "
+["result","reply_markup","inline_keyboard",0,0,"callback_data"]	"RANDOM-BUTTON"
+
+Thu Jul  6 05:54:23 2023: DEBUG sendJson ==========
+["chat_id"]	376048411
+["message_id"]	1186
+["reply_markup","inline_keyboard",0,0,"text"]	"Button 20878"
+["reply_markup","inline_keyboard",0,0,"callback_data"]	"RANDOM-BUTTON"
+
+Thu Jul  6 05:54:23 2023: New Result ==========
+["ok"]	true
+["result","message_id"]	1186
+["result","from","id"]	6205889059
+["result","from","is_bot"]	true
+["result","from","first_name"]	"dba_almaty_bot"
+["result","from","username"]	"dba_almaty_bot"
+["result","chat","id"]	376048411
+["result","chat","first_name"]	"Talgat M"
+["result","chat","username"]	"M_Talgat"
+["result","chat","type"]	"private"
+["result","date"]	1688622862
+["result","edit_date"]	1688622863
+["result","text"]	"Press Button ..."
+["result","reply_markup","inline_keyboard",0,0,"text"]	"Button 20878"
+["result","reply_markup","inline_keyboard",0,0,"callback_data"]	"RANDOM-BUTTON"
+
+Thu Jul  6 05:54:23 2023: DEBUG sendJson ==========
+["callback_query_id"]	"1615115630199819099"
+["text"]	"Button_pressed"
+
+Thu Jul  6 05:54:23 2023: New Result ==========
+["ok"]	true
+["result"]	true
+
+Thu Jul  6 05:54:32 2023: DEBUG sendJson ==========
+["chat_id"]	376048411
+["text"]	"Bot dba_almaty_bot polling mode started ..."
+
+Thu Jul  6 05:54:32 2023: New Result ==========
+["ok"]	true
+["result","message_id"]	1187
+["result","from","id"]	6205889059
+["result","from","is_bot"]	true
+["result","from","first_name"]	"dba_almaty_bot"
+["result","from","username"]	"dba_almaty_bot"
+["result","chat","id"]	376048411
+["result","chat","first_name"]	"Talgat M"
+["result","chat","username"]	"M_Talgat"
+["result","chat","type"]	"private"
+["result","date"]	1688622872
+["result","text"]	"Bot dba_almaty_bot polling mode started ..."
+
+Thu Jul  6 05:54:32 2023: DEBUG sendJson ==========
+["chat_id"]	376048411
+["message_id"]	1186
+["reply_markup","inline_keyboard",0,0,"text"]	"Button 166"
+["reply_markup","inline_keyboard",0,0,"callback_data"]	"RANDOM-BUTTON"
+
+Thu Jul  6 05:54:33 2023: New Result ==========
+["ok"]	true
+["result","message_id"]	1186
+["result","from","id"]	6205889059
+["result","from","is_bot"]	true
+["result","from","first_name"]	"dba_almaty_bot"
+["result","from","username"]	"dba_almaty_bot"
+["result","chat","id"]	376048411
+["result","chat","first_name"]	"Talgat M"
+["result","chat","username"]	"M_Talgat"
+["result","chat","type"]	"private"
+["result","date"]	1688622862
+["result","edit_date"]	1688622873
+["result","text"]	"Press Button ..."
+["result","reply_markup","inline_keyboard",0,0,"text"]	"Button 166"
+["result","reply_markup","inline_keyboard",0,0,"callback_data"]	"RANDOM-BUTTON"
+
+Thu Jul  6 05:54:33 2023: DEBUG sendJson ==========
+["callback_query_id"]	"1615115630199819099"
+["text"]	"Button_pressed"
+
+Thu Jul  6 05:54:33 2023: New Result ==========
+["ok"]	true
+["result"]	true
+
+Thu Jul  6 05:54:39 2023: DEBUG sendJson ==========
+["chat_id"]	376048411
+["text"]	"Bot dba_almaty_bot polling mode started ..."
+
+Thu Jul  6 05:54:39 2023: New Result ==========
+["ok"]	true
+["result","message_id"]	1188
+["result","from","id"]	6205889059
+["result","from","is_bot"]	true
+["result","from","first_name"]	"dba_almaty_bot"
+["result","from","username"]	"dba_almaty_bot"
+["result","chat","id"]	376048411
+["result","chat","first_name"]	"Talgat M"
+["result","chat","username"]	"M_Talgat"
+["result","chat","type"]	"private"
+["result","date"]	1688622879
+["result","text"]	"Bot dba_almaty_bot polling mode started ..."
+
+Thu Jul  6 05:54:39 2023: DEBUG sendJson ==========
+["chat_id"]	376048411
+["message_id"]	1186
+["reply_markup","inline_keyboard",0,0,"text"]	"Button 22594"
+["reply_markup","inline_keyboard",0,0,"callback_data"]	"RANDOM-BUTTON"
+
+Thu Jul  6 05:54:39 2023: New Result ==========
+["ok"]	true
+["result","message_id"]	1186
+["result","from","id"]	6205889059
+["result","from","is_bot"]	true
+["result","from","first_name"]	"dba_almaty_bot"
+["result","from","username"]	"dba_almaty_bot"
+["result","chat","id"]	376048411
+["result","chat","first_name"]	"Talgat M"
+["result","chat","username"]	"M_Talgat"
+["result","chat","type"]	"private"
+["result","date"]	1688622862
+["result","edit_date"]	1688622879
+["result","text"]	"Press Button ..."
+["result","reply_markup","inline_keyboard",0,0,"text"]	"Button 22594"
+["result","reply_markup","inline_keyboard",0,0,"callback_data"]	"RANDOM-BUTTON"
+
+Thu Jul  6 05:54:39 2023: DEBUG sendJson ==========
+["callback_query_id"]	"1615115630199819099"
+["text"]	"Button_pressed"
+
+Thu Jul  6 05:54:39 2023: New Result ==========
+["ok"]	false
+["error_code"]	400
+["description"]	"Bad Request: query is too old and response timeout expired or query ID is invalid"
+
+Thu Jul  6 05:54:58 2023: DEBUG sendJson ==========
+["chat_id"]	376048411
+["text"]	"Bot dba_almaty_bot polling mode started ..."
+
+Thu Jul  6 05:54:58 2023: New Result ==========
+["ok"]	true
+["result","message_id"]	1189
+["result","from","id"]	6205889059
+["result","from","is_bot"]	true
+["result","from","first_name"]	"dba_almaty_bot"
+["result","from","username"]	"dba_almaty_bot"
+["result","chat","id"]	376048411
+["result","chat","first_name"]	"Talgat M"
+["result","chat","username"]	"M_Talgat"
+["result","chat","type"]	"private"
+["result","date"]	1688622898
+["result","text"]	"Bot dba_almaty_bot polling mode started ..."
+
+Thu Jul  6 05:54:58 2023: New Message ==========
+["result",0,"update_id"]	392354603
+["result",0,"callback_query","id"]	"1615115630199819099"
+["result",0,"callback_query","from","id"]	376048411
+["result",0,"callback_query","from","is_bot"]	false
+["result",0,"callback_query","from","first_name"]	"Talgat M"
+["result",0,"callback_query","from","username"]	"M_Talgat"
+["result",0,"callback_query","from","language_code"]	"ru"
+["result",0,"callback_query","message","message_id"]	1186
+["result",0,"callback_query","message","from","id"]	6205889059
+["result",0,"callback_query","message","from","is_bot"]	true
+["result",0,"callback_query","message","from","first_name"]	"dba_almaty_bot"
+["result",0,"callback_query","message","from","username"]	"dba_almaty_bot"
+["result",0,"callback_query","message","chat","id"]	376048411
+["result",0,"callback_query","message","chat","first_name"]	"Talgat M"
+["result",0,"callback_query","message","chat","username"]	"M_Talgat"
+["result",0,"callback_query","message","chat","type"]	"private"
+["result",0,"callback_query","message","date"]	1688622862
+["result",0,"callback_query","message","text"]	"Press Button ..."
+["result",0,"callback_query","message","reply_markup","inline_keyboard",0,0,"text"]	"   Button   "
+["result",0,"callback_query","message","reply_markup","inline_keyboard",0,0,"callback_data"]	"RANDOM-BUTTON"
+["result",0,"callback_query","chat_instance"]	"5172449655454515644"
+["result",0,"callback_query","data"]	"RANDOM-BUTTON"
+
+Thu Jul  6 05:55:06 2023: DEBUG sendJson ==========
+["chat_id"]	376048411
+["text"]	"Bot dba_almaty_bot polling mode started ..."
+
+Thu Jul  6 05:55:06 2023: New Result ==========
+["ok"]	true
+["result","message_id"]	1190
+["result","from","id"]	6205889059
+["result","from","is_bot"]	true
+["result","from","first_name"]	"dba_almaty_bot"
+["result","from","username"]	"dba_almaty_bot"
+["result","chat","id"]	376048411
+["result","chat","first_name"]	"Talgat M"
+["result","chat","username"]	"M_Talgat"
+["result","chat","type"]	"private"
+["result","date"]	1688622906
+["result","text"]	"Bot dba_almaty_bot polling mode started ..."
+
+Thu Jul  6 05:55:06 2023: DEBUG sendJson ==========
+["chat_id"]	376048411
+["message_id"]	1186
+["reply_markup","inline_keyboard",0,0,"text"]	"Button 22640"
+["reply_markup","inline_keyboard",0,0,"callback_data"]	"RANDOM-BUTTON"
+
+Thu Jul  6 05:55:06 2023: New Result ==========
+["ok"]	true
+["result","message_id"]	1186
+["result","from","id"]	6205889059
+["result","from","is_bot"]	true
+["result","from","first_name"]	"dba_almaty_bot"
+["result","from","username"]	"dba_almaty_bot"
+["result","chat","id"]	376048411
+["result","chat","first_name"]	"Talgat M"
+["result","chat","username"]	"M_Talgat"
+["result","chat","type"]	"private"
+["result","date"]	1688622862
+["result","edit_date"]	1688622906
+["result","text"]	"Press Button ..."
+["result","reply_markup","inline_keyboard",0,0,"text"]	"Button 22640"
+["result","reply_markup","inline_keyboard",0,0,"callback_data"]	"RANDOM-BUTTON"
+
+Thu Jul  6 05:55:06 2023: DEBUG sendJson ==========
+["callback_query_id"]	"1615115630199819099"
+["text"]	"Button_pressed"
+
+Thu Jul  6 05:55:06 2023: New Result ==========
+["ok"]	false
+["error_code"]	400
+["description"]	"Bad Request: query is too old and response timeout expired or query ID is invalid"
+
+Thu Jul  6 05:56:12 2023: DEBUG sendJson ==========
+["chat_id"]	376048411
+["text"]	"Bot dba_almaty_bot polling mode started ..."
+
+Thu Jul  6 05:56:12 2023: New Result ==========
+["ok"]	true
+["result","message_id"]	1191
+["result","from","id"]	6205889059
+["result","from","is_bot"]	true
+["result","from","first_name"]	"dba_almaty_bot"
+["result","from","username"]	"dba_almaty_bot"
+["result","chat","id"]	376048411
+["result","chat","first_name"]	"Talgat M"
+["result","chat","username"]	"M_Talgat"
+["result","chat","type"]	"private"
+["result","date"]	1688622972
+["result","text"]	"Bot dba_almaty_bot polling mode started ..."
+
+Thu Jul  6 05:56:13 2023: New Message ==========
+["result",0,"update_id"]	392354603
+["result",0,"callback_query","id"]	"1615115630199819099"
+["result",0,"callback_query","from","id"]	376048411
+["result",0,"callback_query","from","is_bot"]	false
+["result",0,"callback_query","from","first_name"]	"Talgat M"
+["result",0,"callback_query","from","username"]	"M_Talgat"
+["result",0,"callback_query","from","language_code"]	"ru"
+["result",0,"callback_query","message","message_id"]	1186
+["result",0,"callback_query","message","from","id"]	6205889059
+["result",0,"callback_query","message","from","is_bot"]	true
+["result",0,"callback_query","message","from","first_name"]	"dba_almaty_bot"
+["result",0,"callback_query","message","from","username"]	"dba_almaty_bot"
+["result",0,"callback_query","message","chat","id"]	376048411
+["result",0,"callback_query","message","chat","first_name"]	"Talgat M"
+["result",0,"callback_query","message","chat","username"]	"M_Talgat"
+["result",0,"callback_query","message","chat","type"]	"private"
+["result",0,"callback_query","message","date"]	1688622862
+["result",0,"callback_query","message","text"]	"Press Button ..."
+["result",0,"callback_query","message","reply_markup","inline_keyboard",0,0,"text"]	"   Button   "
+["result",0,"callback_query","message","reply_markup","inline_keyboard",0,0,"callback_data"]	"RANDOM-BUTTON"
+["result",0,"callback_query","chat_instance"]	"5172449655454515644"
+["result",0,"callback_query","data"]	"RANDOM-BUTTON"
+
+Thu Jul  6 06:02:38 2023: DEBUG sendJson ==========
+["chat_id"]	376048411
+["text"]	"qwe"
+["reply_markup","inline_keyboard",0,0,"text"]	"txt"
+["reply_markup","inline_keyboard",0,0,"callback_data"]	"txt"
+
+Thu Jul  6 06:02:38 2023: New Result ==========
+["ok"]	true
+["result","message_id"]	1192
+["result","from","id"]	6205889059
+["result","from","is_bot"]	true
+["result","from","first_name"]	"dba_almaty_bot"
+["result","from","username"]	"dba_almaty_bot"
+["result","chat","id"]	376048411
+["result","chat","first_name"]	"Talgat M"
+["result","chat","username"]	"M_Talgat"
+["result","chat","type"]	"private"
+["result","date"]	1688623358
+["result","text"]	"qwe"
+["result","reply_markup","inline_keyboard",0,0,"text"]	"txt"
+["result","reply_markup","inline_keyboard",0,0,"callback_data"]	"txt"
+
+Thu Jul  6 06:03:02 2023: DEBUG sendJson ==========
+["chat_id"]	376048411
+["text"]	"Bot dba_almaty_bot polling mode started ..."
+
+Thu Jul  6 06:03:02 2023: New Result ==========
+["ok"]	true
+["result","message_id"]	1193
+["result","from","id"]	6205889059
+["result","from","is_bot"]	true
+["result","from","first_name"]	"dba_almaty_bot"
+["result","from","username"]	"dba_almaty_bot"
+["result","chat","id"]	376048411
+["result","chat","first_name"]	"Talgat M"
+["result","chat","username"]	"M_Talgat"
+["result","chat","type"]	"private"
+["result","date"]	1688623382
+["result","text"]	"Bot dba_almaty_bot polling mode started ..."
+
+Thu Jul  6 06:03:02 2023: DEBUG sendJson ==========
+["callback_query_id"]	"1615115629034705122"
+
+Thu Jul  6 06:03:02 2023: New Result ==========
+["ok"]	false
+["error_code"]	400
+["description"]	"Bad Request: query is too old and response timeout expired or query ID is invalid"
+
+Thu Jul  6 06:03:08 2023: DEBUG sendJson ==========
+["chat_id"]	376048411
+["text"]	"Bot dba_almaty_bot polling mode started ..."
+
+Thu Jul  6 06:03:08 2023: New Result ==========
+["ok"]	true
+["result","message_id"]	1194
+["result","from","id"]	6205889059
+["result","from","is_bot"]	true
+["result","from","first_name"]	"dba_almaty_bot"
+["result","from","username"]	"dba_almaty_bot"
+["result","chat","id"]	376048411
+["result","chat","first_name"]	"Talgat M"
+["result","chat","username"]	"M_Talgat"
+["result","chat","type"]	"private"
+["result","date"]	1688623388
+["result","text"]	"Bot dba_almaty_bot polling mode started ..."
+
+Thu Jul  6 06:03:09 2023: DEBUG sendJson ==========
+["callback_query_id"]	"1615115629034705122"
+
+Thu Jul  6 06:03:09 2023: New Result ==========
+["ok"]	false
+["error_code"]	400
+["description"]	"Bad Request: query is too old and response timeout expired or query ID is invalid"
+
+Thu Jul  6 06:08:09 2023: DEBUG sendJson ==========
+["chat_id"]	376048411
+["text"]	"Bot dba_almaty_bot polling mode started ..."
+
+Thu Jul  6 06:08:09 2023: New Result ==========
+["ok"]	true
+["result","message_id"]	1195
+["result","from","id"]	6205889059
+["result","from","is_bot"]	true
+["result","from","first_name"]	"dba_almaty_bot"
+["result","from","username"]	"dba_almaty_bot"
+["result","chat","id"]	376048411
+["result","chat","first_name"]	"Talgat M"
+["result","chat","username"]	"M_Talgat"
+["result","chat","type"]	"private"
+["result","date"]	1688623689
+["result","text"]	"Bot dba_almaty_bot polling mode started ..."
+
+Thu Jul  6 06:08:27 2023: New Message ==========
+["result",0,"update_id"]	392354607
+["result",0,"message","message_id"]	1196
+["result",0,"message","from","id"]	376048411
+["result",0,"message","from","is_bot"]	false
+["result",0,"message","from","first_name"]	"Talgat M"
+["result",0,"message","from","username"]	"M_Talgat"
+["result",0,"message","from","language_code"]	"ru"
+["result",0,"message","chat","id"]	376048411
+["result",0,"message","chat","first_name"]	"Talgat M"
+["result",0,"message","chat","username"]	"M_Talgat"
+["result",0,"message","chat","type"]	"private"
+["result",0,"message","date"]	1688623707
+["result",0,"message","text"]	"/b"
+["result",0,"message","entities",0,"offset"]	0
+["result",0,"message","entities",0,"length"]	2
+["result",0,"message","entities",0,"type"]	"bot_command"
+
+Thu Jul  6 06:08:27 2023: DEBUG sendJson ==========
+["chat_id"]	376048411
+["text"]	"command from example received: /b"
+
+Thu Jul  6 06:08:27 2023: DEBUG sendJson ==========
+["chat_id"]	376048411
+["text"]	"Press Button ..."
+["reply_markup","inline_keyboard",0,0,"text"]	"   Button   "
+["reply_markup","inline_keyboard",0,0,"callback_data"]	"RANDOM-BUTTON"
+
+Thu Jul  6 06:08:28 2023: New Result ==========
+["ok"]	true
+["result","message_id"]	1197
+["result","from","id"]	6205889059
+["result","from","is_bot"]	true
+["result","from","first_name"]	"dba_almaty_bot"
+["result","from","username"]	"dba_almaty_bot"
+["result","chat","id"]	376048411
+["result","chat","first_name"]	"Talgat M"
+["result","chat","username"]	"M_Talgat"
+["result","chat","type"]	"private"
+["result","date"]	1688623708
+["result","text"]	"command from example received: /b"
+["result","entities",0,"offset"]	31
+["result","entities",0,"length"]	2
+["result","entities",0,"type"]	"bot_command"
+
+Thu Jul  6 06:08:28 2023: New Result ==========
+["ok"]	true
+["result","message_id"]	1198
+["result","from","id"]	6205889059
+["result","from","is_bot"]	true
+["result","from","first_name"]	"dba_almaty_bot"
+["result","from","username"]	"dba_almaty_bot"
+["result","chat","id"]	376048411
+["result","chat","first_name"]	"Talgat M"
+["result","chat","username"]	"M_Talgat"
+["result","chat","type"]	"private"
+["result","date"]	1688623708
+["result","text"]	"Press Button ..."
+["result","reply_markup","inline_keyboard",0,0,"text"]	"   Button   "
+["result","reply_markup","inline_keyboard",0,0,"callback_data"]	"RANDOM-BUTTON"
+
+Thu Jul  6 06:08:35 2023: New Message ==========
+["result",0,"update_id"]	392354608
+["result",0,"message","message_id"]	1199
+["result",0,"message","from","id"]	376048411
+["result",0,"message","from","is_bot"]	false
+["result",0,"message","from","first_name"]	"Talgat M"
+["result",0,"message","from","username"]	"M_Talgat"
+["result",0,"message","from","language_code"]	"ru"
+["result",0,"message","chat","id"]	376048411
+["result",0,"message","chat","first_name"]	"Talgat M"
+["result",0,"message","chat","username"]	"M_Talgat"
+["result",0,"message","chat","type"]	"private"
+["result",0,"message","date"]	1688623715
+["result",0,"message","text"]	"ls"
+
+Thu Jul  6 06:08:37 2023: New Message ==========
+["result",0,"update_id"]	392354609
+["result",0,"message","message_id"]	1200
+["result",0,"message","from","id"]	376048411
+["result",0,"message","from","is_bot"]	false
+["result",0,"message","from","first_name"]	"Talgat M"
+["result",0,"message","from","username"]	"M_Talgat"
+["result",0,"message","from","language_code"]	"ru"
+["result",0,"message","chat","id"]	376048411
+["result",0,"message","chat","first_name"]	"Talgat M"
+["result",0,"message","chat","username"]	"M_Talgat"
+["result",0,"message","chat","type"]	"private"
+["result",0,"message","date"]	1688623717
+["result",0,"message","text"]	"/ls"
+["result",0,"message","entities",0,"offset"]	0
+["result",0,"message","entities",0,"length"]	3
+["result",0,"message","entities",0,"type"]	"bot_command"
+
+Thu Jul  6 06:08:37 2023: DEBUG sendJson ==========
+["chat_id"]	376048411
+["text"]	"command from example received: /ls"
+
+Thu Jul  6 06:08:37 2023: DEBUG sendJson ==========
+["chat_id"]	376048411
+["text"]	"`/ls\n376048411\n`  `-rw-rw-r-- 1 t.mukhametshin t.mukhametshin 126446 Jul  6 06:08 BASHBOT.log\n-rw-rw-r-- 1 t.mukhametshin t.mukhametshin   6665 Jul  6 06:08 DEBUG.log\n-rw-rw-r-- 1 t.mukhametshin t.mukhametshin  69713 Jul  6 06:03 ERROR.log\n-rw-rw-r-- 1 t.mukhametshin t.mukhametshin 126391 Jul  6 06:08 MESSAGE.log\n-rw-rw-r-- 1 t.mukhametshin t.mukhametshin   8571 Jul  6 06:03 startbot.log`"
+["parse_mode"]	"markdown"
+
+Thu Jul  6 06:08:37 2023: New Result ==========
+["ok"]	true
+["result","message_id"]	1201
+["result","from","id"]	6205889059
+["result","from","is_bot"]	true
+["result","from","first_name"]	"dba_almaty_bot"
+["result","from","username"]	"dba_almaty_bot"
+["result","chat","id"]	376048411
+["result","chat","first_name"]	"Talgat M"
+["result","chat","username"]	"M_Talgat"
+["result","chat","type"]	"private"
+["result","date"]	1688623717
+["result","text"]	"command from example received: /ls"
+["result","entities",0,"offset"]	31
+["result","entities",0,"length"]	3
+["result","entities",0,"type"]	"bot_command"
+
+Thu Jul  6 06:08:37 2023: New Result ==========
+["ok"]	true
+["result","message_id"]	1202
+["result","from","id"]	6205889059
+["result","from","is_bot"]	true
+["result","from","first_name"]	"dba_almaty_bot"
+["result","from","username"]	"dba_almaty_bot"
+["result","chat","id"]	376048411
+["result","chat","first_name"]	"Talgat M"
+["result","chat","username"]	"M_Talgat"
+["result","chat","type"]	"private"
+["result","date"]	1688623717
+["result","text"]	"/ls\n376048411\n  -rw-rw-r-- 1 t.mukhametshin t.mukhametshin 126446 Jul  6 06:08 BASHBOT.log\n-rw-rw-r-- 1 t.mukhametshin t.mukhametshin   6665 Jul  6 06:08 DEBUG.log\n-rw-rw-r-- 1 t.mukhametshin t.mukhametshin  69713 Jul  6 06:03 ERROR.log\n-rw-rw-r-- 1 t.mukhametshin t.mukhametshin 126391 Jul  6 06:08 MESSAGE.log\n-rw-rw-r-- 1 t.mukhametshin t.mukhametshin   8571 Jul  6 06:03 startbot.log"
+["result","entities",0,"offset"]	0
+["result","entities",0,"length"]	14
+["result","entities",0,"type"]	"code"
+["result","entities",1,"offset"]	16
+["result","entities",1,"length"]	371
+["result","entities",1,"type"]	"code"
+
+Thu Jul  6 06:08:37 2023: DEBUG sendJson ==========
+["chat_id"]	376048411
+["text"]	"*HI* this is a _markdown_ message \.\.\."
+["parse_mode"]	"markdownv2"
+
+Thu Jul  6 06:08:37 2023: New Result ==========
+["ok"]	true
+["result","message_id"]	1203
+["result","from","id"]	6205889059
+["result","from","is_bot"]	true
+["result","from","first_name"]	"dba_almaty_bot"
+["result","from","username"]	"dba_almaty_bot"
+["result","chat","id"]	376048411
+["result","chat","first_name"]	"Talgat M"
+["result","chat","username"]	"M_Talgat"
+["result","chat","type"]	"private"
+["result","date"]	1688623717
+["result","text"]	"HI this is a markdown message ..."
+["result","entities",0,"offset"]	0
+["result","entities",0,"length"]	2
+["result","entities",0,"type"]	"bold"
+["result","entities",1,"offset"]	13
+["result","entities",1,"length"]	8
+["result","entities",1,"type"]	"italic"
+
+Thu Jul  6 06:08:37 2023: DEBUG sendJson ==========
+["chat_id"]	376048411
+["text"]	" -  -  - "
+
+Thu Jul  6 06:08:37 2023: New Result ==========
+["ok"]	true
+["result","message_id"]	1204
+["result","from","id"]	6205889059
+["result","from","is_bot"]	true
+["result","from","first_name"]	"dba_almaty_bot"
+["result","from","username"]	"dba_almaty_bot"
+["result","chat","id"]	376048411
+["result","chat","first_name"]	"Talgat M"
+["result","chat","username"]	"M_Talgat"
+["result","chat","type"]	"private"
+["result","date"]	1688623717
+["result","text"]	"-  -  -"
+
+Thu Jul  6 06:08:37 2023: DEBUG sendJson ==========
+["chat_id"]	376048411
+["text"]	"Press Button ..."
+["reply_markup","inline_keyboard",0,0,"text"]	"   Button   "
+["reply_markup","inline_keyboard",0,0,"callback_data"]	"RANDOM-BUTTON"
+
+Thu Jul  6 06:08:37 2023: New Result ==========
+["ok"]	true
+["result","message_id"]	1205
+["result","from","id"]	6205889059
+["result","from","is_bot"]	true
+["result","from","first_name"]	"dba_almaty_bot"
+["result","from","username"]	"dba_almaty_bot"
+["result","chat","id"]	376048411
+["result","chat","first_name"]	"Talgat M"
+["result","chat","username"]	"M_Talgat"
+["result","chat","type"]	"private"
+["result","date"]	1688623717
+["result","text"]	"Press Button ..."
+["result","reply_markup","inline_keyboard",0,0,"text"]	"   Button   "
+["result","reply_markup","inline_keyboard",0,0,"callback_data"]	"RANDOM-BUTTON"
+
+Thu Jul  6 06:08:41 2023: New Message ==========
+["result",0,"update_id"]	392354610
+["result",0,"message","message_id"]	1206
+["result",0,"message","from","id"]	376048411
+["result",0,"message","from","is_bot"]	false
+["result",0,"message","from","first_name"]	"Talgat M"
+["result",0,"message","from","username"]	"M_Talgat"
+["result",0,"message","from","language_code"]	"ru"
+["result",0,"message","chat","id"]	376048411
+["result",0,"message","chat","first_name"]	"Talgat M"
+["result",0,"message","chat","username"]	"M_Talgat"
+["result",0,"message","chat","type"]	"private"
+["result",0,"message","date"]	1688623720
+["result",0,"message","text"]	"/b"
+["result",0,"message","entities",0,"offset"]	0
+["result",0,"message","entities",0,"length"]	2
+["result",0,"message","entities",0,"type"]	"bot_command"
+
+Thu Jul  6 06:08:41 2023: DEBUG sendJson ==========
+["chat_id"]	376048411
+["text"]	"command from example received: /b"
+
+Thu Jul  6 06:08:41 2023: DEBUG sendJson ==========
+["chat_id"]	376048411
+["text"]	"Press Button ..."
+["reply_markup","inline_keyboard",0,0,"text"]	"   Button   "
+["reply_markup","inline_keyboard",0,0,"callback_data"]	"RANDOM-BUTTON"
+
+Thu Jul  6 06:08:41 2023: New Result ==========
+["ok"]	true
+["result","message_id"]	1207
+["result","from","id"]	6205889059
+["result","from","is_bot"]	true
+["result","from","first_name"]	"dba_almaty_bot"
+["result","from","username"]	"dba_almaty_bot"
+["result","chat","id"]	376048411
+["result","chat","first_name"]	"Talgat M"
+["result","chat","username"]	"M_Talgat"
+["result","chat","type"]	"private"
+["result","date"]	1688623721
+["result","text"]	"command from example received: /b"
+["result","entities",0,"offset"]	31
+["result","entities",0,"length"]	2
+["result","entities",0,"type"]	"bot_command"
+
+Thu Jul  6 06:08:41 2023: New Result ==========
+["ok"]	true
+["result","message_id"]	1208
+["result","from","id"]	6205889059
+["result","from","is_bot"]	true
+["result","from","first_name"]	"dba_almaty_bot"
+["result","from","username"]	"dba_almaty_bot"
+["result","chat","id"]	376048411
+["result","chat","first_name"]	"Talgat M"
+["result","chat","username"]	"M_Talgat"
+["result","chat","type"]	"private"
+["result","date"]	1688623721
+["result","text"]	"Press Button ..."
+["result","reply_markup","inline_keyboard",0,0,"text"]	"   Button   "
+["result","reply_markup","inline_keyboard",0,0,"callback_data"]	"RANDOM-BUTTON"
+
+Thu Jul  6 06:08:42 2023: New Message ==========
+["result",0,"update_id"]	392354611
+["result",0,"callback_query","id"]	"1615115629254772443"
+["result",0,"callback_query","from","id"]	376048411
+["result",0,"callback_query","from","is_bot"]	false
+["result",0,"callback_query","from","first_name"]	"Talgat M"
+["result",0,"callback_query","from","username"]	"M_Talgat"
+["result",0,"callback_query","from","language_code"]	"ru"
+["result",0,"callback_query","message","message_id"]	1208
+["result",0,"callback_query","message","from","id"]	6205889059
+["result",0,"callback_query","message","from","is_bot"]	true
+["result",0,"callback_query","message","from","first_name"]	"dba_almaty_bot"
+["result",0,"callback_query","message","from","username"]	"dba_almaty_bot"
+["result",0,"callback_query","message","chat","id"]	376048411
+["result",0,"callback_query","message","chat","first_name"]	"Talgat M"
+["result",0,"callback_query","message","chat","username"]	"M_Talgat"
+["result",0,"callback_query","message","chat","type"]	"private"
+["result",0,"callback_query","message","date"]	1688623721
+["result",0,"callback_query","message","text"]	"Press Button ..."
+["result",0,"callback_query","message","reply_markup","inline_keyboard",0,0,"text"]	"   Button   "
+["result",0,"callback_query","message","reply_markup","inline_keyboard",0,0,"callback_data"]	"RANDOM-BUTTON"
+["result",0,"callback_query","chat_instance"]	"5172449655454515644"
+["result",0,"callback_query","data"]	"RANDOM-BUTTON"
+
+Thu Jul  6 06:08:42 2023: DEBUG sendJson ==========
+["chat_id"]	376048411
+["message_id"]	1208
+["reply_markup","inline_keyboard",0,0,"text"]	"Button 26720"
+["reply_markup","inline_keyboard",0,0,"callback_data"]	"RANDOM-BUTTON"
+
+Thu Jul  6 06:08:43 2023: New Result ==========
+["ok"]	true
+["result","message_id"]	1208
+["result","from","id"]	6205889059
+["result","from","is_bot"]	true
+["result","from","first_name"]	"dba_almaty_bot"
+["result","from","username"]	"dba_almaty_bot"
+["result","chat","id"]	376048411
+["result","chat","first_name"]	"Talgat M"
+["result","chat","username"]	"M_Talgat"
+["result","chat","type"]	"private"
+["result","date"]	1688623721
+["result","edit_date"]	1688623723
+["result","text"]	"Press Button ..."
+["result","reply_markup","inline_keyboard",0,0,"text"]	"Button 26720"
+["result","reply_markup","inline_keyboard",0,0,"callback_data"]	"RANDOM-BUTTON"
+
+Thu Jul  6 06:08:43 2023: DEBUG sendJson ==========
+["callback_query_id"]	"1615115629254772443"
+["text"]	"Button_pressed"
+
+Thu Jul  6 06:08:43 2023: New Result ==========
+["ok"]	true
+["result"]	true
+
+Thu Jul  6 06:09:02 2023: DEBUG sendJson ==========
+["chat_id"]	376048411
+["text"]	"Bot dba_almaty_bot polling mode started ..."
+
+Thu Jul  6 06:09:02 2023: New Result ==========
+["ok"]	true
+["result","message_id"]	1209
+["result","from","id"]	6205889059
+["result","from","is_bot"]	true
+["result","from","first_name"]	"dba_almaty_bot"
+["result","from","username"]	"dba_almaty_bot"
+["result","chat","id"]	376048411
+["result","chat","first_name"]	"Talgat M"
+["result","chat","username"]	"M_Talgat"
+["result","chat","type"]	"private"
+["result","date"]	1688623742
+["result","text"]	"Bot dba_almaty_bot polling mode started ..."
+
+Thu Jul  6 06:09:02 2023: New Message ==========
+["result",0,"update_id"]	392354611
+["result",0,"callback_query","id"]	"1615115629254772443"
+["result",0,"callback_query","from","id"]	376048411
+["result",0,"callback_query","from","is_bot"]	false
+["result",0,"callback_query","from","first_name"]	"Talgat M"
+["result",0,"callback_query","from","username"]	"M_Talgat"
+["result",0,"callback_query","from","language_code"]	"ru"
+["result",0,"callback_query","message","message_id"]	1208
+["result",0,"callback_query","message","from","id"]	6205889059
+["result",0,"callback_query","message","from","is_bot"]	true
+["result",0,"callback_query","message","from","first_name"]	"dba_almaty_bot"
+["result",0,"callback_query","message","from","username"]	"dba_almaty_bot"
+["result",0,"callback_query","message","chat","id"]	376048411
+["result",0,"callback_query","message","chat","first_name"]	"Talgat M"
+["result",0,"callback_query","message","chat","username"]	"M_Talgat"
+["result",0,"callback_query","message","chat","type"]	"private"
+["result",0,"callback_query","message","date"]	1688623721
+["result",0,"callback_query","message","text"]	"Press Button ..."
+["result",0,"callback_query","message","reply_markup","inline_keyboard",0,0,"text"]	"   Button   "
+["result",0,"callback_query","message","reply_markup","inline_keyboard",0,0,"callback_data"]	"RANDOM-BUTTON"
+["result",0,"callback_query","chat_instance"]	"5172449655454515644"
+["result",0,"callback_query","data"]	"RANDOM-BUTTON"
+
+Thu Jul  6 06:09:03 2023: DEBUG sendJson ==========
+["chat_id"]	376048411
+["message_id"]	1208
+["reply_markup","inline_keyboard",0,0,"text"]	"Button 29755"
+["reply_markup","inline_keyboard",0,0,"callback_data"]	"RANDOM-BUTTON"
+
+Thu Jul  6 06:09:03 2023: New Result ==========
+["ok"]	true
+["result","message_id"]	1208
+["result","from","id"]	6205889059
+["result","from","is_bot"]	true
+["result","from","first_name"]	"dba_almaty_bot"
+["result","from","username"]	"dba_almaty_bot"
+["result","chat","id"]	376048411
+["result","chat","first_name"]	"Talgat M"
+["result","chat","username"]	"M_Talgat"
+["result","chat","type"]	"private"
+["result","date"]	1688623721
+["result","edit_date"]	1688623743
+["result","text"]	"Press Button ..."
+["result","reply_markup","inline_keyboard",0,0,"text"]	"Button 29755"
+["result","reply_markup","inline_keyboard",0,0,"callback_data"]	"RANDOM-BUTTON"
+
+Thu Jul  6 06:09:03 2023: DEBUG sendJson ==========
+["callback_query_id"]	"1615115629254772443"
+["text"]	"Button_pressed"
+
+Thu Jul  6 06:09:03 2023: New Result ==========
+["ok"]	false
+["error_code"]	400
+["description"]	"Bad Request: query is too old and response timeout expired or query ID is invalid"
+
+Thu Jul  6 06:09:48 2023: DEBUG sendJson ==========
+["chat_id"]	376048411
+["text"]	"Bot dba_almaty_bot polling mode started ..."
+
+Thu Jul  6 06:09:48 2023: New Result ==========
+["ok"]	true
+["result","message_id"]	1210
+["result","from","id"]	6205889059
+["result","from","is_bot"]	true
+["result","from","first_name"]	"dba_almaty_bot"
+["result","from","username"]	"dba_almaty_bot"
+["result","chat","id"]	376048411
+["result","chat","first_name"]	"Talgat M"
+["result","chat","username"]	"M_Talgat"
+["result","chat","type"]	"private"
+["result","date"]	1688623788
+["result","text"]	"Bot dba_almaty_bot polling mode started ..."
+
+Thu Jul  6 06:09:48 2023: New Message ==========
+["result",0,"update_id"]	392354611
+["result",0,"callback_query","id"]	"1615115629254772443"
+["result",0,"callback_query","from","id"]	376048411
+["result",0,"callback_query","from","is_bot"]	false
+["result",0,"callback_query","from","first_name"]	"Talgat M"
+["result",0,"callback_query","from","username"]	"M_Talgat"
+["result",0,"callback_query","from","language_code"]	"ru"
+["result",0,"callback_query","message","message_id"]	1208
+["result",0,"callback_query","message","from","id"]	6205889059
+["result",0,"callback_query","message","from","is_bot"]	true
+["result",0,"callback_query","message","from","first_name"]	"dba_almaty_bot"
+["result",0,"callback_query","message","from","username"]	"dba_almaty_bot"
+["result",0,"callback_query","message","chat","id"]	376048411
+["result",0,"callback_query","message","chat","first_name"]	"Talgat M"
+["result",0,"callback_query","message","chat","username"]	"M_Talgat"
+["result",0,"callback_query","message","chat","type"]	"private"
+["result",0,"callback_query","message","date"]	1688623721
+["result",0,"callback_query","message","text"]	"Press Button ..."
+["result",0,"callback_query","message","reply_markup","inline_keyboard",0,0,"text"]	"   Button   "
+["result",0,"callback_query","message","reply_markup","inline_keyboard",0,0,"callback_data"]	"RANDOM-BUTTON"
+["result",0,"callback_query","chat_instance"]	"5172449655454515644"
+["result",0,"callback_query","data"]	"RANDOM-BUTTON"
+
+Thu Jul  6 06:09:48 2023: DEBUG sendJson ==========
+["chat_id"]	376048411
+["message_id"]	1208
+["reply_markup","inline_keyboard",0,0,"text"]	"Button 7807"
+["reply_markup","inline_keyboard",0,0,"callback_data"]	"RANDOM-BUTTON"
+
+Thu Jul  6 06:09:48 2023: New Result ==========
+["ok"]	true
+["result","message_id"]	1208
+["result","from","id"]	6205889059
+["result","from","is_bot"]	true
+["result","from","first_name"]	"dba_almaty_bot"
+["result","from","username"]	"dba_almaty_bot"
+["result","chat","id"]	376048411
+["result","chat","first_name"]	"Talgat M"
+["result","chat","username"]	"M_Talgat"
+["result","chat","type"]	"private"
+["result","date"]	1688623721
+["result","edit_date"]	1688623788
+["result","text"]	"Press Button ..."
+["result","reply_markup","inline_keyboard",0,0,"text"]	"Button 7807"
+["result","reply_markup","inline_keyboard",0,0,"callback_data"]	"RANDOM-BUTTON"
+
+Thu Jul  6 06:09:48 2023: DEBUG sendJson ==========
+["callback_query_id"]	"1615115629254772443"
+["text"]	"Button_pressed"
+
+Thu Jul  6 06:09:48 2023: New Result ==========
+["ok"]	false
+["error_code"]	400
+["description"]	"Bad Request: query is too old and response timeout expired or query ID is invalid"
+
+Thu Jul  6 06:13:42 2023: DEBUG sendJson ==========
+["chat_id"]	376048411
+["text"]	"Bot dba_almaty_bot polling mode started ..."
+
+Thu Jul  6 06:13:42 2023: New Result ==========
+["ok"]	true
+["result","message_id"]	1211
+["result","from","id"]	6205889059
+["result","from","is_bot"]	true
+["result","from","first_name"]	"dba_almaty_bot"
+["result","from","username"]	"dba_almaty_bot"
+["result","chat","id"]	376048411
+["result","chat","first_name"]	"Talgat M"
+["result","chat","username"]	"M_Talgat"
+["result","chat","type"]	"private"
+["result","date"]	1688624022
+["result","text"]	"Bot dba_almaty_bot polling mode started ..."
+
+Mon Jul 10 05:27:03 2023: New Message ==========
+["result",0,"update_id"]	392354612
+["result",0,"message","message_id"]	1212
+["result",0,"message","from","id"]	376048411
+["result",0,"message","from","is_bot"]	false
+["result",0,"message","from","first_name"]	"Talgat M"
+["result",0,"message","from","username"]	"M_Talgat"
+["result",0,"message","from","language_code"]	"ru"
+["result",0,"message","chat","id"]	376048411
+["result",0,"message","chat","first_name"]	"Talgat M"
+["result",0,"message","chat","username"]	"M_Talgat"
+["result",0,"message","chat","type"]	"private"
+["result",0,"message","date"]	1688966819
+["result",0,"message","text"]	"/help"
+["result",0,"message","entities",0,"offset"]	0
+["result",0,"message","entities",0,"length"]	5
+["result",0,"message","entities",0,"type"]	"bot_command"
+
+Mon Jul 10 05:27:03 2023: DEBUG sendJson ==========
+["chat_id"]	376048411
+["text"]	"command from example received: /help"
+
+Mon Jul 10 05:27:03 2023: DEBUG sendJson ==========
+["chat_id"]	376048411
+["text"]	"\n*Команды*:\n*• /start*: Start bot.\n*• /help*: Help message.\nБот `@dba_almaty_bot` для различных уведомлений\n"
+["parse_mode"]	"markdown"
+
+Mon Jul 10 05:27:03 2023: New Result ==========
+["ok"]	true
+["result","message_id"]	1213
+["result","from","id"]	6205889059
+["result","from","is_bot"]	true
+["result","from","first_name"]	"dba_almaty_bot"
+["result","from","username"]	"dba_almaty_bot"
+["result","chat","id"]	376048411
+["result","chat","first_name"]	"Talgat M"
+["result","chat","username"]	"M_Talgat"
+["result","chat","type"]	"private"
+["result","date"]	1688966823
+["result","text"]	"command from example received: /help"
+["result","entities",0,"offset"]	31
+["result","entities",0,"length"]	5
+["result","entities",0,"type"]	"bot_command"
+
+Mon Jul 10 05:27:03 2023: New Result ==========
+["ok"]	true
+["result","message_id"]	1214
+["result","from","id"]	6205889059
+["result","from","is_bot"]	true
+["result","from","first_name"]	"dba_almaty_bot"
+["result","from","username"]	"dba_almaty_bot"
+["result","chat","id"]	376048411
+["result","chat","first_name"]	"Talgat M"
+["result","chat","username"]	"M_Talgat"
+["result","chat","type"]	"private"
+["result","date"]	1688966823
+["result","text"]	"\u041a\u043e\u043c\u0430\u043d\u0434\u044b:\n\u2022 /start: Start bot.\n\u2022 /help: Help message.\n\u0411\u043e\u0442 @dba_almaty_bot \u0434\u043b\u044f \u0440\u0430\u0437\u043b\u0438\u0447\u043d\u044b\u0445 \u0443\u0432\u0435\u0434\u043e\u043c\u043b\u0435\u043d\u0438\u0439"
+["result","entities",0,"offset"]	0
+["result","entities",0,"length"]	7
+["result","entities",0,"type"]	"bold"
+["result","entities",1,"offset"]	9
+["result","entities",1,"length"]	2
+["result","entities",1,"type"]	"bold"
+["result","entities",2,"offset"]	11
+["result","entities",2,"length"]	6
+["result","entities",2,"type"]	"bot_command"
+["result","entities",3,"offset"]	11
+["result","entities",3,"length"]	6
+["result","entities",3,"type"]	"bold"
+["result","entities",4,"offset"]	30
+["result","entities",4,"length"]	2
+["result","entities",4,"type"]	"bold"
+["result","entities",5,"offset"]	32
+["result","entities",5,"length"]	5
+["result","entities",5,"type"]	"bot_command"
+["result","entities",6,"offset"]	32
+["result","entities",6,"length"]	5
+["result","entities",6,"type"]	"bold"
+["result","entities",7,"offset"]	57
+["result","entities",7,"length"]	15
+["result","entities",7,"type"]	"code"
+
+Mon Jul 10 05:27:07 2023: New Message ==========
+["result",0,"update_id"]	392354613
+["result",0,"message","message_id"]	1215
+["result",0,"message","from","id"]	376048411
+["result",0,"message","from","is_bot"]	false
+["result",0,"message","from","first_name"]	"Talgat M"
+["result",0,"message","from","username"]	"M_Talgat"
+["result",0,"message","from","language_code"]	"ru"
+["result",0,"message","chat","id"]	376048411
+["result",0,"message","chat","first_name"]	"Talgat M"
+["result",0,"message","chat","username"]	"M_Talgat"
+["result",0,"message","chat","type"]	"private"
+["result",0,"message","date"]	1688966827
+["result",0,"message","text"]	"/start"
+["result",0,"message","entities",0,"offset"]	0
+["result",0,"message","entities",0,"length"]	6
+["result",0,"message","entities",0,"type"]	"bot_command"
+
+Mon Jul 10 05:27:07 2023: DEBUG sendJson ==========
+["chat_id"]	376048411
+["text"]	"command from example received: /start"
+
+Mon Jul 10 05:27:07 2023: DEBUG sendJson ==========
+["chat_id"]	376048411
+["action"]	"typing"
+
+Mon Jul 10 05:27:07 2023: DEBUG sendJson ==========
+["chat_id"]	376048411
+["text"]	"You are *BOTADMIN*\.\nPlace your commands and messages in _mycommands\.sh_"
+["parse_mode"]	"markdownv2"
+
+Mon Jul 10 05:27:07 2023: New Result ==========
+["ok"]	true
+["result","message_id"]	1216
+["result","from","id"]	6205889059
+["result","from","is_bot"]	true
+["result","from","first_name"]	"dba_almaty_bot"
+["result","from","username"]	"dba_almaty_bot"
+["result","chat","id"]	376048411
+["result","chat","first_name"]	"Talgat M"
+["result","chat","username"]	"M_Talgat"
+["result","chat","type"]	"private"
+["result","date"]	1688966827
+["result","text"]	"command from example received: /start"
+["result","entities",0,"offset"]	31
+["result","entities",0,"length"]	6
+["result","entities",0,"type"]	"bot_command"
+
+Mon Jul 10 05:27:07 2023: New Result ==========
+["ok"]	true
+["result"]	true
+
+Mon Jul 10 05:27:08 2023: New Result ==========
+["ok"]	true
+["result","message_id"]	1217
+["result","from","id"]	6205889059
+["result","from","is_bot"]	true
+["result","from","first_name"]	"dba_almaty_bot"
+["result","from","username"]	"dba_almaty_bot"
+["result","chat","id"]	376048411
+["result","chat","first_name"]	"Talgat M"
+["result","chat","username"]	"M_Talgat"
+["result","chat","type"]	"private"
+["result","date"]	1688966828
+["result","text"]	"You are BOTADMIN.\nPlace your commands and messages in mycommands.sh"
+["result","entities",0,"offset"]	8
+["result","entities",0,"length"]	8
+["result","entities",0,"type"]	"bold"
+["result","entities",1,"offset"]	54
+["result","entities",1,"length"]	13
+["result","entities",1,"type"]	"url"
+["result","entities",2,"offset"]	54
+["result","entities",2,"length"]	13
+["result","entities",2,"type"]	"italic"
+
+Mon Jul 10 05:27:08 2023: DEBUG sendJson ==========
+["chat_id"]	376048411
+["text"]	"\n*Команды*:\n*• /start*: Start bot.\n*• /help*: Help message.\nБот `@dba_almaty_bot` для различных уведомлений\n"
+["parse_mode"]	"markdown"
+
+Mon Jul 10 05:27:08 2023: New Result ==========
+["ok"]	true
+["result","message_id"]	1218
+["result","from","id"]	6205889059
+["result","from","is_bot"]	true
+["result","from","first_name"]	"dba_almaty_bot"
+["result","from","username"]	"dba_almaty_bot"
+["result","chat","id"]	376048411
+["result","chat","first_name"]	"Talgat M"
+["result","chat","username"]	"M_Talgat"
+["result","chat","type"]	"private"
+["result","date"]	1688966828
+["result","text"]	"\u041a\u043e\u043c\u0430\u043d\u0434\u044b:\n\u2022 /start: Start bot.\n\u2022 /help: Help message.\n\u0411\u043e\u0442 @dba_almaty_bot \u0434\u043b\u044f \u0440\u0430\u0437\u043b\u0438\u0447\u043d\u044b\u0445 \u0443\u0432\u0435\u0434\u043e\u043c\u043b\u0435\u043d\u0438\u0439"
+["result","entities",0,"offset"]	0
+["result","entities",0,"length"]	7
+["result","entities",0,"type"]	"bold"
+["result","entities",1,"offset"]	9
+["result","entities",1,"length"]	2
+["result","entities",1,"type"]	"bold"
+["result","entities",2,"offset"]	11
+["result","entities",2,"length"]	6
+["result","entities",2,"type"]	"bot_command"
+["result","entities",3,"offset"]	11
+["result","entities",3,"length"]	6
+["result","entities",3,"type"]	"bold"
+["result","entities",4,"offset"]	30
+["result","entities",4,"length"]	2
+["result","entities",4,"type"]	"bold"
+["result","entities",5,"offset"]	32
+["result","entities",5,"length"]	5
+["result","entities",5,"type"]	"bot_command"
+["result","entities",6,"offset"]	32
+["result","entities",6,"length"]	5
+["result","entities",6,"type"]	"bold"
+["result","entities",7,"offset"]	57
+["result","entities",7,"length"]	15
+["result","entities",7,"type"]	"code"

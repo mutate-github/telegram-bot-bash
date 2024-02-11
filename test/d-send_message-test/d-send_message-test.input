@@ -1,0 +1,26 @@
+# test for text only output
+This is a normal text
+This is a normal text mynewlinestartshere with a line break
+html_parse_mode This is a <b>HTML</b> text
+html_parse_mode This is a <b>HTML</b> text mynewlinestartshere with a line break
+markdown_parse_mode This is a *MARKDOWN* text
+markdown_parse_mode This is a *MARKDOWN* text mynewlinestartshere with a line break
+
+# test for keyboard, file, venue output
+Text plus keyboard will appear in chat mykeyboardstartshere [ "Yep, sure" , "No, highly unlikely" ]
+Text plus location will appear in chat mylatstartshere la10 mylongstartshere lo20
+Text plus vuene will appear in chat mylatstartshere la10 mylongstartshere lo20 mytitlestartshere my home myaddressstartshere Diagon Alley N. 37
+
+# test for new inline button
+Text plus keyboard will appear in chat mybtextstartshere Button Text myburlstartshere https://www...
+STABILO 88/240 Fineliner point 88 mynewlinestartshere mynewlinestartshere [https://images-na.ssl-images-amazon.com/images/I/41oypA3kmHL.l_SX300.jpg] mynewlinestartshere mybtextstartshere Bei Amazon ansehen ... myburlstartshere https://www.amazon.de/dp/B014TN3JYW mytextstartshere second part of text mynewlinestartshere plus newline.
+
+# test for sendfile
+Text plus absolute file will appear in chat myfilelocationstartshere /tmp/allowed/this_is_my.gif
+Text plus absolute file will appear in chat myfilelocationstartshere /tmp/allowed/this_is_my.doc
+Text plus relative file will appear in chat myfilelocationstartshere this_is_my.gif
+Text plus relative file will appear in chat myfilelocationstartshere this_is_my.doc
+THIS IS OUTSIDE allowed myfilelocationstartshere /home/user/NOTallowed/this_is_my.dif
+THIS DOES NOT EXIST myfilelocationstartshere /tmp/allowed/this_does_not_exist.gif
+THIS DOES NOT EXIST myfilelocationstartshere this_does_not_exist.gif
+
